@@ -1,0 +1,30 @@
+Target:	LP_229_30
+Observation start (UT): 2020-09-17 11:33:56
+Observation end (UT):	2020-09-17 13:50:10
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	108
+
+
+Target:	LP_647-13
+Observation start (UT): 2020-09-17 13:57:23
+Observation end (UT):	2020-09-17 20:53:57
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	305
+
+
+
+Bias:		202000917-001bias.fits to 202000917-010bias.fits
+		
+Dark:	
+	60s	202000917-001d60s.fits to 202000917-010d60s.fits
+
+Flat:	5s	202000917-001eden.fits to 202000917-010eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: UT 11:30 - 13:21 thin cloud, 13:21 - 13:51 cloudy, 14:46 - 17:49 thin cloud, 20:32 - 20:40 thin cloud

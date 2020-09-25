@@ -1,0 +1,29 @@
+-----------------
+input parameters
+-----------------
+['/home/altsai/project/20190801.NCU.Prof.Chen/data/eden/data/modify_header_eden.py']
+Your will modify header for: 2MUCD10014 [RA] 00 19 45.8356 [Dec] +52 13 17.5840 [Filter] GG495
+---------------
+folder: LOT2019018
+will update fits in: LOT2019018_mod
+ ---------------------------
+ Exame Fits Header for Bias
+ ---------------------------
+find ./LOT2019018/bias-dark/ | grep 'fits\|fts'|sort 
+found 0 Bias
+no files in ./bias-dark/
+ ---------------------------
+ Exame Fits Header for Flat
+ ---------------------------
+find ./LOT2019018/ | grep flat/ | grep -E 'fits|fts'|sort -t'-' -k2.4,2.6 
+found 0 Flat
+no files in ./flat/
+ ---------------------------
+ Update Fits Header for Science Target
+ ---------------------------
+find ./LOT2019018/wchen/ | grep 'fits\|fts'  |sort
+found 0 Target
+
+...update header...
+...move updated fits files to LOT2019018_mod/...
+...finish...

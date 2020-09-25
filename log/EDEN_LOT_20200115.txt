@@ -1,0 +1,29 @@
+Target:	LSPM_J0510+2714
+Observation start (UT): 2020-01-15 12:46:12
+Observation end (UT):	2020-01-15 18:43:15
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 30sec
+Frames:	471
+
+Target: LP_310-34
+Observation start (UT): 2020-01-15 18:53:29
+Observation end (UT):   2020-01-15 21:47:17
+Camera: SOPHIA
+Filter: GG495
+Exptime(s): 60sec
+Frames: 140
+
+
+Bias:		
+		None
+
+Dark:		
+		None
+
+Flat:	5S	20200115_flat-001eden.fits to 20200115_flat-005eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear all night.

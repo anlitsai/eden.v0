@@ -1,0 +1,26 @@
+Target:	2MUCD11188
+Observation start (UT): 2020-05-04 12:31:43
+Observation end (UT):	2020-05-04 18:00:58
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	259
+
+
+Bias:		
+		Bias-20200504@212236-000S.fts to Bias-20200504@222419-000S.fts
+		
+Dark:		
+	5S	Dark-20200504@212317-005S.fts to Dark-20200504@212435-005S.fts, Dark-20200504@222427-005S.fts to Dark-20200504@222617-005S.fts
+	10S	Dark-20200504@212444-010S.fts to Dark-20200504@212649-010S.fts, Dark-20200504@222630-010S.fts to Dark-20200504@222902-010S.fts
+	30S	Dark-20200504@212704-030S.fts to Dark-20200504@213205-030S.fts, Dark-20200504@222920-030S.fts to Dark-20200504@223452-030S.fts
+	60S	Dark-20200503@223540-060S.fts to Dark-20200503@224543-060S.fts, Dark-20200504@223531-060S.fts to Dark-20200504@224534-060S.fts
+	300S	Dark-20200504@213240-300S.fts to Dark-20200504@221812-300S.fts, Dark-20200504@224641-300S.fts to Dark-20200504@233243-300S.fts
+
+Flat:
+	5S	20200504_flat-001eden.fits to 20200504_flat-005eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear all night.

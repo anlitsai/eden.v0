@@ -1,0 +1,29 @@
+Target:	LP_310-34
+Observation start (UT): 2020-02-25 11:11:11
+Observation end (UT):	2020-02-25 12:40:45
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	72
+
+Target: LSPM_J1055+0808
+Observation start (UT): 2020-02-25 12:46:56
+Observation end (UT):   2020-02-25 21:18:59
+Camera: SOPHIA
+Filter: GG495
+Exptime(s): 60sec
+Frames: 404
+
+
+Bias:		
+		Bias-20200225@221727-000S.fts to Bias-20200225@221829-000S.fts
+		
+Dark:		
+	60S	Dark-20200225@221837-060S.fts to Dark-20200225@222840-060S.fts
+
+Flat:	None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is unstable all night.

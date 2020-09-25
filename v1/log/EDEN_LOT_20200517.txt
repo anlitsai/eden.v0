@@ -1,0 +1,31 @@
+Target:	LP_388-55
+Observation start (UT): 2020-05-17 14:39:52
+Observation end (UT):	2020-05-17 19:27:05
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	229
+
+Target:	LP_326-21
+Observation start (UT): 2020-05-17 12:02:03
+Observation end (UT):	2020-05-17 12:59:23
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	34
+
+
+
+
+Bias:		Bias-20200517@212212-000S.fts to Bias-20200517@212315-000S.fts
+		
+Dark:	60S	Dark-20200517@213854-060S.fts to Dark-20200517@214857-060S.fts
+
+Flat:	20S	202005017_flat-001eden.fits to 202005017_flat-005eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  observed after 12:00 UT with thin cloud passed, clear between 15:12 to 17:15 and after 19:25 UT.
+
+

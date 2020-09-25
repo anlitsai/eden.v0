@@ -1,0 +1,19 @@
+Target:	no
+Observation start (UT): 
+Observation end (UT):	
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 
+Frames:	0
+
+
+Bias:		Bias-20200920@213905-000S.fts to Bias-20200920@214012-000S.fts
+		
+Dark:		None
+
+Flat:	5s	202000920_skyflat-001eden.fits to 202000920_skyflat-010eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: clear after UT15:30

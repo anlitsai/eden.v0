@@ -1,0 +1,22 @@
+Target:	2MUCD10014
+Observation start (UT):	11:31:10
+Observation end (UT):	19:45:45
+Camera:	SOPHIA
+Filter:	Eden GG495
+Exptime(s): 200s, 120s, 60s
+Frames:	136
+
+Bias:	
+		Bias-20190918@213812-000S.fts to Bias-20190918@213916-000S.fts
+
+Dark:	
+	60s	Dark-20190918@213923-060S.fts to Dark-20190918@214925-060S.fts
+	100s	Dark-20190918@215033-100S.fts to Dark-20190918@220634-100S.fts
+	120s	Dark-20190918@220822-120S.fts to Dark-20190918@222724-120S.fts
+	200s	Dark-20190918@222932-200S.fts to Dark-20190918@230034-200S.fts
+	240s	Dark-20190918@230402-240S.fts to Dark-20190918@234104-240S.fts
+	300s	Dark-20190918@234513-300S.fts to Dark-20190919@003113-300S.fts
+
+Flat:	N/A
+
+Weather report: None

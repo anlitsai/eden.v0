@@ -1,0 +1,15 @@
+Bucket successfully loaded! eden-data
+7 files found
+Storing data to the S3 archive!
+We can now start uploading the data.
+Press return to start the upload, or anything else to abort: Verbose output enabled.
+Storing LOT20200418_no_target_mod/20200418-001eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-04-18/20200418-001eden.fits (1/7)
+Storing LOT20200418_no_target_mod/20200418-002eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-04-18/20200418-002eden.fits (2/7)
+Storing LOT20200418_no_target_mod/20200418-003eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-04-18/20200418-003eden.fits (3/7)
+Storing LOT20200418_no_target_mod/20200418-004eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-04-18/20200418-004eden.fits (4/7)
+Storing LOT20200418_no_target_mod/20200418-005eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-04-18/20200418-005eden.fits (5/7)
+Storing LOT20200418_no_target_mod/20200418-006eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-04-18/20200418-006eden.fits (6/7)
+Storing LOT20200418_no_target_mod/20200418-007eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-04-18/20200418-007eden.fits (7/7)
+
+Upload complete!
+Stored: 7 files (0.1 GB)

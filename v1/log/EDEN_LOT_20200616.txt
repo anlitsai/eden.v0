@@ -1,0 +1,21 @@
+Target:	LP_335-12
+Observation start (UT): 2020-06-16 12:37:46
+Observation end (UT):	2020-06-16 19:17:56
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	332
+
+
+
+Bias:		Bias-20200616@194820-000S.fts to Bias-20200616@194925-000S.fts
+		
+Dark:	
+	60s	Dark-20200616@195133-060S.fts to Dark-20200616@200136-060S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report: sky is clear all night

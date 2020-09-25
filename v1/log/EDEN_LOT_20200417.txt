@@ -1,0 +1,29 @@
+Target:	2MUCD11188
+Observation start (UT): 2020-04-17 12:26:38
+Observation end (UT):	2020-04-17 20:41:56
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	122 stable, 230 unstable.
+122 frames are taken for 2MUCD_11188 with exposure time of 60sec before UT15:45 with clear sky. 230 frames are taken for 2MUCD_11188 with exposure time of 60sec after UT15:45 with cloudy sky. 
+
+
+Bias:		
+		Bias-20200417@204750-000S.fts to Bias-20200417@225202-000S.fts
+		
+Dark:		
+	1S	Dark-20200417@204831-001S.fts to Dark-20200417@204914-001S.fts
+	3S	Dark-20200417@204920-003S.fts to Dark-20200417@205018-003S.fts
+	5S	Dark-20200417@205026-005S.fts to Dark-20200417@205143-005S.fts
+	10S	Dark-20200417@205152-010S.fts to Dark-20200417@205355-010S.fts
+	30S	Dark-20200417@205411-030S.fts to Dark-20200417@205911-030S.fts
+	60S	Dark-20200417@225211-060S.fts to Dark-20200417@230213-060S.fts
+	300S	Dark-20200417@205947-300S.fts to Dark-20200417@214518-300S.fts
+	360S	Dark-20200417@215024-360S.fts to Dark-20200417@224456-360S.fts
+
+Flat:	None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear clear before UT15:45 and sometimes cloud pass after midnight.

@@ -1,0 +1,22 @@
+Target:	LSPM_J0510+2714
+Observation start (UT): 2019-12-24 10:52:16
+Observation end (UT):	2019-12-24 17:06:12
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 30sec
+Frames:	463
+
+
+Bias:		
+		Bias-20191224@182857-000S.fts to Bias-20191224@183002-000S.fts to Bias-20191208@203059-000S.fts
+		
+Dark:		
+	5S	Dark-20191224@183011-005S.fts to Dark-20191224@183159-005S.fts
+	30S	Dark-20191224@183213-030S.fts to Dark-20191224@183744-030S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  clear all night but hi wind speed after UT15:50

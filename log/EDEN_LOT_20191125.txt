@@ -1,0 +1,22 @@
+Target:	2MASS_J0314+1603
+Observation start (UT):	2019-11-25 11:26:53
+Observation end (UT):	2019-11-25 15:42:13
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	166
+
+Bias:	
+		Bias-20191125@201157-000S.fts to Bias-20191125@201258-000S.fts
+
+Dark:	
+	60S	Dark-20191125@201306-060S.fts to Dark-20191125@202307-060S.fts
+	120S	Dark-20191125@202415-120S.fts to Dark-20191125@204318-120S.fts
+	240S	Dark-20191125@204527-240S.fts to Dark-20191125@212229-240S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report: unstable all night

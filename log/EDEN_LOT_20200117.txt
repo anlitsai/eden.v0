@@ -1,0 +1,35 @@
+Target:	LSPM_J0510+2714
+Observation start (UT): 2020-01-17 11:19:49
+Observation end (UT):	2020-01-17 13:36:37
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 30sec
+Frames:	181
+
+Target: LP_310-34
+Observation start (UT): 2020-01-17 13:44:36
+Observation end (UT):   2020-01-17 19:18:01
+Camera: SOPHIA
+Filter: GG495
+Exptime(s): 60sec
+Frames: 259
+
+
+Bias:		
+		Bias-20200117@203031-000S.fts to Bias-20200117@203134-000S.fts
+		
+Dark:		
+	5S	Dark-20200117@203142-005S.fts to Dark-20200117@203332-005S.fts
+	10S	Dark-20200117@203346-010S.fts to Dark-20200117@203616-010S.fts
+	20S	Dark-20200117@204246-020S.fts to Dark-20200117@204647-020S.fts
+	30S	Dark-20200117@203712-030S.fts to Dark-20200117@204208-030S.fts
+	60S	Dark-20200117@204715-060S.fts to Dark-20200117@205719-060S.fts
+	180S	Dark-20200117@214437-180S.fts to Dark-20200117@221241-180S.fts
+	270S	Dark-20200117@205827-270S.fts to Dark-20200117@213958-270S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear before UT18:00

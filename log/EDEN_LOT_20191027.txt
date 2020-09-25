@@ -1,0 +1,22 @@
+Target:	LSPM_J0419+4233
+Observation start (UT):	2019-10-27 13:54:48
+Observation end (UT):	2019-10-27 19:49:26
+Camera:	SOPHIA
+Filter:	Eden GG495
+Exptime(s): 60s
+Frames:	278
+
+Bias:	
+		Bias-20191027@205910-000S.fts to Bias-20191027@210016-000S.fts
+
+Dark:	
+	100S	Dark-20191027@210024-100S.fts
+
+Flat:	None
+
+Additional Dark for Flat:	None
+	
+	
+
+
+Weather report: clear between UT 12:30 - 20:32 and unstable after 19:22

@@ -1,0 +1,30 @@
+Target:	LP_310-34
+Observation start (UT): 2020-02-15 10:59:51
+Observation end (UT):	2020-02-15 12:36:31
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	67
+
+Target: LSPM_J1055+0808
+Observation start (UT): 2020-02-15 12:43:44
+Observation end (UT):   2020-02-15 21:26:44
+Camera: SOPHIA
+Filter: GG495
+Exptime(s): 60sec
+Frames: 369
+
+
+Bias:		
+		Bias-20200215@221035-000S.fts to Bias-20200215@221139-000S.fts
+		
+Dark:		
+	5S	Dark-20200215@221147-005S.fts to Dark-20200215@221335-005S.fts
+	60S	Dark-20200215@221348-060S.fts to Dark-20200215@222349-060S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear but there is cloud pass around UT1630 - 1720.

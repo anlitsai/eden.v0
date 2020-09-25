@@ -1,0 +1,30 @@
+Target:	None
+Observation start (UT):	2019-10-28
+Observation end (UT):	2019-10-28
+Camera:	SOPHIA
+Filter:	None
+Exptime(s): None
+Frames:	0
+
+Bias:	
+		Bias-20191028@214501-000S.fts to Bias-20191028@214605-000S.fts
+
+Dark:	
+	5S	Dark-20191028@214613-005S.fts to Dark-20191028@214800-005S.fts
+	15S	Dark-20191028@214812-015S.fts to Dark-20191028@215129-015S.fts
+	30S	Dark-20191028@215152-030S.fts to Dark-20191028@215723-030S.fts
+	60S	Dark-20191028@215801-060S.fts to Dark-20191028@220802-060S.fts
+	100S	Dark-20191028@220910-100S.fts to Dark-20191028@222511-100S.fts
+	120S	Dark-20191028@222659-120S.fts to Dark-20191028@224601-120S.fts
+	180S	Dark-20191028@224808-180S.fts to Dark-20191028@231611-180S.fts
+	300S	Dark-20191028@231919-300S.fts to Dark-20191029@000522-300S.fts
+	360S	Dark-20191029@001030-360S.fts to Dark-20191029@010532-360S.fts
+
+Flat:	None
+
+Additional Dark for Flat:	None
+	
+	
+
+
+Weather report: None

@@ -1,0 +1,26 @@
+Target:	2MASS_J0314+1603
+Observation start (UT):	2019-11-27 18:55:39
+Observation end (UT):	2019-11-27 19:35:41
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	33
+
+Bias:	
+		Bias-20191127@210458-000S.fts to Bias-20191127@210602-000S.fts
+
+Dark:	
+	5S	Dark-20191127@210610-005S.fts to Dark-20191127@210756-005S.fts
+	10S	Dark-20191127@210809-010S.fts to Dark-20191127@211040-010S.fts
+	20S	Dark-20191127@211058-020S.fts to Dark-20191127@211459-020S.fts
+	30S	Dark-20191127@211527-030S.fts to Dark-20191127@212059-030S.fts
+	60S	Dark-20191127@212137-060S.fts to Dark-20191127@213138-060S.fts
+	120S	Dark-20191127@213246-120S.fts to Dark-20191127@215147-120S.fts
+	240S	Dark-20191127@215355-240S.fts to Dark-20191127@223055-240S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report: clear between 18:30 to 19:37 UT

@@ -1,0 +1,25 @@
+Target:	LSPM_J0510+2714
+Observation start (UT): 2019-12-26 10:40:32
+Observation end (UT):	2019-12-26 19:30:09
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 30sec
+Frames:	463
+
+
+Bias:		
+		Bias-20191226@212457-000S.fts to Bias-20191226@212603-000S.fts to Bias-20191208@203059-000S.fts
+		
+Dark:		
+	5S	Dark-20191226@212611-005S.fts to Dark-20191226@212800-005S.fts
+	30S	Dark-20191226@212814-030S.fts to Dark-20191226@213348-030S.fts
+	60S	Dark-20191226@213427-060S.fts to Dark-20191226@214432-060S.fts
+	120S	Dark-20191226@214540-120S.fts to Dark-20191226@220440-120S.fts
+	240S	Dark-20191226@220649-240S.fts to Dark-20191226@224351-240S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Strong wind from UT 13:30 to 15:00, bad seeing before UT 15:00, thin cloud after UT19:00

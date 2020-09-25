@@ -1,0 +1,10 @@
+cd edenTransfer
+
+python store_fits.py --dryrun /home/altsai/eden/LOT20190918/bias-dark/ > LOT20190918_2server_biasdark.log
+python store_fits.py --verbose /home/altsai/eden/LOT20190918_mod/ > LOT20190918_2server_target.log
+
+python store_fits.py --dryrun /home/altsai/eden/LOT20190918_mod/ > LOT20190918_2server_target.log
+python store_fits.py --verbose /home/altsai/eden/LOT20190918_mod/ > LOT20190918_2server_target.log
+
+
+

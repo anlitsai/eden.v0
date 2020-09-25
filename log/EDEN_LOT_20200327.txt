@@ -1,0 +1,27 @@
+Target:	2MUCD11188
+Observation start (UT): 2020-03-27 14:47:23
+Observation end (UT):	2020-03-27 17:43:38
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	142
+
+
+Bias:		
+		Bias-20200327@202120-000S.fts to Bias-20200327@202224-000S.fts
+		
+Dark:		
+	5S	Dark-20200327@202232-005S.fts to Dark-20200327@202422-005S.fts
+	10S	Dark-20200327@202435-010S.fts to Dark-20200327@202704-010S.fts
+	20S	Dark-20200327@202722-020S.fts to Dark-20200327@203123-020S.fts
+	30S	Dark-20200327@203151-030S.fts to Dark-20200327@203725-030S.fts
+	60S	Dark-20200327@203803-060S.fts to Dark-20200327@204808-060S.fts
+	120S	Dark-20200327@204915-120S.fts to Dark-20200327@210818-120S.fts
+	240S	Dark-20200327@211026-240S.fts to Dark-20200327@214731-240S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear between 14:00 to 17:44 UT, and cloud pass after 17：03 UT.

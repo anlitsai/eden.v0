@@ -1,0 +1,33 @@
+Target:	2MUCD10014, LSPM_J0419+4233,
+Observation start (UT):	2019-10-23 12:35:30
+Observation end (UT):	2019-10-23 15:55:18
+Camera:	SOPHIA
+Filter:	Eden GG495
+Exptime(s): 60s
+Frames:	56 for 2MUCD10014, and 71 for LSPM_J0419+4233
+
+Bias:	
+		Bias-20191023@194515-000S.fts to Bias-20191023@194618-000S.fts
+
+Dark:	
+	15S	Dark-20191023@194627-015S.fts to Dark-20191023@194945-015S.fts
+	60S	Dark-20191023@205907-060S.fts to Dark-20191023@210910-060S.fts
+	100S	Dark-20191023@195008-100S.fts to Dark-20191023@200610-100S.fts
+	300S	Dark-20191023@200758-300S.fts to Dark-20191023@205359-300S.fts
+
+Flat:	
+	GG495			None
+	(please ignore the following flats, they are not necessary)
+	B_319144		20191023_00*b*s.fits 
+	gp_Astrodon_2019	20191023_00*gp*s.fits 
+	I_10349			20191023_00*i*s.fits 
+	R_10349			20191023_00*r*s.fits 
+	rp_Astrodon_2019	20191023_00*rp*s.fits
+	V_319142		20191023_00*v*s.fits
+
+Additional Dark for Flat:	None for GG495
+	
+	
+
+
+Weather report: clear before UT 16:00

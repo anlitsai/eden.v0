@@ -1,0 +1,12 @@
+Bucket successfully loaded! eden-data
+4 files found
+Storing data to the S3 archive!
+Doing a dry run - uploads will not be committed.
+Verbose output enabled.
+Storing LOT20191208_HD191936_mod/HD191936-20191208@102150-Eden.fts -> s3://eden-data/RAW/LOT/HD_191939/2019-12-08/HD191936-20191208@102150-Eden.fits (1/4) (dry run)
+Storing LOT20191208_HD191936_mod/HD191936-20191208@102220-Eden.fts -> s3://eden-data/RAW/LOT/HD_191939/2019-12-08/HD191936-20191208@102220-Eden.fits (2/4) (dry run)
+Storing LOT20191208_HD191936_mod/HD191936-20191208@102324-Eden.fts -> s3://eden-data/RAW/LOT/HD_191939/2019-12-08/HD191936-20191208@102324-Eden.fits (3/4) (dry run)
+Storing LOT20191208_HD191936_mod/HD191936-20191208@102353-Eden.fts -> s3://eden-data/RAW/LOT/HD_191939/2019-12-08/HD191936-20191208@102353-Eden.fits (4/4) (dry run)
+
+Dry run complete! Run again without --dryrun to commit the changes above.
+Stored: 4 files (0.0 GB)

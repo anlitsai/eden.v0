@@ -1,0 +1,36 @@
+Target:	LSPM_J0330+5413, LSPM_J0419+4233
+Observation start (UT):	2019-10-26 12:01:16
+Observation end (UT):	2019-10-26 20:02:26
+Camera:	SOPHIA
+Filter:	Eden GG495
+Exptime(s): 30s and 60s for LSPM_J0330+5413, 60s for LSPM_J0419+4233
+Frames:	89 for LSPM_J0330+5413, and 64 for LSPM_J0419+4233
+
+Bias:	
+		Bias-20191026@211233-000S.fts to Bias-20191026@211337-000S.fts
+
+Dark:	
+	60S	Dark-20191026@232505-060S.fts to Dark-20191026@233505-060S.fts
+	100S	Dark-20191026@211345-100S.fts to Dark-20191026@212947-100S.fts
+	120S	Dark-20191026@213135-120S.fts to Dark-20191026@215036-120S.fts
+	240S	Dark-20191026@215245-240S.fts to Dark-20191026@222946-240S.fts
+	300S	Dark-20191026@223355-300S.fts to Dark-20191026@231957-300S.fts
+
+Flat:	
+	GG495			20191026-001eden.fits to 20191026-008eden.fits
+	(please ignore the following flats, they are not necessary)
+	B_319144		20191026_00*b.fits 
+	gp_Astrodon_2019	20191026_00*gp.fits 
+	I_10349			20191026_00*i.fits 
+	R_10349			20191026_00*r.fits 
+	rp_Astrodon_2019	20191026_00*rp.fits
+	V_319142		20191026_00*v.fits
+
+Additional Dark for Flat:	
+	5s	20191026-001d5s.fits to 20191026-010d5s.fits
+	10s	20191026-001d10s.fits to 20191026-010d10s.fits
+	
+	
+
+
+Weather report: cloudy UT 13:10-14:10

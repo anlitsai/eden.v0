@@ -1,0 +1,26 @@
+Target:	2MUCD11188
+Observation start (UT): 2020-05-01 12:05:27
+Observation end (UT):	2020-05-01 14:25:26
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	109
+
+
+Bias:		
+		20200501-001bias.fits to 20200501-011bias.fits
+		20200501-001bias-1.fits to 20200501-011bias-1.fits
+		
+Dark:		
+	60S	20200501-001d60s.fits to 20200501-011d60s.fits
+	300S	20200501-002d300s.fits to 20200501-011d300s.fits
+	300S	20200501-002d300s-1.fits to 20200501-011d300s-1.fits
+	360S	20200501-002d360s.fits to 20200501-011d360s.fits
+
+Flat:
+	10S	20200501-001eden.fits to 20200501-005eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear before UT 14:30 and after 18:00 but sometimes cloud passes.

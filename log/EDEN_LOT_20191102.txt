@@ -1,0 +1,23 @@
+Target:	LSPM_J0124+6819
+Observation start (UT):	2019-11-02 11:20:43
+Observation end (UT):	2019-11-02 20:10:43
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	428
+
+Bias:	
+		Bias-20191102@212929-000S.fts to Bias-20191102@213033-000S.fts
+
+Dark:	
+	10S	Dark-20191102@213041-010S.fts to Dark-20191102@213313-010S.fts
+	60S	Dark-20191102@213331-060S.fts to Dark-20191102@214332-060S.fts
+	120S	Dark-20191102@214441-120S.fts to Dark-20191102@220341-120S.fts
+	240S	Dark-20191102@220549-240S.fts to Dark-20191102@224250-240S.fts
+
+Flat:	None
+
+Additional Dark for Flat:	None
+	
+
+Weather report: clear after UT11:00

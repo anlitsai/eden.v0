@@ -1,0 +1,36 @@
+Target:	LSPM_J0419+4233
+Observation start (UT):	2019-10-25 14:49:20
+Observation end (UT):	2019-10-25 20:08:32
+Camera:	SOPHIA
+Filter:	Eden GG495
+Exptime(s): 60s
+Frames:	61
+
+Bias:	
+		Bias-20191025@211811-000S.fts to Bias-20191025@211913-000S.fts
+
+Dark:	
+	60S	Dark-20191025@233037-060S.fts to Dark-20191025@234039-060S.fts
+	100S	Dark-20191025@211921-100S.fts to Dark-20191025@213522-100S.fts
+	120S	Dark-20191025@213711-120S.fts to Dark-20191025@215610-120S.fts
+	240S	Dark-20191025@215818-240S.fts to Dark-20191025@223519-240S.fts
+	300S	Dark-20191025@223927-300S.fts to Dark-20191025@232529-300S.fts
+
+Flat:	
+	GG495			20191025-001eden10s.fits to 20191025-008eden10s.fits
+	(please ignore the following flats, they are not necessary)
+	B_319144		20191025_flat-00*b.fits 
+	gp_Astrodon_2019	20191025_flat-00*gp.fits 
+	I_10349			20191025_flat-00*i.fits 
+	R_10349			20191025_flat-00*r.fits 
+	rp_Astrodon_2019	20191025_flat-00*rp.fits
+	V_319142		20191025_flat-00*v.fits
+
+Additional Dark for Flat:	
+	5s	20191025-001d5s.fits to 20191025-010d5s.fits
+	10s	20191025-001d10s.fits to 20191025-010d10s.fits
+	
+	
+
+
+Weather report: unstable

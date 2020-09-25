@@ -1,0 +1,29 @@
+Target: LP_271-25
+Observation start (UT): 2020-03-23 19:38:22
+Observation end (UT):   2020-03-23 20:25:36
+Camera: SOPHIA
+Filter: GG495
+Exptime(s): 60sec
+Frames: 34
+
+Target:	2MUCD11188
+Observation start (UT): 2020-03-23 20:28:23
+Observation end (UT):	2020-03-23 21:05:49
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	31
+
+
+Bias:		
+		Bias-20200323@212829-000S.fts to Bias-20200323@212934-000S.fts
+		
+Dark:		
+	60S	Dark-20200323@212942-060S.fts to Dark-20200323@213944-060S.fts
+
+Flat:	None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear after 19:00 UT, and cloud pass after 20:06 UT.

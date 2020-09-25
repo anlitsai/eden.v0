@@ -1,0 +1,27 @@
+Target:	2MUCD10014
+Observation start (UT):	15:51:36
+Observation end (UT):	19:32:23
+Camera:	SOPHIA
+Filter:	Eden GG495
+Exptime(s): 60s
+Frames:	82
+
+Bias:	none
+
+Dark:	none
+
+Flat:	
+	GG495			20191012_flat-002eden.fits to 20191012_flat-006eden.fits
+	B_319144		20191012_flat-001b.fits to 20191012_flat-005b.fits
+	gp_Astrodon_2019	20191012_flat-001gp.fits to 20191012_flat-005gp.fits
+	I_10349			20191012_flat-001i.fits to 20191012_flat-006i.fits
+	R_10349			20191012_flat-001r.fits to 20191012_flat-005r.fits
+	rp_Astrodon_2019	20191012_flat-001rp.fits to 20191012_flat-006rp.fits
+	V_319142		20191012_flat-001v.fits to 20191012_flat-006v.fits
+
+Additional Dark for Flat:	none
+	
+	
+
+
+Weather report: clear between UT 15:30-16:23 and after 18:14

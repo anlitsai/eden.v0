@@ -1,0 +1,35 @@
+-----------------
+input parameters
+-----------------
+['modify_header_eden.py', 'LOT20200418_no_data', '15']
+Your will modify header for: 2MUCD11188 [RA] 14 03 22.2917 [Dec] +30 07 54.6373 [Filter] GG495
+---------------
+folder: LOT20200418_no_data
+will update fits in: LOT20200418_no_data_mod
+ ---------------------------
+ Exame Fits Header for Bias
+ ---------------------------
+find ./LOT20200418_no_data/bias-dark/ | grep 'fits\|fts'|sort 
+found 0 Bias/Dark
+no files in ./bias-dark/
+ ---------------------------
+ Exame Fits Header for Flat
+ ---------------------------
+find ./LOT20200418_no_data/ | grep flat/ |grep eden| grep -E 'fits|fts'|sort -t'-' -k2.4,2.6 
+found 7 Flat
+1/7 20200418-001eden.fits [TYPE] FLAT [EXPTIME] 10.0 [FIL] GG495
+2/7 20200418-002eden.fits [TYPE] FLAT [EXPTIME] 10.0 [FIL] GG495
+3/7 20200418-003eden.fits [TYPE] FLAT [EXPTIME] 10.0 [FIL] GG495
+4/7 20200418-004eden.fits [TYPE] FLAT [EXPTIME] 10.0 [FIL] GG495
+5/7 20200418-005eden.fits [TYPE] FLAT [EXPTIME] 10.0 [FIL] GG495
+6/7 20200418-006eden.fits [TYPE] FLAT [EXPTIME] 10.0 [FIL] GG495
+7/7 20200418-007eden.fits [TYPE] FLAT [EXPTIME] 10.0 [FIL] GG495
+ ---------------------------
+ Update Fits Header for Science Target
+ ---------------------------
+find ./LOT20200418_no_data/wchen/ | cut -d / -f1-4| grep 'fits\|fts'  |sort -t'@' -k2
+found 0 Target
+
+... update header ...
+... write log file to LOT20200418_no_data_mod.log ...
+... finish ...

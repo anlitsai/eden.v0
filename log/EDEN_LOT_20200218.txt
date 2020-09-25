@@ -1,0 +1,30 @@
+Target:	LP_310-34
+Observation start (UT): 2020-02-18 10:48:21
+Observation end (UT):	2020-02-18 13:03:40
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	109
+
+Target: LSPM_J1055+0808
+Observation start (UT): 2020-02-18 13:11:29
+Observation end (UT):   2020-02-18 21:37:23
+Camera: SOPHIA
+Filter: GG495
+Exptime(s): 60sec
+Frames: 405
+
+
+Bias:		
+		20200218-001bias.fits to 20200218-010bias.fits
+		
+Dark:		
+	60S	20200218-001d60s.fits to 20200218-010d60s.fits
+
+Flat:		
+	4S	20200218-001eden4s.fits to 20200218-010eden4s.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear all night.

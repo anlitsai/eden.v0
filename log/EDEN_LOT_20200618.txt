@@ -1,0 +1,21 @@
+Target:	LP_335-12
+Observation start (UT): 2020-06-18 12:44:47
+Observation end (UT):	2020-06-18 19:29:34
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	337
+
+
+
+Bias:		Bias-20200618@201155-000S.fts to Bias-20200618@201256-000S.fts
+		
+Dark:	
+	60s	Dark-20200618@201305-060S.fts to Dark-20200618@202308-060S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report: thin cloud all night

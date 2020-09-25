@@ -1,0 +1,21 @@
+Target:	LP_335-12
+Observation start (UT): 2020-06-13 15:48:40
+Observation end (UT):	2020-06-13 19:19:56
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	174
+
+
+
+Bias:		Bias-20200613@204354-000S.fts to Bias-20200613@204457-000S.fts
+		
+Dark:	
+	60s	Dark-20200613@204706-060S.fts to Dark-20200613@205708-060S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report: bad seeing, skay was clear except 1210 - 1502 UT (cloudy) and 1808 - 1859 UT (cloud pass)

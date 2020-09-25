@@ -1,0 +1,24 @@
+Bucket successfully loaded! eden-data
+16 files found
+Storing data to the S3 archive!
+We can now start uploading the data.
+Press return to start the upload, or anything else to abort: Verbose output enabled.
+Storing LOT20200525_no_eden_mod/202005026_domeflat-001Eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-05-25/202005026_domeflat-001Eden.fits (1/16)
+Storing LOT20200525_no_eden_mod/202005026_domeflat-001NoFilter.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-05-25/202005026_domeflat-001NoFilter.fits (2/16)
+Storing LOT20200525_no_eden_mod/202005026_domeflat-002Eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-05-25/202005026_domeflat-002Eden.fits (3/16)
+Storing LOT20200525_no_eden_mod/202005026_domeflat-002NoFilter.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-05-25/202005026_domeflat-002NoFilter.fits (4/16)
+Storing LOT20200525_no_eden_mod/202005026_domeflat-003Eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-05-25/202005026_domeflat-003Eden.fits (5/16)
+Storing LOT20200525_no_eden_mod/202005026_domeflat-003NoFilter.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-05-25/202005026_domeflat-003NoFilter.fits (6/16)
+Storing LOT20200525_no_eden_mod/202005026_domeflat-004Eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-05-25/202005026_domeflat-004Eden.fits (7/16)
+Storing LOT20200525_no_eden_mod/202005026_domeflat-004NoFilter.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-05-25/202005026_domeflat-004NoFilter.fits (8/16)
+Storing LOT20200525_no_eden_mod/202005026_domeflat-005Eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-05-25/202005026_domeflat-005Eden.fits (9/16)
+Storing LOT20200525_no_eden_mod/202005026_domeflat-005NoFilter.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-05-25/202005026_domeflat-005NoFilter.fits (10/16)
+Storing LOT20200525_no_eden_mod/Bias-20200525@192246-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-05-25/Bias-20200525@192246-000S.fits (11/16)
+Storing LOT20200525_no_eden_mod/Bias-20200525@192256-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-05-25/Bias-20200525@192256-000S.fits (12/16)
+Storing LOT20200525_no_eden_mod/Bias-20200525@192302-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-05-25/Bias-20200525@192302-000S.fits (13/16)
+Storing LOT20200525_no_eden_mod/Bias-20200525@192309-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-05-25/Bias-20200525@192309-000S.fits (14/16)
+Storing LOT20200525_no_eden_mod/Bias-20200525@192316-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-05-25/Bias-20200525@192316-000S.fits (15/16)
+Storing LOT20200525_no_eden_mod/Bias-20200525@192323-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-05-25/Bias-20200525@192323-000S.fits (16/16)
+
+Upload complete!
+Stored: 16 files (0.1 GB)

@@ -1,0 +1,12 @@
+Hi all, the data taken between Dec.03-08 at Lulin has been uploaded. Here is summary.
+
+Dec.03  160 frames are taken for 2MASS_J03140344+1603056 with exposure time of 60s. Sky is clear but high thin cloud between UT10:00-10:30, 16:00-19:00.
+Dec.04  rain. no observation.
+Dec.05  rain. no observation.
+Dec.06  rain. no observation.
+Dec.07  154 frames are taken for HD_191939 with exposure time of 3s, and 232 frames are taken for 2MASS_J03140344+1603056 with exposure time of 60sec. Sky is clear between UT 11:30 to 15:25 and after 16:30.
+Dec.08  4 frames are taken for HD_191939 with exposure time of 3s, and 352 frames are taken for 2MASS_J03140344+1603056 with exposure time of 60sec. Sky is clear before UT 18:29.
+
+The filter name in the image header of our target is "GG495".
+If there is any problem/comment, please let me know.
+

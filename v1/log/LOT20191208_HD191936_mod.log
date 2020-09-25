@@ -1,0 +1,33 @@
+-----------------
+input parameters
+-----------------
+['modify_header_eden.py', 'LOT20191208_HD191936', '9']
+Your will modify header for: HD_191939 [RA] 20 08 05.7549 [Dec] +66 51 02.0755 [Filter] GG495
+---------------
+folder: LOT20191208_HD191936
+will update fits in: LOT20191208_HD191936_mod
+ ---------------------------
+ Exame Fits Header for Bias
+ ---------------------------
+find ./LOT20191208_HD191936/bias-dark/ | grep 'fits\|fts'|sort 
+found 0 Bias/Dark
+no files in ./bias-dark/
+ ---------------------------
+ Exame Fits Header for Flat
+ ---------------------------
+find ./LOT20191208_HD191936/ | grep flat/ |grep eden| grep -E 'fits|fts'|sort -t'-' -k2.4,2.6 
+found 0 Flat
+no files in ./flat/
+ ---------------------------
+ Update Fits Header for Science Target
+ ---------------------------
+find ./LOT20191208_HD191936/wchen/ | cut -d / -f1-4| grep 'fits\|fts'  |sort -t'@' -k2
+found 4 Target
+
+... update header ...
+1/4 HD191936-20191208@102150-Eden.fts [TYPE] LIGHT [OBJ] HD_191939 [RA] 20 08 05.7549 [Dec] +66 51 02.0755 [FIL] GG495 [EXPTIME] 3.0 [Date] 2019-12-08T10:22:03 [Time] 10:22:03
+2/4 HD191936-20191208@102220-Eden.fts [TYPE] LIGHT [OBJ] HD_191939 [RA] 20 08 05.7549 [Dec] +66 51 02.0755 [FIL] GG495 [EXPTIME] 3.0 [Date] 2019-12-08T10:22:21 [Time] 10:22:21
+3/4 HD191936-20191208@102324-Eden.fts [TYPE] LIGHT [OBJ] HD_191939 [RA] 20 08 05.7549 [Dec] +66 51 02.0755 [FIL] GG495 [EXPTIME] 3.0 [Date] 2019-12-08T10:23:37 [Time] 10:23:37
+4/4 HD191936-20191208@102353-Eden.fts [TYPE] LIGHT [OBJ] HD_191939 [RA] 20 08 05.7549 [Dec] +66 51 02.0755 [FIL] GG495 [EXPTIME] 3.0 [Date] 2019-12-08T10:23:54 [Time] 10:23:54
+... write log file to LOT20191208_HD191936_mod.log ...
+... finish ...

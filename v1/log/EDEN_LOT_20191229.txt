@@ -1,0 +1,21 @@
+Target:	LSPM_J0510+2714
+Observation start (UT): 2019-12-29 14:18:52
+Observation end (UT):	2019-12-29 14:46:39
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 30sec
+Frames:	45
+
+
+Bias:		
+		20191229-001bias.fits to 20191229-010d30s.fits
+		
+Dark:		
+		None
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is unstable all night.

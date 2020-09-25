@@ -1,0 +1,35 @@
+Target:	2MUCD10014
+Observation start (UT):	14:04:52
+Observation end (UT):	19:48:05
+Camera:	SOPHIA
+Filter:	Eden GG495
+Exptime(s): 60s
+Frames:	55
+
+Bias:	
+		Bias-20190920@201618-000S.fts to Bias-20190920@201722-000S.fts
+
+Dark:	
+	5s	Dark-20190920@201730-005S.fts to Dark-20190920@201917-005S.fts
+	10s	Dark-20190920@201930-010S.fts to Dark-20190920@202201-010S.fts
+	20s	Dark-20190920@202219-020S.fts to Dark-20190920@202619-020S.fts
+	60s	Dark-20190920@204256-060S.fts to Dark-20190920@205258-060S.fts
+	90s	Dark-20190920@202647-090S.fts to Dark-20190920@204119-090S.fts
+
+Flat:	
+	GG495           	20190920_domeflat-001eden.fits to 20190920_domeflat-010eden.fits
+	B_319144        	20190920_domeflat-001b.fits to 20190920_domeflat-010b.fits
+	gp_Astrodon_2019	20190920_domeflat-001gp.fits to 20190920_domeflat-010gp.fits
+	ha_6563_30      	20190920_domeflat-001ha.fits to 20190920_domeflat-010ha.fits
+	I_10349         	20190920_domeflat-001i.fits to 20190920_domeflat-010i.fits
+	ip_Astrodon_2019	20190920_domeflat-001ip.fits to 20190920_domeflat-010ip.fits
+	R_10349         	20190920_domeflat-001r.fits to 20190920_domeflat-010r.fits
+	rp_Astrodon_2019	20190920_domeflat-001rp.fits to 20190920_domeflat-010rp.fits
+	U_Astrodon_2019 	20190920_domeflat-001u.fits to 20190920_domeflat-011u.fits
+	up_Astrodon_2017	20190920_domeflat-001up.fits to 20190920_domeflat-011up.fits
+	V_319142        	20190920_domeflat-002v.fits to 20190920_domeflat-011v.fits
+	NoFilter-A0     	20190920_domeflat-001xx.fits to 20190920_domeflat-010xx.fits
+	zp_Astrodon_2019	20190920_domeflat-001zp.fits to 20190920_domeflat-010zp.fits
+	
+	
+Weather report: None

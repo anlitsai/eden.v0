@@ -1,0 +1,14 @@
+Hi all, the data taken between Nov.2-7 at Lulin has been uploaded. Here is summary.
+Nov.2 428 frames are taken for LSPM_J0124+6819 with exposure time of 60s.
+Nov.3 no observation
+Nov.4 no observation
+Nov.5 334 frames are taken for LSPM_J0357+4107 with exposure time of 60s.
+Nov.6 90 frames are taken for LSPM_J0124+6819 with exposure time of 60s, and 340 frames are taken for LSPM_J0357+4107 with exposure time of 60s.
+Nov.7 325 frames are taken for LSPM_J0357+4107 with exposure time of 60s.
+
+The filter name in the image header of our target  is "GG495". 
+
+The weather report has a duplicate input for Nov.2. Please ignore the first one (timestamp of 11/11/2019 7:08:36). The data is not overexposure.
+
+If there is any problem/comment, please let me know.
+

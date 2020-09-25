@@ -1,0 +1,23 @@
+Target:	LSPM J1055+0808
+Observation start (UT): 2020-02-14 14:22:47
+Observation end (UT):	2020-02-14 21:30:51
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	327
+
+
+Bias:		
+		Bias-20200214@222127-000S.fts to Bias-20200214@222231-000S.fts
+		
+Dark:		
+	5S	Dark-20200214@222239-005S.fts to Dark-20200214@222427-005S.fts
+	60S	Dark-20200214@222440-060S.fts to Dark-20200214@223441-060S.fts
+	240S	Dark-20200214@223549-240S.fts to Dark-20200214@231253-240S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear after UT16:00.

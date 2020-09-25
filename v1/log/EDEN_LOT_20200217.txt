@@ -1,0 +1,29 @@
+Target:	LP_310-34
+Observation start (UT): 2020-02-17 10:54:04
+Observation end (UT):	2020-02-17 11:42:58
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	40
+
+Target: LSPM_J1055+0808
+Observation start (UT): 2020-02-17 13:27:54
+Observation end (UT):   2020-02-17 21:34:32
+Camera: SOPHIA
+Filter: GG495
+Exptime(s): 60sec
+Frames: 383
+
+
+Bias:		
+		20200217-001bias.fits to 20200217-010bias.fits
+		
+Dark:		
+	60S	20200217-001d60s.fits to 20200217-010d60s.fits
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear before UT11:45 and after 13:30

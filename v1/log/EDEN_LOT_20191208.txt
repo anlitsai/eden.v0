@@ -1,0 +1,36 @@
+Target:	HD_191939
+Observation start (UT):	2019-12-08 10:22:03
+Observation end (UT):	2019-12-08 10:23:54
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 3sec
+Frames:	4
+
+Target:	2MASS_J03140344+1603056
+Observation start (UT):	2019-12-08 10:42:29
+Observation end (UT):	2019-12-08 18:28:16
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	352
+
+
+Bias:		
+		Bias-20191208@202954-000S.fts to Bias-20191208@203059-000S.fts
+		
+Dark:		
+	3S	Dark-20191208@203107-003S.fts to Dark-20191208@203233-003S.fts
+	5S	Dark-20191208@203244-005S.fts to Dark-20191208@203431-005S.fts
+	10S	Dark-20191208@203443-010S.fts to Dark-20191208@203714-010S.fts
+	15S	Dark-20191208@203731-015S.fts to Dark-20191208@204048-015S.fts
+	20S	Dark-20191208@204111-020S.fts to Dark-20191208@204512-020S.fts
+	60S	Dark-20191208@204540-060S.fts to Dark-20191208@205542-060S.fts
+	120S	Dark-20191208@205650-120S.fts to Dark-20191208@211552-120S.fts
+	240S	Dark-20191208@211800-240S.fts to Dark-20191208@215517-240S.fts
+
+Flat:	5S	20191208_flat-001eden.fits to 20191208_flat-005eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear before UT 18:29.

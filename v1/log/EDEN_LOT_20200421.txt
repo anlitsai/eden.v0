@@ -1,0 +1,24 @@
+Target:	2MUCD11188
+Observation start (UT): 2020-04-21 13:02:58
+Observation end (UT):	2020-04-21 18:15:52
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	192
+
+
+Bias:		Bias-20200421@203936-000S.fts to Bias-20200421@223231-000S.fts
+		
+Dark:		
+	60S	Dark-20200421@223241-060S.fts to Dark-20200421@224243-060S.fts
+	300S	Dark-20200421@204016-300S.fts to Dark-20200421@212548-300S.fts
+	360S	Dark-20200421@213053-360S.fts to Dark-20200421@222526-360S.fts
+
+Flat:	None
+
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Observation is executed before 15:11, 15:47 to 16:17, 16:49 to 18:17 UT. Cloud passes almost all night.
+

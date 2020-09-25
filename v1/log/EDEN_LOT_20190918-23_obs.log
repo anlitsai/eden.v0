@@ -1,0 +1,7 @@
+Hi all, the data taken between Sep.18-23 at Lulin has been uploaded. Here is summary.
+Sep.18 2MUCD 10014 with exposure time of 200s, 120s, 60s. No flat was taken.
+Sep.19 2MUCD 10014 with exposure time of 90s. No flat was taken.
+Sep.20 2MUCD 10014 with exposure time of 60s.
+Sep.21 no observation
+Sep.22 no observation
+Sep.23 2MUCD 10014 with exposure time of 60s.The filter name in the image header of our target  is "GG495". If you prefer other name, please let me know. I will change it.

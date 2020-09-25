@@ -1,0 +1,32 @@
+Target:	LP_229-30
+Observation start (UT): 2020-06-12 12:29:51
+Observation end (UT):	2020-06-12 13:32:45
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	39
+
+Target:	LP_335-12
+Observation start (UT): 2020-06-12 13:54:17
+Observation end (UT):	2020-06-12 19:28:23
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	274
+
+
+
+Bias:		20200612-001bias.fits to 20200612-010bias.fits
+		
+Dark:	
+	60s	20200612-001dark60s.fits to 20200612-010dark60s.fits
+	300s	20200612-001dark300s.fits to 20200612-010dark300s.fits
+	360s	20200612-001d360s.fits to 20200612-004d360s.fits
+
+Flat:		20200612-001eden.fits to 20200612-001eden.fits
+
+Additional Dark for Flat:	
+	5s	20200612-001dark5s.fits to 20200612-010dark5s.fits
+	
+
+Weather report:  bad seeing, sky was clear except 1217 - 1500 UT (cloud pass)

@@ -1,0 +1,34 @@
+Target:	LSPM_J0510+2714
+Observation start (UT): 2020-01-13 10:39:29
+Observation end (UT):	2020-01-13 18:51:22
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 30sec
+Frames:	638
+
+Target: LP_310-34
+Observation start (UT): 2020-01-13 19:52:13
+Observation end (UT):   2020-01-13 21:52:00
+Camera: SOPHIA
+Filter: GG495
+Exptime(s): 60sec
+Frames: 94
+
+
+Bias:		
+		Bias-20200113@220033-000S.fts to Bias-20200113@220137-000S.fts
+		
+Dark:		
+	5S	Dark-20200113@220146-005S.fts to Dark-20200113@220333-005S.fts
+	10S	Dark-20200113@220346-010S.fts to Dark-20200113@220617-010S.fts
+	20S	Dark-20200113@221246-020S.fts to Dark-20200113@221647-020S.fts
+	30S	Dark-20200113@220635-030S.fts to Dark-20200113@221207-030S.fts
+	60S	Dark-20200113@223325-060S.fts to Dark-20200113@224329-060S.fts
+	90S	Dark-20200113@221715-090S.fts to Dark-20200113@223147-090S.fts
+
+Flat:	5S	20200113_flat-001eden.fits to 20200113_flat-007eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear all night.

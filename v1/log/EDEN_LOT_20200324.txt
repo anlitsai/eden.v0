@@ -1,0 +1,35 @@
+Target: LP_315-53
+Observation start (UT): 2020-03-24 12:58:45
+Observation end (UT):   2020-03-24 13:21:26
+Camera: SOPHIA
+Filter: GG495
+Exptime(s): 60sec
+Frames: 19
+
+Target:	2MUCD11188
+Observation start (UT): 2020-03-24 13:25:20
+Observation end (UT):	2020-03-24 21:15:51
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	334
+
+
+Bias:		
+		Bias-20200324@221143-000S.fts to Bias-20200324@221246-000S.fts
+		
+Dark:		
+	5S	Dark-20200324@221255-005S.fts to Dark-20200324@221442-005S.fts
+	10S	Dark-20200324@221455-010S.fts to Dark-20200324@221726-010S.fts
+	20S	Dark-20200324@221744-020S.fts to Dark-20200324@222148-020S.fts
+	30S	Dark-20200324@222216-030S.fts to Dark-20200324@222749-030S.fts
+	60S	Dark-20200324@222826-060S.fts to Dark-20200324@223828-060S.fts
+	120S	Dark-20200324@223935-120S.fts to Dark-20200324@225838-120S.fts
+	240S	Dark-20200324@230046-240S.fts to Dark-20200324@233751-240S.fts
+
+Flat:	30S	20200324_flat-001eden.fits to 20200324_flat-005eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear after 12:15 UT.

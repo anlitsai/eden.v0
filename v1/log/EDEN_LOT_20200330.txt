@@ -1,0 +1,21 @@
+Target:	2MUCD11188
+Observation start (UT): 2020-03-30 13:49:19
+Observation end (UT):	2020-03-30 14:35:32
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	38
+
+
+Bias:		
+		Bias-20200330@203937-000S.fts to Bias-20200330@204041-000S.fts
+		
+Dark:		
+	60S	Dark-20200330@204049-060S.fts to Dark-20200330@205050-060S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear UT13:40-14:36 but cloudy

@@ -1,0 +1,42 @@
+Bucket successfully loaded! eden-data
+34 files found
+Storing data to the S3 archive!
+Doing a dry run - uploads will not be committed.
+Verbose output enabled.
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@120151-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@120151-Eden.fits (1/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@120317-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@120317-Eden.fits (2/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@120429-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@120429-Eden.fits (3/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@120543-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@120543-Eden.fits (4/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@120658-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@120658-Eden.fits (5/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@120811-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@120811-Eden.fits (6/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@120924-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@120924-Eden.fits (7/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@121037-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@121037-Eden.fits (8/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@121152-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@121152-Eden.fits (9/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@121305-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@121305-Eden.fits (10/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@121419-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@121419-Eden.fits (11/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@121532-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@121532-Eden.fits (12/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@121645-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@121645-Eden.fits (13/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@121758-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@121758-Eden.fits (14/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@121911-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@121911-Eden.fits (15/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@122025-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@122025-Eden.fits (16/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@122139-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@122139-Eden.fits (17/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@122252-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@122252-Eden.fits (18/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@122406-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@122406-Eden.fits (19/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@122520-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@122520-Eden.fits (20/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@123622-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@123622-Eden.fits (21/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@123748-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@123748-Eden.fits (22/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@123901-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@123901-Eden.fits (23/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@124014-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@124014-Eden.fits (24/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@124128-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@124128-Eden.fits (25/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@124241-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@124241-Eden.fits (26/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@124354-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@124354-Eden.fits (27/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@124509-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@124509-Eden.fits (28/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@124622-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@124622-Eden.fits (29/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@124735-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@124735-Eden.fits (30/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@124850-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@124850-Eden.fits (31/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@125003-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@125003-Eden.fits (32/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@125117-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@125117-Eden.fits (33/34) (dry run)
+Storing LOT20200517-LP_326-21_mod/LP_326_21-20200517@125911-Eden.fts -> s3://eden-data/RAW/LOT/LP_326-21/2020-05-17/LP_326_21-20200517@125911-Eden.fits (34/34) (dry run)
+
+Dry run complete! Run again without --dryrun to commit the changes above.
+Stored: 34 files (0.3 GB)

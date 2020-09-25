@@ -1,0 +1,11 @@
+Hi all, the data taken between Feb.14-18 at Lulin has been uploaded. Here is the summary. 
+
+Feb.14  327 frames are taken for LSPM J1055+0808 with exposure time of 60sec. Sky is clear after UT 16:00.
+Feb.15  67 frames are taken for LP_310-34 with exposure time of 60sec. 369 frames are taken for LSPM_J1055+0808 with exposure time of 60sec. Sky is clear but there is cloud pass around UT1630 - 1720.
+Feb.16 cloudy and raining. no observation.
+Feb.17  40 frames are taken for LP_310-34 with exposure time of 60sec. 383 frames are taken for LSPM_J1055+0808 with exposure time of 60sec. Sky is clear before UT11:45 and after 13:30.
+Feb.18  109 frames are taken for LP_310-34 with exposure time of 60sec. 405 frames are taken for LSPM_J1055+0808 with exposure time of 60sec. Sky is clear all night.
+
+The filter name in the image header of our target is "GG495".
+If there is any problem/comment, please let me know.
+

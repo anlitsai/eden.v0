@@ -1,0 +1,35 @@
+Target:	LSPM_J0510+2714
+Observation start (UT): 2020-01-18 11:13:49
+Observation end (UT):	2020-01-18 13:12:17
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 30sec
+Frames:	95
+
+Target: LP_310-34
+Observation start (UT): 2020-01-18 13:30:25
+Observation end (UT):   2020-01-18 16:06:15
+Camera: SOPHIA
+Filter: GG495
+Exptime(s): 60sec
+Frames: 125
+
+
+Bias:		
+		Bias-20200118@202230-000S.fts to Bias-20200118@202335-000S.fts
+		
+Dark:		
+	5S	Dark-20200118@202343-005S.fts to Dark-20200118@202531-005S.fts
+	10S	Dark-20200118@202544-010S.fts to Dark-20200118@202815-010S.fts
+	20S	Dark-20200118@203441-020S.fts to Dark-20200118@203843-020S.fts
+	30S	Dark-20200118@202833-030S.fts to Dark-20200118@203404-030S.fts
+	60S	Dark-20200118@203910-060S.fts to Dark-20200118@204915-060S.fts
+	180S	Dark-20200118@213637-180S.fts to Dark-20200118@220438-180S.fts
+	270S	Dark-20200118@205023-270S.fts to Dark-20200118@213158-270S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear before UT16:00 but the sky was unstable between UT 13:00-16:00 

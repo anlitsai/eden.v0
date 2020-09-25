@@ -1,0 +1,19 @@
+Hi all, the data taken between Oct.21-27 at Lulin has been uploaded. Here is summary.
+Oct.21 2MUCD 10014 with exposure time of 60s.
+Oct.22 LSPM_J0419+4233 with exposure time of 60s. No bias, dark, flat were taken.
+Oct.23 2MUCD 10014 and LSPM_J0419+4233, both with exposure time of 60s.
+Oct.24 no observation
+Oct.25 LSPM_J0419+4233 with exposure time of 60s.
+Oct.26 LSPM_J0419+4233 with exposure time of 60s. LSPM_J0330+5413 with exposure time of 60s and 30s. 
+Oct.27 LSPM_J0419+4233 with exposure time of 60s. No flat was taken.
+Oct.28 Only bias, dark, and flat were taken.
+
+
+The filter name in the image header of our target  is "GG495". 
+
+
+I uploaded a few unnecessary flats whose filename do not include the keyword of "eden". 
+I don't know how to delete them using edenTransfer. Please just ignore these files.
+
+If there is any problem/comment, please let me know.
+

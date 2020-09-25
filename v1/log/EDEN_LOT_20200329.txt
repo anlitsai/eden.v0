@@ -1,0 +1,35 @@
+Target: LP_315-53
+Observation start (UT): 2020-03-29 11:14:46
+Observation end (UT):   2020-03-29 13:33:04
+Camera: SOPHIA
+Filter: GG495
+Exptime(s): 60sec
+Frames: 112
+
+Target:	2MUCD11188
+Observation start (UT): 2020-03-29 14:30:00
+Observation end (UT):	2020-03-29 20:58:38
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	293
+
+
+Bias:		
+		Bias-20200329@213229-000S.fts to Bias-20200329@213335-000S.fts
+		
+Dark:		
+	5S	Dark-20200329@213344-005S.fts to Dark-20200329@213533-005S.fts
+	10S	Dark-20200329@213546-010S.fts to Dark-20200329@213817-010S.fts
+	20S	Dark-20200329@213835-020S.fts to Dark-20200329@214236-020S.fts
+	30S	Dark-20200329@214304-030S.fts to Dark-20200329@214838-030S.fts
+	60S	Dark-20200329@214916-060S.fts to Dark-20200329@215919-060S.fts
+	120S	Dark-20200329@220026-120S.fts to Dark-20200329@221928-120S.fts
+	240S	Dark-20200329@222137-240S.fts to Dark-20200329@225839-240S.fts
+
+Flat:	5S	20200329_flat-001eden.fits to 20200329_flat-010eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear all night.

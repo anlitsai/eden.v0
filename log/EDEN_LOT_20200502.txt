@@ -1,0 +1,25 @@
+Target:	2MUCD11188
+Observation start (UT): 2020-05-02 12:31:41
+Observation end (UT):	2020-05-02 18:00:00
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	231
+
+
+Bias:		
+		20200502-001bias.fits to 20200502-010bias.fits
+		20200502-001bias-1.fits to 20200502-010bias-1.fits
+		
+Dark:		
+	60S	20200502-001d60s.fits to 20200502-010d60s.fits
+	300S	20200502-001d300s.fits to 20200502-010d300s.fits
+	300S	20200502-001d300s-1.fits to 20200502-010d300s-1.fits
+
+Flat:
+	5S	20200502_flat-001eden.fits to 20200502_flat-006eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Cloud passed almost all night.

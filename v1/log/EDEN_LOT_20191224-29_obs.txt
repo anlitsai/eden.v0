@@ -1,0 +1,12 @@
+Hi all, the data taken between Dec.24-29 at Lulin has been uploaded. Here is the summary. Sorry for late report.
+
+Dec.24  463 frames are taken for LSPM_J0510+2714 with exposure time of 30sec. Sky is clear all night but wind speed is high after UT15:50.
+Dec.25  no observation.
+Dec.26  463 frames are taken for LSPM_J0510+2714 with exposure time of 30sec. Strong wind from UT 13:30 to 15:00, bad seeing before UT 15:00, thin cloud after UT19:00 
+Dec.27  no observation.
+Dec.28  rain. no observation.
+Dec.29  45 frames are taken for LSPM_J0510+2714 with exposure time of 30sec. Sky is unstable all night.
+
+The filter name in the image header of our target is "GG495".
+If there is any problem/comment, please let me know.
+

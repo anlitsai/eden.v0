@@ -1,0 +1,20 @@
+Target:	LP_388-55
+Observation start (UT): 2020-05-24 18:37:17
+Observation end (UT):	2020-05-24 19:20:00
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	35
+
+
+
+Bias:		Bias-20200524@194335-000S.fts to Bias-20200524@194435-000S.fts
+		
+Dark:	60S	Dark-20200524@200015-060S.fts to Dark-20200524@201018-060S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  observed with high cloud 1810 - 1933

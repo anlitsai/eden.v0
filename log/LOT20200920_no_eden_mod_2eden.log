@@ -1,0 +1,28 @@
+Bucket successfully loaded! eden-data
+20 files found
+Storing data to the S3 archive!
+We can now start uploading the data.
+Press return to start the upload, or anything else to abort: Verbose output enabled.
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/202000920_skyflat-001eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-09-20/202000920_skyflat-001eden.fits (1/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/202000920_skyflat-002eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-09-20/202000920_skyflat-002eden.fits (2/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/202000920_skyflat-003eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-09-20/202000920_skyflat-003eden.fits (3/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/202000920_skyflat-004eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-09-20/202000920_skyflat-004eden.fits (4/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/202000920_skyflat-005eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-09-20/202000920_skyflat-005eden.fits (5/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/202000920_skyflat-006eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-09-20/202000920_skyflat-006eden.fits (6/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/202000920_skyflat-007eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-09-20/202000920_skyflat-007eden.fits (7/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/202000920_skyflat-008eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-09-20/202000920_skyflat-008eden.fits (8/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/202000920_skyflat-009eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-09-20/202000920_skyflat-009eden.fits (9/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/202000920_skyflat-010eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-09-20/202000920_skyflat-010eden.fits (10/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/Bias-20200920@213905-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-09-20/Bias-20200920@213905-000S.fits (11/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/Bias-20200920@213915-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-09-20/Bias-20200920@213915-000S.fits (12/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/Bias-20200920@213922-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-09-20/Bias-20200920@213922-000S.fits (13/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/Bias-20200920@213929-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-09-20/Bias-20200920@213929-000S.fits (14/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/Bias-20200920@213936-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-09-20/Bias-20200920@213936-000S.fits (15/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/Bias-20200920@213943-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-09-20/Bias-20200920@213943-000S.fits (16/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/Bias-20200920@213951-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-09-20/Bias-20200920@213951-000S.fits (17/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/Bias-20200920@213958-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-09-20/Bias-20200920@213958-000S.fits (18/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/Bias-20200920@214005-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-09-20/Bias-20200920@214005-000S.fits (19/20)
+Storing /home/altsai/eden/LOT20200920_no_eden_mod/Bias-20200920@214012-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-09-20/Bias-20200920@214012-000S.fits (20/20)
+
+Upload complete!
+Stored: 20 files (0.2 GB)

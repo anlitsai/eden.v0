@@ -1,0 +1,38 @@
+Target:	HD_191939
+Observation start (UT):	2019-12-07 12:05:00
+Observation end (UT):	2019-12-07 12:55:16
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 3sec
+Frames:	154
+
+Target:	2MASS_J03140344+1603056
+Observation start (UT):	2019-12-07 13:25:03
+Observation end (UT):	2019-12-07 18:56:55
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	232
+
+
+Bias:	
+		Bias-20191207@222014-000S.fts to Bias-20191207@222116-000S.fts
+
+Dark:	
+	3S	Dark-20191207@222125-003S.fts to Dark-20191207@222253-003S.fts
+	5S	Dark-20191207@222305-005S.fts to Dark-20191207@222451-005S.fts
+	10S	Dark-20191207@222504-010S.fts to Dark-20191207@222735-010S.fts
+	15S	Dark-20191207@222753-015S.fts to Dark-20191207@223109-015S.fts
+	20S	Dark-20191207@223132-020S.fts to Dark-20191207@223534-020S.fts
+	60S	Dark-20191207@223601-060S.fts to Dark-20191207@224602-060S.fts
+	120S	Dark-20191207@224711-120S.fts to Dark-20191207@230612-120S.fts
+	240S	Dark-20191207@230820-240S.fts to Dark-20191207@234521-240S.fts
+
+Flat:	30S	20191207_flat-001eden.fits 
+	20S	20191207_flat-002eden.fits 
+	10S	20191207_flat-003eden.fits to 20191207_flat-006eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: Sky is clear between UT 11:30 to 15:25 abnd after 16:30.

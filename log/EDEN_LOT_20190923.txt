@@ -1,0 +1,34 @@
+Target:	2MUCD10014
+Observation start (UT):	14:08:56
+Observation end (UT):	19:59:20
+Camera:	SOPHIA
+Filter:	Eden GG495
+Exptime(s): 60s
+Frames:	289
+
+Bias:	
+		Bias-20190923@213549-000S.fts to Bias-20190923@213652-000S.fts
+
+Dark:	
+	60s	Dark-20190923@215450-060S.fts to Dark-20190923@220450-060S.fts
+	100s	Dark-20190923@213701-100S.fts to Dark-20190923@215302-100S.fts
+	120s	Dark-20190923@220558-120S.fts to Dark-20190923@222500-120S.fts
+	240s	Dark-20190923@222708-240S.fts to Dark-20190923@230410-240S.fts
+	300s	Dark-20190923@230818-300S.fts to Dark-20190923@235419-300S.ft
+
+Flat:	
+	GG495           	20190923-001eden.fits to 20190923-007eden.fits
+	B_319144        	20190923-001b.fits to 20190923-005b.fits
+	gp_Astrodon_2019	20190923-001egp.fits to 20190923-006egp.fits
+	I_10349         	20190923-001i.fits to 20190923-006i.fits
+	R_10349         	20190923-001r.fits to 20190923-006r.fits
+	rp_Astrodon_2019	20190923-001rp.fits to 20190923-006rp.fits
+	V_319142        	20190923-001v.fits to 20190923-008v.fits
+
+Additional Dark for Flat:
+	2s	20190923-001d2s.fits to 20190923-010d2s.fits
+	5s	20190923-001d5s.fits to 20190923-010d5s.fits
+	
+
+
+Weather report: None

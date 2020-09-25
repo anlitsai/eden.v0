@@ -1,0 +1,16 @@
+Hi all, the data taken between March 23 - April 1 at Lulin has been uploaded. Here is the summary. 
+
+Mar.23  34 frames are taken for LP_271-25 with exposure time of 60sec. 31 frames are taken for 2MUCD_11188 with exposure time of 60sec. Sky is clear after 19:00 UT, and cloud pass after 20:06 UT.
+Mar.24  19 frames are taken for LP_315-53 with exposure time of 60sec. 334 frames are taken for 2MUCD_11188 with exposure time of 60sec. Sky is clear after 12:15 UT.
+Mar.25  353 frames are taken for 2MUCD_11188 with exposure time of 60sec. Sky is clear after 12:55 UT, cloud pass between 15:30 - 15:54, 16:30 - 17:36, 18:36 - 18:48 UT.
+Mar.26  143 frames are taken for 2MUCD_11188 with exposure time of 60sec. Telescope is operated between 12:50 - 13:38, 15:03 - 16:00, and after 19:30 UT. Clouds pass almost all night.
+Mar.27  142 frames are taken for 2MUCD_11188 with exposure time of 60sec. Sky is clear between 14:00 to 17:44 UT, and cloud pass after 17：03 UT.
+Mar.28  130 frames are taken for LP_315-53 with exposure time of 60sec. 305 frames are taken for 2MUCD_11188 with exposure time of 60sec. Sky is clear all night.
+Mar.29  112 frames are taken for LP_315-53 with exposure time of 60sec. 293 frames are taken for 2MUCD_11188 with exposure time of 60sec. Sky is clear all night.
+Mar.30  38 frames are taken for 2MUCD_11188 with exposure time of 60sec. Sky is clear UT13:40-14:36 but cloudy.
+Mar.31  Cloudy and raining. No observation.
+Apr.01  Cloudy and raining. No observation.
+
+Note that I mis-uploaded 2 files. Please delete 20200325_M51-001ha.fits and 20200325_M51-001r.fits in s3://eden-data/RAW/LOT/2MUCD11188/2020-03-25/. I am sorry for inconvenience.
+
+If there is any other problem/comment, please let me know. Thank you.

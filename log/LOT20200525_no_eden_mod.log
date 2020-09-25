@@ -1,0 +1,43 @@
+-----------------
+input parameters
+-----------------
+['modify_header_eden.py', 'LOT20200525_no_eden', '17']
+Your will modify header for: LP_388-55 [RA] 17 35 12.8661 [Dec] +26 34 49.5732 [Filter] GG495
+---------------
+folder: LOT20200525_no_eden
+will update fits in: LOT20200525_no_eden_mod
+ ---------------------------
+ Exame Fits Header for Bias
+ ---------------------------
+find ./LOT20200525_no_eden/bias-dark/ | grep 'fits\|fts'|sort 
+found 6 Bias/Dark
+1/6 Bias-20200525@192246-000S.fts [TYPE] BIAS [EXPTIME] 0.0
+2/6 Bias-20200525@192256-000S.fts [TYPE] BIAS [EXPTIME] 0.0
+3/6 Bias-20200525@192302-000S.fts [TYPE] BIAS [EXPTIME] 0.0
+4/6 Bias-20200525@192309-000S.fts [TYPE] BIAS [EXPTIME] 0.0
+5/6 Bias-20200525@192316-000S.fts [TYPE] BIAS [EXPTIME] 0.0
+6/6 Bias-20200525@192323-000S.fts [TYPE] BIAS [EXPTIME] 0.0
+ ---------------------------
+ Exame Fits Header for Flat
+ ---------------------------
+find ./LOT20200525_no_eden/ | grep flat/ |grep eden| grep -E 'fits|fts'|sort -t'-' -k2.4,2.6 
+found 10 Flat
+1/10 202005026_domeflat-001Eden.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] GG495
+2/10 202005026_domeflat-002Eden.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] GG495
+3/10 202005026_domeflat-003Eden.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] GG495
+4/10 202005026_domeflat-004Eden.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] GG495
+5/10 202005026_domeflat-005Eden.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] GG495
+6/10 202005026_domeflat-001NoFilter.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] NoFilter-A0
+7/10 202005026_domeflat-002NoFilter.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] NoFilter-A0
+8/10 202005026_domeflat-003NoFilter.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] NoFilter-A0
+9/10 202005026_domeflat-004NoFilter.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] NoFilter-A0
+10/10 202005026_domeflat-005NoFilter.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] NoFilter-A0
+ ---------------------------
+ Update Fits Header for Science Target
+ ---------------------------
+find ./LOT20200525_no_eden/wchen/ | cut -d / -f1-4| grep 'fits\|fts'  |sort -t'@' -k2
+found 0 Target
+
+... update header ...
+... write log file to LOT20200525_no_eden_mod.log ...
+... finish ...

@@ -1,0 +1,31 @@
+Target:	2MUCD11188
+Observation start (UT): 2020-03-25 13:20:44
+Observation end (UT):	2020-03-25 21:08:11
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	353
+
+
+Bias:		
+		Bias-20200325@214622-000S.fts to Bias-20200325@214726-000S.fts
+		
+Dark:		
+	5S	Dark-20200325@214734-005S.fts to Dark-20200325@214921-005S.fts
+	10S	Dark-20200325@214934-010S.fts to Dark-20200325@215205-010S.fts
+	20S	Dark-20200325@215223-020S.fts to Dark-20200325@215627-020S.fts
+	30S	Dark-20200325@215655-030S.fts to Dark-20200325@220230-030S.fts
+	60S	Dark-20200325@220309-060S.fts to Dark-20200325@221313-060S.fts
+	120S	Dark-20200325@221421-120S.fts to Dark-20200325@223326-120S.fts
+	240S	Dark-20200325@223534-240S.fts to Dark-20200325@231235-240S.fts
+
+Flat:	30S	20200325_flat-001eden.fits to 20200325_flat-002eden.fits
+	20S	20200325_flat-003eden.fits to 20200325_flat-005eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear after 12:55 UT, cloud pass between 15:30 - 15:54, 16:30 - 17:36, 18:36 - 18:48 UT.
+
+Note: I mis-uploaded 2 files. Please delete 20200325_M51-001ha.fits and 20200325_M51-001r.fits in s3://eden-data/RAW/LOT/2MUCD11188/2020-03-25/
+

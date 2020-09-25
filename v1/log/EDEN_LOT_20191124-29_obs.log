@@ -1,0 +1,13 @@
+Hi all, the data taken between Nov.24-28 at Lulin has been uploaded. Here is summary.
+
+Nov.24  394 frames are taken for 2MASS_J0314+1603 with exposure time of 60s. Sky is clear between 12:15 to 15:50 and after 16:50 UT.
+Nov.25  166 frames are taken for 2MASS_J0314+1603 with exposure time of 60s. Weather between UT 11:00 to 12:04, 12:48 to 15:43 and unstable.
+Nov.26  202 frames are taken for 2MASS_J0314+1603 with exposure time of 60s. Sky is clear between 15:20 to 16:16 and after 18:50 UT.
+Nov.27  33 frames are taken for 2MASS_J0314+1603 with exposure time of 60s. Sky is clear between 18:30 to 19:37 UT.
+Nov.28  410 frames are taken for 2MASS_J0314+1603 with exposure time of 60s. Sky is clear all night.
+Nov.29  328 frames are taken for 2MASS_J0314+1603 with exposure time of 60s. Sky is clear after 12:15 UT.
+
+The filter name in the image header of our target is "GG495".
+The object name in the image header of 2MASS J03571999+410742 is  2MASS_J0357+4107	=> wrong
+The data is not overexposure.If there is any problem/comment, please let me know.
+

@@ -1,0 +1,19 @@
+Target:	LSPM_J0419+4233
+Observation start (UT):	2019-10-22 13:28:45
+Observation end (UT):	2019-10-22 15:50:31
+Camera:	SOPHIA
+Filter:	Eden GG495
+Exptime(s): 60s
+Frames:	109
+
+Bias:	None
+
+Dark:	None
+
+Flat:	None
+
+Additional Dark for Flat:	None for GG495
+	
+
+
+Weather report: clear UT 12:30-16:00

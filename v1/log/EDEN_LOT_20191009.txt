@@ -1,0 +1,34 @@
+Target:	2MUCD10014
+Observation start (UT):	12:37:02
+Observation end (UT):	19:51:24
+Camera:	SOPHIA
+Filter:	Eden GG495
+Exptime(s): 60s
+Frames:	195
+
+Bias:	
+		Bias-20191009@214410-000S.fts to Bias-20191010@071640-000S.fts
+
+Dark:	
+	60s	Dark-20191010@080757-060S.fts to Dark-20191010@081759-060S.fts
+	100s	Dark-20191010@081907-100S.fts to Dark-20191010@083508-100S.fts
+	120s	Dark-20191010@083656-120S.fts to Dark-20191010@085556-120S.fts
+	240s	Dark-20191010@085804-240S.fts to Dark-20191010@093503-240S.fts
+	300s	Dark-20191010@071648-300S.fts to Dark-20191010@080250-300S.fts
+
+Flat:	
+	GG495			20191009-001eden10s.fits to 20191009-008eden10s.fits
+	B_319144		20191009-001b5s.fits to 20191009-009b5s.fits
+	gp_Astrodon_2019	20191009-001gp10s.fits to 20191009-006gp10s.fits
+	I_10349			20191009-001i5s.fits to 20191009-005i5s.fits
+	R_10349			20191009-001r5s.fits to 20191009-005r5s.fits
+	rp_Astrodon_2019	20191009-001rp10s.fits to 20191009-005rp5s.fits
+	V_319142		20191009-001v5s.fits to 20191009-005v5s.fits
+
+Additional Dark for Flat:
+	5s	20191009-001d5s.fits to 20191009-010d5s.fits
+	10s	20191009-001d10s.fits to 20191009-010d10s.fits
+	
+
+
+Weather report: None

@@ -1,0 +1,21 @@
+Target:	LP_647-13
+Observation start (UT): 2020-09-18 18:25:40
+Observation end (UT):	2020-09-18 20:17:26
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	81
+
+
+
+Bias:		202000918-001bias.fits to 202000918-010bias.fits
+		
+Dark:	
+	60s	202000918-001d60s.fits to 202000918-010d60s.fits
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report: thin cloud from UT 1810 to 1917 and then cloudy

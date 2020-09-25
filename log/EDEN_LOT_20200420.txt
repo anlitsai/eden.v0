@@ -1,0 +1,20 @@
+Target:	2MUCD11188
+Observation start (UT): 2020-04-20 18:29:20
+Observation end (UT):	2020-04-20 20:40:21
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	74
+
+
+Bias:		Bias-20200420@205504-000S.fts to Bias-20200420@205609-000S.fts
+		
+Dark:	60S	Dark-20200420@205617-060S.fts to Dark-20200420@210623-060S.fts
+
+Flat:	None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear between 18:10 to 18:47 UT and after 19:36 UT. Cloud passes between 18:47 to 19:36 UT.
+

@@ -1,0 +1,34 @@
+Target:	LSPM_J0124+6819
+Observation start (UT):	2019-11-06 10:37:32
+Observation end (UT):	2019-11-06 12:28:25
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	90 
+
+Target:	LSPM_J0357+4107
+Observation start (UT):	2019-11-06 13:08:06
+Observation end (UT):	2019-11-06 20:11:05
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	340 
+
+
+Bias:	
+		Bias-20191106@214200-000S.fts to Bias-20191106@214306-000S.fts
+
+Dark:	
+	15S	Dark-20191106@214315-015S.fts to Dark-20191106@214632-015S.fts
+	60S	Dark-20191106@214655-060S.fts to Dark-20191106@215826-060S.fts
+	120S	Dark-20191106@215933-120S.fts to Dark-20191106@221835-120S.fts
+	180S	Dark-20191106@222043-180S.fts to Dark-20191106@224845-180S.fts
+	240S	Dark-20191106@225153-240S.fts to Dark-20191106@232854-240S.fts
+	480S	Dark-20191106@233303-480S.fts to Dark-20191107@004606-480S.fts
+
+Flat:	None
+
+Additional Dark for Flat:	None
+	
+
+Weather report: thin cloud

@@ -1,0 +1,19 @@
+Target:	2MUCD11188
+Observation start (UT): 
+Observation end (UT):	
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	0
+
+
+Bias:	None
+		
+Dark:	None
+
+Flat:	10S	20200418-001eden.fits to 20200418-007eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear before UT12:10.

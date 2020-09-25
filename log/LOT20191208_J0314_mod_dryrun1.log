@@ -1,0 +1,16 @@
+Bucket successfully loaded! eden-data
+8 files found
+Storing data to the S3 archive!
+Doing a dry run - uploads will not be committed.
+Verbose output enabled.
+Storing LOT20191208_J0314_mod/20191208_flat-001eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2019-12-08/20191208_flat-001eden.fits (1/8) (dry run)
+Storing LOT20191208_J0314_mod/20191208_flat-002eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2019-12-08/20191208_flat-002eden.fits (2/8) (dry run)
+Storing LOT20191208_J0314_mod/20191208_flat-003eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2019-12-08/20191208_flat-003eden.fits (3/8) (dry run)
+Storing LOT20191208_J0314_mod/20191208_flat-004eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2019-12-08/20191208_flat-004eden.fits (4/8) (dry run)
+Storing LOT20191208_J0314_mod/20191208_flat-005eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2019-12-08/20191208_flat-005eden.fits (5/8) (dry run)
+Storing LOT20191208_J0314_mod/2MASSJ0314-20191208@104213-Eden.fts -> s3://eden-data/RAW/LOT/2MASS_J03140344+1603056/2019-12-08/2MASSJ0314-20191208@104213-Eden.fits (6/8) (dry run)
+Storing LOT20191208_J0314_mod/2MASSJ0314-20191208@104649-Eden.fts -> s3://eden-data/RAW/LOT/2MASS_J03140344+1603056/2019-12-08/2MASSJ0314-20191208@104649-Eden.fits (7/8) (dry run)
+Storing LOT20191208_J0314_mod/2MASSJ0314-20191208@104816-Eden.fts -> s3://eden-data/RAW/LOT/2MASS_J03140344+1603056/2019-12-08/2MASSJ0314-20191208@104816-Eden.fits (8/8) (dry run)
+
+Dry run complete! Run again without --dryrun to commit the changes above.
+Stored: 8 files (0.1 GB)

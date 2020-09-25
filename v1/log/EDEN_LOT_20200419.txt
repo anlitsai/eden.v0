@@ -1,0 +1,29 @@
+Target:	2MUCD11188
+Observation start (UT): 2020-04-19 12:17:39
+Observation end (UT):	2020-04-19 20:37:30
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	366 unstable
+
+
+Bias:		
+		Bias-20200419@204218-000S.fts to Bias-20200419@224701-000S.fts
+		
+Dark:		
+	1S	Dark-20200419@204258-001S.fts to Dark-20200419@204341-001S.fts
+	3S	Dark-20200419@204348-003S.fts to Dark-20200419@204445-003S.fts
+	5S	Dark-20200419@204453-005S.fts to Dark-20200419@204610-005S.fts
+	10S	Dark-20200419@204620-010S.fts to Dark-20200419@204823-010S.fts
+	30S	Dark-20200419@204839-030S.fts to Dark-20200419@205339-030S.fts
+	60S	Dark-20200419@224709-060S.fts to Dark-20200419@225753-060S.fts
+	300S	Dark-20200419@205413-300S.fts to Dark-20200419@213948-300S.fts
+	360S	Dark-20200419@214453-360S.fts to Dark-20200419@223942-360S.fts
+
+Flat:
+	5S	20200419-001eden.fits to 20200419-009eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Cloud frequently passes all night.

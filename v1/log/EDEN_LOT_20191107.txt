@@ -1,0 +1,22 @@
+Target:	LSPM_J0357+4107
+Observation start (UT):	2019-11-07 12:59:05
+Observation end (UT):	2019-11-07 20:16:03
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	325
+
+Bias:	
+		Bias-20191107@220930-000S.fts to Bias-20191107@221034-000S.fts
+
+Dark:	
+	60S	Dark-20191107@221042-060S.fts to Dark-20191107@222043-060S.fts
+	120S	Dark-20191107@222151-120S.fts to Dark-20191107@224053-120S.fts
+	240S	Dark-20191107@224301-240S.fts to Dark-20191107@232001-240S.fts
+
+Flat:	5S	20191007-002eden.fits to 20191007-008eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: clear all night

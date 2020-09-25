@@ -1,0 +1,29 @@
+Target:	TOI_736
+Observation start (UT): 2020-02-27 12:28:22
+Observation end (UT):	2020-02-27 16:00:30
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	102
+
+Target: LSPM_J1055+0808
+Observation start (UT): 2020-02-27 16:04:41
+Observation end (UT):   2020-02-27 21:01:47
+Camera: SOPHIA
+Filter: GG495
+Exptime(s): 60sec
+Frames: 232
+
+
+Bias:		
+		Bias-20200227@211214-000S.fts to Bias-20200227@211319-000S.fts
+		
+Dark:		
+	60S	Dark-20200227@211328-060S.fts to Dark-20200227@212330-060S.fts
+
+Flat:	None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is unstable all night.

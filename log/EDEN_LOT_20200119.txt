@@ -1,0 +1,18 @@
+Not scheduled date. Only Bias/Dark are taken.
+
+
+Bias:		
+		Bias-20200119@223512-000S.fts to Bias-20200119@223614-000S.fts
+		
+Dark:		
+	5S	Dark-20200119@223622-005S.fts to Dark-20200119@223810-005S.fts
+	30S	Dark-20200119@223824-030S.fts to Dark-20200119@224357-030S.fts
+	60S	Dark-20200119@224435-060S.fts to Dark-20200119@225438-060S.fts
+	1800S	Dark-20200119@225545-1800S.fts to Dark-20200120@032646-1800S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report:  Sky is clear after UT11:00
