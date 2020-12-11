@@ -1,0 +1,29 @@
+Target:	LSPM_J0140+2701
+Observation start (UT): 2020-11-04 10:55:50
+Observation end (UT):	2020-11-04 12:59:50
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	96
+
+Target:	LSPM_J0419+4233
+Observation start (UT): 2020-11-04 13:04:17
+Observation end (UT):	2020-11-04 21:24:50
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	365
+
+
+
+Bias:		Bias-20201104@214706-000S.fts to Bias-20201104@214810-000S.fts
+		
+Dark:	
+	60s	Dark-20201104@215110-060S.fts to Dark-20201104@220008-060S.fts
+
+Flat:		202001104_flat-001eden.fits to 202001104_flat-010eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: thin cloud all night.

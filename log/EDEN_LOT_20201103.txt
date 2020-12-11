@@ -1,0 +1,30 @@
+Target:	LP_647-13
+Observation start (UT): 2020-11-03 11:02:27
+Observation end (UT):	2020-11-03 18:25:37
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	284
+
+Target:	2MASS_J05153094+5911184
+Observation start (UT): 2020-11-02 18:56:33
+Observation end (UT):	2020-11-02 21:07:22
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	102
+
+
+
+Bias:		Bias-20201103@220644-000S.fts to Bias-20201103@220751-000S.fts
+		
+Dark:	
+	60s	Dark-20201103@220800-060S.fts to Dark-20201103@221803-060S.fts
+
+Flat:	2s	202001103_domeflat-001Eden.fits to 202001103_domeflat-010Eden.fits
+	10s	202001103_flat-001Eden.fits to 202001103_flat-005Eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: There was thin cloud all night and foggy around 14:24 - 15:30 UT.

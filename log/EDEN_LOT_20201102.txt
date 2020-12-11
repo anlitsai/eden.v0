@@ -1,0 +1,29 @@
+Target:	LP_647-13
+Observation start (UT): 2020-11-02 11:42:57
+Observation end (UT):	2020-11-02 18:42:18
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	326
+
+Target:	2MASS_J05153094+5911184
+Observation start (UT): 2020-11-02 18:56:33
+Observation end (UT):	2020-11-02 21:07:22
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	102
+
+
+
+Bias:		Bias-20201102@212525-000S.fts to Bias-20201102@212630-000S.fts
+		
+Dark:	
+	60s	Dark-20201102@212639-060S.fts to Dark-20201102@213644-060S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report: cloud all night.

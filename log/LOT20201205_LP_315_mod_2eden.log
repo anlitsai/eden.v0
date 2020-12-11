@@ -1,0 +1,35 @@
+Bucket successfully loaded! eden-data
+27 files found
+Storing data to the S3 archive!
+We can now start uploading the data.
+Press return to start the upload, or anything else to abort: Verbose output enabled.
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/20201205_skyflat-001_eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-12-05/20201205_skyflat-001_eden.fits (1/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/20201205_skyflat-002_eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-12-05/20201205_skyflat-002_eden.fits (2/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/20201205_skyflat-003_eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-12-05/20201205_skyflat-003_eden.fits (3/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/20201205_skyflat-004_eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-12-05/20201205_skyflat-004_eden.fits (4/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/20201205_skyflat-005_eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-12-05/20201205_skyflat-005_eden.fits (5/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/20201205_skyflat-006_eden.fits -> s3://eden-data/Calibrations/LOT/FLAT/2020-12-05/20201205_skyflat-006_eden.fits (6/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Bias-20201205@220503-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-05/Bias-20201205@220503-000S.fits (7/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Bias-20201205@220513-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-05/Bias-20201205@220513-000S.fits (8/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Bias-20201205@220519-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-05/Bias-20201205@220519-000S.fits (9/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Bias-20201205@220526-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-05/Bias-20201205@220526-000S.fits (10/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Bias-20201205@220533-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-05/Bias-20201205@220533-000S.fits (11/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Bias-20201205@220539-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-05/Bias-20201205@220539-000S.fits (12/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Bias-20201205@220546-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-05/Bias-20201205@220546-000S.fits (13/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Bias-20201205@220553-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-05/Bias-20201205@220553-000S.fits (14/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Bias-20201205@220559-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-05/Bias-20201205@220559-000S.fits (15/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Bias-20201205@220606-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-05/Bias-20201205@220606-000S.fits (16/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Dark-20201205@220814-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-05/Dark-20201205@220814-060S.fits (17/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Dark-20201205@220920-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-05/Dark-20201205@220920-060S.fits (18/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Dark-20201205@221027-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-05/Dark-20201205@221027-060S.fits (19/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Dark-20201205@221133-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-05/Dark-20201205@221133-060S.fits (20/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Dark-20201205@221240-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-05/Dark-20201205@221240-060S.fits (21/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Dark-20201205@221347-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-05/Dark-20201205@221347-060S.fits (22/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Dark-20201205@221454-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-05/Dark-20201205@221454-060S.fits (23/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Dark-20201205@221601-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-05/Dark-20201205@221601-060S.fits (24/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Dark-20201205@221707-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-05/Dark-20201205@221707-060S.fits (25/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/Dark-20201205@221814-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-05/Dark-20201205@221814-060S.fits (26/27)
+Storing /home/altsai/eden/LOT20201205_LP_315_mod/LP_315-53-20201205@204022-Eden.fts -> s3://eden-data/RAW/LOT/LP_315-53/2020-12-05/LP_315-53-20201205@204022-Eden.fits (27/27)
+
+Upload complete!
+Stored: 27 files (0.2 GB)

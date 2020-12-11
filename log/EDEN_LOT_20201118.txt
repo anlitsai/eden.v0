@@ -1,0 +1,30 @@
+Target:	LSPM_J0140+2701
+Observation start (UT): 2020-11-18 10:33:57
+Observation end (UT):	2020-11-18 11:55:42
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	66
+
+Target:	LSPM_J0419+4233
+Observation start (UT): 2020-11-18 12:02:05
+Observation end (UT):	2020-11-18 21:26:57
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	451
+
+
+
+Bias:		Bias-20201118@220328-000S.fts to Bias-20201118@220433-000S.fts
+		
+Dark:	
+	60s	Dark-20201118@221811-060S.fts to Dark-20201118@222814-060S.fts
+
+Flat:	5s	202001118_flat-001eden.fits to 202001118_flat-011eden.fits
+	30s	202001118_flat-012eden.fits to 202001118_flat-018eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: Sky was clear all night.

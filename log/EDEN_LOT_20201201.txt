@@ -1,0 +1,29 @@
+Target:	LSPM_J0140+2701
+Observation start (UT): 2020-11-19 10:34:44
+Observation end (UT):	2020-11-19 18:36:17
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	386
+
+Target:	LSPM_J0419+4233
+Observation start (UT): 2020-11-19 18:46:09
+Observation end (UT):	2020-11-19 21:35:42
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	137
+
+
+
+Bias:		Bias-20201119@222635-000S.fts to Bias-20201119@222743-000S.fts
+		
+Dark:	
+	60s	Dark-20201119@224120-060S.fts to Dark-20201119@225122-060S.fts
+
+Flat:	20s	202001119_flat-001eden.fits to 202001119_flat-005eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: The sky was clear btw. 11:00 - 17:00 UT. There was thin cloud btw. 17:00 - 21:30 UT

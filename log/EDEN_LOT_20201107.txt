@@ -1,0 +1,22 @@
+Target:	LSPM_J0419+4233
+Observation start (UT): 2020-11-07 18:14:11
+Observation end (UT):	2020-11-07 21:20:22
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	141
+
+
+
+
+Bias:		20201107-001bias.fits to 20201107-010bias.fits
+		
+Dark:	
+	60s	20201107-001d60s.fits to 20201107-010d60s.fits
+
+Flat:	5s	20201107-001eden.fits to 20201107-010eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: Sky was clear after 18:00 UT.

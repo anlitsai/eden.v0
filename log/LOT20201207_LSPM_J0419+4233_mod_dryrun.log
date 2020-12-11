@@ -1,0 +1,42 @@
+Bucket successfully loaded! eden-data
+34 files found
+Storing data to the S3 archive!
+Doing a dry run - uploads will not be committed.
+Verbose output enabled.
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Bias-20201207@205447-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-07/Bias-20201207@205447-000S.fits (1/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Bias-20201207@205456-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-07/Bias-20201207@205456-000S.fits (2/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Bias-20201207@205503-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-07/Bias-20201207@205503-000S.fits (3/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Bias-20201207@205510-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-07/Bias-20201207@205510-000S.fits (4/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Bias-20201207@205517-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-07/Bias-20201207@205517-000S.fits (5/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Bias-20201207@205524-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-07/Bias-20201207@205524-000S.fits (6/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Bias-20201207@205532-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-07/Bias-20201207@205532-000S.fits (7/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Bias-20201207@205540-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-07/Bias-20201207@205540-000S.fits (8/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Bias-20201207@205546-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-07/Bias-20201207@205546-000S.fits (9/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Bias-20201207@205554-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2020-12-07/Bias-20201207@205554-000S.fits (10/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Dark-20201207@205602-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-07/Dark-20201207@205602-060S.fits (11/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Dark-20201207@205709-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-07/Dark-20201207@205709-060S.fits (12/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Dark-20201207@205816-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-07/Dark-20201207@205816-060S.fits (13/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Dark-20201207@205923-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-07/Dark-20201207@205923-060S.fits (14/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Dark-20201207@210030-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-07/Dark-20201207@210030-060S.fits (15/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Dark-20201207@210137-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-07/Dark-20201207@210137-060S.fits (16/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Dark-20201207@210243-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-07/Dark-20201207@210243-060S.fits (17/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Dark-20201207@210350-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-07/Dark-20201207@210350-060S.fits (18/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Dark-20201207@210457-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-07/Dark-20201207@210457-060S.fits (19/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/Dark-20201207@210604-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2020-12-07/Dark-20201207@210604-060S.fits (20/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/LSPM_J0419+4233-20201207@193356-Eden.fts -> s3://eden-data/RAW/LOT/LSPM_J0419+4233/2020-12-07/LSPM_J0419+4233-20201207@193356-Eden.fits (21/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/LSPM_J0419+4233-20201207@193511-Eden.fts -> s3://eden-data/RAW/LOT/LSPM_J0419+4233/2020-12-07/LSPM_J0419+4233-20201207@193511-Eden.fits (22/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/LSPM_J0419+4233-20201207@193625-Eden.fts -> s3://eden-data/RAW/LOT/LSPM_J0419+4233/2020-12-07/LSPM_J0419+4233-20201207@193625-Eden.fits (23/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/LSPM_J0419+4233-20201207@193740-Eden.fts -> s3://eden-data/RAW/LOT/LSPM_J0419+4233/2020-12-07/LSPM_J0419+4233-20201207@193740-Eden.fits (24/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/LSPM_J0419+4233-20201207@193854-Eden.fts -> s3://eden-data/RAW/LOT/LSPM_J0419+4233/2020-12-07/LSPM_J0419+4233-20201207@193854-Eden.fits (25/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/LSPM_J0419+4233-20201207@194009-Eden.fts -> s3://eden-data/RAW/LOT/LSPM_J0419+4233/2020-12-07/LSPM_J0419+4233-20201207@194009-Eden.fits (26/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/LSPM_J0419+4233-20201207@194123-Eden.fts -> s3://eden-data/RAW/LOT/LSPM_J0419+4233/2020-12-07/LSPM_J0419+4233-20201207@194123-Eden.fits (27/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/LSPM_J0419+4233-20201207@194237-Eden.fts -> s3://eden-data/RAW/LOT/LSPM_J0419+4233/2020-12-07/LSPM_J0419+4233-20201207@194237-Eden.fits (28/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/LSPM_J0419+4233-20201207@194351-Eden.fts -> s3://eden-data/RAW/LOT/LSPM_J0419+4233/2020-12-07/LSPM_J0419+4233-20201207@194351-Eden.fits (29/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/LSPM_J0419+4233-20201207@194505-Eden.fts -> s3://eden-data/RAW/LOT/LSPM_J0419+4233/2020-12-07/LSPM_J0419+4233-20201207@194505-Eden.fits (30/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/LSPM_J0419+4233-20201207@194620-Eden.fts -> s3://eden-data/RAW/LOT/LSPM_J0419+4233/2020-12-07/LSPM_J0419+4233-20201207@194620-Eden.fits (31/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/LSPM_J0419+4233-20201207@194735-Eden.fts -> s3://eden-data/RAW/LOT/LSPM_J0419+4233/2020-12-07/LSPM_J0419+4233-20201207@194735-Eden.fits (32/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/LSPM_J0419+4233-20201207@194849-Eden.fts -> s3://eden-data/RAW/LOT/LSPM_J0419+4233/2020-12-07/LSPM_J0419+4233-20201207@194849-Eden.fits (33/34) (dry run)
+Storing /home/altsai/eden/LOT20201207_LSPM_J0419+4233_mod/LSPM_J0419+4233-20201207@195003-Eden.fts -> s3://eden-data/RAW/LOT/LSPM_J0419+4233/2020-12-07/LSPM_J0419+4233-20201207@195003-Eden.fits (34/34) (dry run)
+
+Dry run complete! Run again without --dryrun to commit the changes above.
+Stored: 34 files (0.3 GB)
