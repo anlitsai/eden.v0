@@ -1,0 +1,21 @@
+Target:	LSPM_J0419+4233
+Observation start (UT): 2020-12-06 11:04:30
+Observation end (UT):	2020-12-06 20:46:33
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	256
+
+
+
+Bias:		Bias-20201206@220532-000S.fts to Bias-20201206@220639-000S.fts
+		
+Dark:	
+	60s	Dark-20201206@220846-060S.fts to Dark-20201206@221847-060S.fts
+
+Flat:		20201206_skyflat-001_eden.fits to 20201206_skyflat-006_eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: Thin clouds pass before 14:00 UT. The sky become clear after 18:00 UT.

@@ -1,0 +1,30 @@
+Target:	LSPM_J0140+2701
+Observation start (UT): 2020-12-03 11:28:58
+Observation end (UT):	2020-12-03 18:51:53
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	300
+
+Target:	LSPM_J0140+2701
+Observation start (UT): 2020-12-03 15:14:49
+Observation end (UT):	2020-12-03 15:57:15
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	35
+
+
+
+
+Bias:		Bias-20201203@205001-000S.fts to Bias-20201203@205105-000S.fts
+		
+Dark:	
+	60s	Dark-20201203@205113-060S.fts to Dark-20201203@210114-060S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report: 10:40 - 16:00 UT cloud pass. 16:00 - 17:41 UT sky was clear. 17:41 - 18:49 cloud past.

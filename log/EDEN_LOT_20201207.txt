@@ -1,0 +1,20 @@
+Target:	LSPM_J0419+4233
+Observation start (UT): 2020-12-07 19:33:56
+Observation end (UT):	2020-12-07 19:50:03
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	14
+
+
+Bias:		Bias-20201207@205447-000S.fts to Bias-20201207@205554-000S.fts
+		
+Dark:	
+	60s	Dark-20201207@205602-060S.fts to Dark-20201207@210604-060S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report: The sky was clear after UT 16:00. but  very unstable weather. 

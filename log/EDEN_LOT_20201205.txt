@@ -1,0 +1,29 @@
+Target:	LSPM_J0419+4233
+Observation start (UT): 2020-12-05 19:16:17
+Observation end (UT):	2020-12-05 20:36:28
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	63
+
+Target:	LP_315-53
+Observation start (UT): 2020-12-05 20:40:22
+Observation end (UT):	2020-12-05 20:41:22
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	1
+
+
+
+Bias:		Bias-20201205@220503-000S.fts to Bias-20201205@220606-000S.fts
+		
+Dark:	
+	60s	Dark-20201205@220814-060S.fts to Dark-20201205@221814-060S.fts
+
+Flat:		None20201205_skyflat-001_eden.fits to 20201205_skyflat-006_eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: The sky was clear after 17:30 UT.
