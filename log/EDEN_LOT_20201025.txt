@@ -1,0 +1,37 @@
+Target:	LP_229-30
+Observation start (UT): 2020-10-25 10:40:36
+Observation end (UT):	2020-10-25 11:39:15
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	44
+
+Target:	LP_647-13
+Observation start (UT): 2020-10-25 11:43:47
+Observation end (UT):	2020-10-25 19:03:38
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	198
+
+Target:	2MASS_J05153094+5911184
+Observation start (UT): 2020-10-25 19:13:41
+Observation end (UT):	2020-10-25 21:04:20
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	90
+
+
+
+Bias:		202001025-001bias.fits to 202001025-010bias.fits
+		
+Dark:	
+	60s	202001025-001d60s.fits to 202001025-010d60s.fits
+
+Flat:		202001025_flat-001Eden.fits to 202001025_flat-010Eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: Sky was clear before 11:52 and after 17:35 UT. There were think cloud around 11:52-13:14, 13:50 - 14:25, and 15:16 - 15:40 UT.

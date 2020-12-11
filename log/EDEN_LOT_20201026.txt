@@ -1,0 +1,38 @@
+Target:	LP_229-30
+Observation start (UT): 2020-10-26 10:40:25
+Observation end (UT):	2020-10-26 11:19:44
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	23
+
+Target:	LP_647-13
+Observation start (UT): 2020-10-26 12:48:36
+Observation end (UT):	2020-10-26 18:51:06
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	282
+
+Target:	2MASS_J05153094+5911184
+Observation start (UT): 2020-10-26 18:56:37
+Observation end (UT):	2020-10-26 21:06:55
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	103
+
+
+
+Bias:		202001026-001bias.fits to 202001026-010bias.fits
+		Bias-20201026@095132-000S.fts to Bias-20201026@095518-000S.fts
+		
+Dark:	
+	60s	202001026-001d60s.fits to 202001026-010d60s.fits
+
+Flat:		202001026_flat-001Eden.fits to 202001026_flat-005Eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: There was thin cloud before 12:52 UT. The sky was clear after that.

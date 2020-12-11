@@ -1,0 +1,21 @@
+Target:	LP_647-13
+Observation start (UT): 2020-09-16 13:59:28
+Observation end (UT):	2020-09-16 20:27:49
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	274
+
+
+
+Bias:		202000916-LP647-001bias.fits to 202000916-LP647-010bias.fits
+		
+Dark:	
+	60s	202000916-LP647-001d60s.fits to 202000916-LP647-010d60s.fits
+
+Flat:	2s	202000916-001eden.fits to 202000916-010eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: sometimes thin cloud pass before UT16:00 and clear after UT 16:00 

@@ -1,0 +1,30 @@
+Target:	LP_647-13
+Observation start (UT): 2020-10-19 16:47:50
+Observation end (UT):	2020-10-19 19:33:54
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	123
+
+Target:	2MASS_J0515+5911
+Observation start (UT): 2020-10-19 19:50:36
+Observation end (UT):	2020-10-19 21:03:57
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	60
+
+
+
+
+Bias:		Bias-20201019@215319-000S.fts to Bias-20201019@215423-000S.fts
+		
+Dark:	
+	60s	Dark-20201019@215431-060S.fts to Dark-20201019@220433-060S.fts
+
+Flat:		202001019_flat-001eden.fits to 202001019_flat-006eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: Sky was clear after 16:00 UT.

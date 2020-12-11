@@ -1,0 +1,31 @@
+Bucket successfully loaded! eden-data
+23 files found
+Storing data to the S3 archive!
+Doing a dry run - uploads will not be committed.
+Verbose output enabled.
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@104025-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@104025-Eden.fits (1/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@104140-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@104140-Eden.fits (2/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@104916-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@104916-Eden.fits (3/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@105032-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@105032-Eden.fits (4/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@105150-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@105150-Eden.fits (5/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@105307-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@105307-Eden.fits (6/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@105424-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@105424-Eden.fits (7/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@105540-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@105540-Eden.fits (8/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@105656-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@105656-Eden.fits (9/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@105812-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@105812-Eden.fits (10/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@105927-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@105927-Eden.fits (11/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@110044-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@110044-Eden.fits (12/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@110158-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@110158-Eden.fits (13/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@110315-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@110315-Eden.fits (14/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@110430-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@110430-Eden.fits (15/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@111059-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@111059-Eden.fits (16/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@111214-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@111214-Eden.fits (17/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@111328-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@111328-Eden.fits (18/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@111444-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@111444-Eden.fits (19/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@111559-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@111559-Eden.fits (20/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@111713-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@111713-Eden.fits (21/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@111827-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@111827-Eden.fits (22/23) (dry run)
+Storing /home/altsai/eden/LOT20201026_LP_229_30_mod/LP_229-30-20201026@111944-Eden.fts -> s3://eden-data/RAW/LOT/LP_229-30/2020-10-26/LP_229-30-20201026@111944-Eden.fits (23/23) (dry run)
+
+Dry run complete! Run again without --dryrun to commit the changes above.
+Stored: 23 files (0.2 GB)
