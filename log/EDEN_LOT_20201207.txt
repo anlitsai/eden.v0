@@ -17,4 +17,4 @@ Flat:		None
 Additional Dark for Flat:	None
 	
 
-Weather report: The sky was clear after UT 16:00. but  very unstable weather. 
+Weather report: The sky was clear after UT 16:00, but sometimes thin clouds past. 

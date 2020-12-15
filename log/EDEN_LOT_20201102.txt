@@ -26,4 +26,4 @@ Flat:		None
 Additional Dark for Flat:	None
 	
 
-Weather report: cloud all night.
+Weather report: Cloudy all night.

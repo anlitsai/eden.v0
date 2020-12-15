@@ -6,7 +6,7 @@ Filter:	GG495
 Exptime(s): 60sec
 Frames:	11
 
-Target:	LSPM_J0140+2701
+Target:	LSPM_J0419+4233
 Observation start (UT): 2020-12-01 12:03:07
 Observation end (UT):	2020-12-01 20:57:54
 Camera:	SOPHIA
