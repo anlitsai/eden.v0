@@ -1,0 +1,18 @@
+Target:	LP_220-13
+Observation start (UT):	2021-06-03 13:06:01
+Observation end (UT): 2021-06-03 18:40:15
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	272
+
+
+Bias:		Bias-20210603@203505-000S.fts to Bias-20210603@203611-000S.fts
+		
+Dark:		Dark-20210603@203953-060S.fts to Dark-20210603@204956-060S.fts
+
+Flat:		no flat
+
+Additional Dark for Flat:	None
+
+Weather report:	clear after UT 12:35, EDEN

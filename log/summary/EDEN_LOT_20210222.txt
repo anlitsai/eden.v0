@@ -1,0 +1,13 @@
+Target:	only FLAT is obtained
+
+
+Bias:		None
+		
+Dark:		None
+
+Flat:		20210222_flat-001eden.fits to 20210222_flat-005eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: clear all night

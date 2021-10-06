@@ -1,0 +1,18 @@
+Target:	LP_647-13
+Observation start (UT): 2021-09-28 17:20:53
+Observation end (UT):	2021-09-28 20:54:13
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	167
+
+
+Bias:		Bias-20210928@211901-000S.fts to Bias-20210928@212006-000S.fts
+		
+Dark:	60s	Dark-20210928@212736-060S.fts to Dark-20210928@213739-060S.fts
+
+Flat:	5s	20210928_flat-001eden.fits to 20210928_flat-008eden.fits
+
+Additional Dark for Flat:	5s	20210928_flat-001d5s.fits to 20210928_flat-010d5s.fits
+
+Weather report:	 Fog pass between UT12:03-13:00, and the sky was clear in other time.

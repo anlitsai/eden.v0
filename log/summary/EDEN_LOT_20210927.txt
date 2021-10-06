@@ -1,0 +1,27 @@
+Target:	LP_229-30
+Observation start (UT): 2021-09-27 14:55:15
+Observation end (UT):	2021-09-27 15:44:55
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	41
+
+Target:	LP_647-13
+Observation start (UT): 2021-09-27 17:17:48
+Observation end (UT):	2021-09-27 20:59:45
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	183
+
+
+
+Bias:		Bias-20210927@213430-000S.fts to Bias-20210927@213535-000S.fts
+		
+Dark:	60s	Dark-20210927@214301-060S.fts to Dark-20210927@215303-060S.fts
+
+Flat:	20s	20210927_flat-001eden.fits to 20210927_flat-005eden.fits
+
+Additional Dark for Flat:	None
+
+Weather report:	 The sky was clear after UT 16:30.

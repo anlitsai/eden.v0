@@ -1,0 +1,27 @@
+Target:	LSPM_J0419+4233
+Observation start (UT): 2021-03-18 11:48:27
+Observation end (UT):	2021-03-18 13:59:55
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	95
+
+Target:	LP_315-53
+Observation start (UT): 2021-03-18 15:09:42
+Observation end (UT):	2021-03-18 19:39:51
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	206
+
+
+Bias:		Bias-20210318@211356-000S.fts to Bias-20210318@211504-000S.fts
+		
+Dark:		Dark-20210318@212124-060S.fts to Dark-20210318@213127-060S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+
+Weather report: clear all night but thin cloud pass between UT 12:40-13:40, 16:13, 17:13-18:14, 18:37-20:05 
+

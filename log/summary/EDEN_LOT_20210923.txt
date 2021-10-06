@@ -1,0 +1,27 @@
+Target:	LP_229-30
+Observation start (UT): 2021-09-23 14:27:42
+Observation end (UT):	2021-09-23 16:12:38
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	83
+
+Target:	GJ1083
+Observation start (UT): 2021-09-23 17:07:34
+Observation end (UT):	2021-09-23 20:00:39
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	133
+
+
+
+Bias:		Bias-20210923@211006-000S.fts to Bias-20210923@211110-000S.fts
+		
+Dark:	60s	Dark-20210923@211321-060S.fts to Dark-20210923@212324-060S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+
+Weather report:	 Clouds pass by all night.

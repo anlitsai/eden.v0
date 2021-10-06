@@ -1,0 +1,2 @@
+no data
+weather: observed between UT 12:55 to 13:32, 14:10 to 14:36, 16:42 to 17:00, with cloud passed all night, SNe, EDEN

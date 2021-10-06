@@ -1,0 +1,26 @@
+Target:	LSPM_J0419+4233
+Observation start (UT): 2021-03-20 12:50:56
+Observation end (UT):	2021-03-20 13:58:50
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	51
+
+Target:	LP_315-53
+Observation start (UT): 2021-03-20 15:06:38
+Observation end (UT):	2021-03-20 19:34:26
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	210
+
+
+Bias:		Bias-20210320@215120-000S.fts to Bias-20210320@215228-000S.fts
+		
+Dark:		Dark-20210320@215237-060S.fts to Dark-20210320@220241-060S.fts
+
+Flat:		AutoFlat-20210320@212754-Eden-Bin1-001.fts to AutoFlat-20210320@213106-Eden-Bin1-005.fts
+
+Additional Dark for Flat:	None
+
+Weather report:	clear after UT 12:30

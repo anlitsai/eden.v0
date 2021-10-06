@@ -1,0 +1,20 @@
+Target:	GJ1083
+Observation start (UT): 2021-09-25 17:23:31
+Observation end (UT):	2021-09-25 21:10:46
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	167
+
+
+
+Bias:		Bias-20210925@213905-000S.fts to Bias-20210925@214009-000S.fts
+		
+Dark:		Dark-20210925@214510-060S.fts to Dark-20210925@215511-060S.fts
+
+Flat:	30s	20210925_flat-001eden.fits to 20210925_flat-006eden.fits
+	10s	20210925_flat-002eden.fits to 20210925_flat-006eden.fits
+
+Additional Dark for Flat:	None
+
+Weather report:	The observation after 16:00 UT had thin cloud and the sky was clear after 18:30 UT.

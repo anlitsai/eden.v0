@@ -1,0 +1,18 @@
+Target:	LP_220-13
+Observation start (UT): 2021-06-02 14:33:58
+Observation end (UT):	2021-06-02 18:43:59
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	208
+
+
+Bias:		Bias-20210602@202118-000S.fts to Bias-20210602@202222-000S.fts
+		
+Dark:		Dark-20210602@202603-060S.fts to Dark-20210602@203604-060S.fts
+
+Flat:		20210602_domeflat-001Eden.fits to 20210602_domeflat-010Eden.fits
+
+Additional Dark for Flat:	None
+
+Weather report:	observed with cloud all night

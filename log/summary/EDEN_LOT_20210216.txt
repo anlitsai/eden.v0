@@ -1,0 +1,21 @@
+Target:	2MUCD20596
+Observation start (UT): 2021-02-16 20:08:28
+Observation end (UT):	2021-02-16 21:09:41
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	46
+
+
+
+Bias:		Bias-20210216@211447-000S.fts to Bias-20210216@211552-000S.fts
+		
+Dark:		Dark-20210216@211724-060S.fts to Dark-20210216@232640-060S.fts
+
+Flat:		None
+
+Additional Dark for Flat:	None
+	
+
+Weather report: clear UT17:40-18:10 and UT20:00-20:40 , 20:45-21:30 
+

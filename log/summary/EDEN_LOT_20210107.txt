@@ -1,0 +1,27 @@
+Target:	LP_423-14
+Observation start (UT): 2021-01-07 11:36:24
+Observation end (UT):	2021-01-07 13:34:45
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	77
+
+Target:	LSPM_J0903+0540
+Observation start (UT): 2021-01-07 13:40:34
+Observation end (UT):	2021-01-07 15:03:06
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	49
+
+
+Bias:		Bias-20210107@212903-000S.fts to Bias-20210107@213008-000S.fts
+		
+Dark:		Dark-20210107@213015-060S.fts to Dark-20210107@214019-060S.fts
+
+Flat:		20210107_flat-001eden.fits to 20210107_flat-010eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: clear before 13:55 UT, cloud passed between 14:15 to 15:03 UT

@@ -23,10 +23,6 @@ Index	Object	RA_hhmmss	DEC_ddmmss	filter	html
 21	LP_647-13	"01 09 51.2023"	"-03 43 26.3911"	GG495	http://simbad.u-strasbg.fr/simbad/sim-id?Ident=LP+647-13
 22	2MASS_J05153094+5911184	"05 15 30.9554"	"+59 11 17.4255"	GG495	http://simbad.u-strasbg.fr/simbad/sim-id?Ident=2MASS+J05153094%2B5911184
 23	LSPM_J0140+2701	"01 40 02.6490"	"+27 01 50.0354"	GG495	http://simbad.u-strasbg.fr/simbad/sim-id?Ident=LSPM_J0140%2B2701
-24	LSPM_J0903+0540	"09 03 20.9815"	"+05 40 14.7828"	GG495	http://simbad.u-strasbg.fr/simbad/sim-id?Ident=LSPM_J0903%2B0540
-25	LP_423-14	"07 41 06.7895"	"+17 38 44.8453"	GG495	http://simbad.u-strasbg.fr/simbad/sim-id?Ident=LP_423-14
+24	LP_423-14	"07 41 06.7895"	"+17 38 44.8453"	GG495	http://simbad.u-strasbg.fr/simbad/sim-id?Ident=LP_423-14
+25	LSPM_J0903+0540	"09 03 20.9815"	"+05 40 14.7828"	GG495	http://simbad.u-strasbg.fr/simbad/sim-id?Ident=LSPM_J0903%2B0540
 26	2MUCD20596	"15 01 08.1871"	"+22 50 02.1204"	GG495	http://simbad.u-strasbg.fr/simbad/sim-id?Ident=2MUCD20596
-27	LP_35-347	"08 25 52.8440"	"+69 02 01.1677"	GG495	http://simbad.u-strasbg.fr/simbad/sim-id?Ident=LP_35-347
-28	LP_220-13	"13 56 41.4636"	"+43 42 59.1835"	GG495	http://simbad.u-strasbg.fr/simbad/sim-id?Ident=LP_220-13
-29	GJ_1083	"13 56 41.4636"	"+43 42 59.1835"	GG495	http://simbad.u-strasbg.fr/simbad/sim-id?Ident=GJ_1083
-30	TOI_1749	"18:50:56.93"	"+64:25:10.08"	GG495	https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=18+50+56.92909842858+%2B64+25+10.0585833427&Radius=1&Radius.unit=arcmin&submit=submit+query

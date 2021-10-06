@@ -1,0 +1,29 @@
+Target:	TOI_1749
+Observation start (UT): 2021-09-30 12:12:50
+Observation end (UT):	2021-09-30 15:53:34
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 15sec
+Frames:	353
+
+Target:	LP_647-13
+Observation start (UT): 2021-09-30 17:42:14
+Observation end (UT):	2021-09-30 20:46:20
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	153
+
+
+
+Bias:		Bias-20210930@214856-000S.fts to Bias-20210930@215002-000S.fts
+		
+Dark:	60s	Dark-20210930@215011-060S.fts to Dark-20210930@220014-060S.fts
+	15s	Dark-20210930@220121-015S.fts to Dark-20210930@220440-015S.fts
+
+Flat:	5s	20210930-001eden.fits to 20210930-010eden.fits
+
+Additional Dark for Flat:	3s	20210930-001d3s.fits to 20210930-010d3s.fits, 20210930-001d3s-1.fits to 20210930-010d3s-1.fits
+				5s	20210930-001d5s.fits to 20210930-010d5s.fits, 20210930-001d5s-1.fits to 20210930-010d5s-1.fits
+
+Weather report:	 The sky was coudy around UT 12:40-21:00 and 14:00-14:15.

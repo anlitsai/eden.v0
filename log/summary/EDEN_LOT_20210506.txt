@@ -1,0 +1,28 @@
+Target:	LP_315-53
+Observation start (UT): 2021-05-06 12:57:54
+Observation end (UT):	2021-05-06 16:17:44
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	163
+
+
+Target: LP_220-13
+Observation start (UT): 2021-05-06 16:24:33
+Observation end (UT):	2021-05-06 20:19:55
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	196
+
+
+
+Bias:		Bias-20210506@202328-000S.fts to Bias-20210506@202432-000S.fts
+		
+Dark:		Dark-20210506@202440-060S.fts to Dark-20210506@203445-060S.fts
+
+Flat:		AutoFlat-20210506@104532-Eden-Bin1-001.fts to AutoFlat-20210506@104624-Eden-Bin1-005.fts
+
+Additional Dark for Flat:	None
+
+Weather report:	clear all night but very thin cloud passed sometimes

@@ -1,0 +1,104 @@
+-----------------
+input parameters
+-----------------
+['modify_header_name_eden.py', 'LOT20210222', '26']
+Your will modify header for: 2MUCD20596 [RA] 15 01 08.1871 [Dec] +22 50 02.1204 [Filter] GG495
+---------------
+folder: LOT20210222
+will update fits in: LOT20210222_mod
+ ---------------------------
+ Exame Fits Header for Bias
+ ---------------------------
+find ./LOT20210222/bias-dark/ | grep 'fits\|fts'|sort 
+found 24 Bias/Dark
+1/24 Bias-20210222@221425-000S.fts [TYPE] BIAS [EXPTIME] 0.0
+2/24 Bias-20210222@221435-000S.fts [TYPE] BIAS [EXPTIME] 0.0
+3/24 Bias-20210222@221441-000S.fts [TYPE] BIAS [EXPTIME] 0.0
+4/24 Bias-20210222@221448-000S.fts [TYPE] BIAS [EXPTIME] 0.0
+5/24 Bias-20210222@221455-000S.fts [TYPE] BIAS [EXPTIME] 0.0
+6/24 Bias-20210222@221501-000S.fts [TYPE] BIAS [EXPTIME] 0.0
+7/24 Bias-20210222@221508-000S.fts [TYPE] BIAS [EXPTIME] 0.0
+8/24 Bias-20210222@221515-000S.fts [TYPE] BIAS [EXPTIME] 0.0
+9/24 Bias-20210222@221523-000S.fts [TYPE] BIAS [EXPTIME] 0.0
+10/24 Bias-20210222@221531-000S.fts [TYPE] BIAS [EXPTIME] 0.0
+11/24 Dark-20210222@221538-005S.fts [TYPE] DARK [EXPTIME] 5.0
+12/24 Dark-20210222@221550-005S.fts [TYPE] DARK [EXPTIME] 5.0
+13/24 Dark-20210222@221602-005S.fts [TYPE] DARK [EXPTIME] 5.0
+14/24 Dark-20210222@221614-005S.fts [TYPE] DARK [EXPTIME] 5.0
+15/24 Dark-20210222@221626-005S.fts [TYPE] DARK [EXPTIME] 5.0
+16/24 Dark-20210222@221638-005S.fts [TYPE] DARK [EXPTIME] 5.0
+17/24 Dark-20210222@221651-005S.fts [TYPE] DARK [EXPTIME] 5.0
+18/24 Dark-20210222@221703-005S.fts [TYPE] DARK [EXPTIME] 5.0
+19/24 Dark-20210222@221715-005S.fts [TYPE] DARK [EXPTIME] 5.0
+20/24 Dark-20210222@221726-005S.fts [TYPE] DARK [EXPTIME] 5.0
+21/24 Dark-20210222@221739-090S.fts [TYPE] DARK [EXPTIME] 90.0
+22/24 Dark-20210222@221916-090S.fts [TYPE] DARK [EXPTIME] 90.0
+23/24 Dark-20210222@222052-090S.fts [TYPE] DARK [EXPTIME] 90.0
+24/24 Dark-20210222@222230-090S.fts [TYPE] DARK [EXPTIME] 90.0
+ ---------------------------
+ Exame Fits Header for Flat
+ ---------------------------
+find ./LOT20210222/ | grep flat/ | grep -E 'fits|fts'|sort -t'-' -k2.4,2.6 
+found 50 Flat
+1/50 AutoFlat-20210222@215250-ip_Astrodon_2019-Bin1-001.fts [TYPE] FLAT [EXPTIME] 30.0 [FIL] ip_Astrodon_2019
+2/50 AutoFlat-20210222@215447-ip_Astrodon_2019-Bin1-002.fts [TYPE] FLAT [EXPTIME] 30.0 [FIL] ip_Astrodon_2019
+3/50 AutoFlat-20210222@215528-ip_Astrodon_2019-Bin1-003.fts [TYPE] FLAT [EXPTIME] 30.0 [FIL] ip_Astrodon_2019
+4/50 AutoFlat-20210222@215609-ip_Astrodon_2019-Bin1-004.fts [TYPE] FLAT [EXPTIME] 30.0 [FIL] ip_Astrodon_2019
+5/50 AutoFlat-20210222@215650-ip_Astrodon_2019-Bin1-005.fts [TYPE] FLAT [EXPTIME] 30.0 [FIL] ip_Astrodon_2019
+6/50 AutoFlat-20210222@215744-rp_Astrodon_2019-Bin1-001.fts [TYPE] FLAT [EXPTIME] 18.4 [FIL] rp_Astrodon_2019
+7/50 AutoFlat-20210222@215849-rp_Astrodon_2019-Bin1-002.fts [TYPE] FLAT [EXPTIME] 16.23 [FIL] rp_Astrodon_2019
+8/50 AutoFlat-20210222@215916-rp_Astrodon_2019-Bin1-003.fts [TYPE] FLAT [EXPTIME] 14.13 [FIL] rp_Astrodon_2019
+9/50 AutoFlat-20210222@215942-rp_Astrodon_2019-Bin1-004.fts [TYPE] FLAT [EXPTIME] 12.45 [FIL] rp_Astrodon_2019
+10/50 AutoFlat-20210222@220006-rp_Astrodon_2019-Bin1-005.fts [TYPE] FLAT [EXPTIME] 11.03 [FIL] rp_Astrodon_2019
+11/50 AutoFlat-20210222@220037-gp_Astrodon_2019-Bin1-001.fts [TYPE] FLAT [EXPTIME] 4.33 [FIL] gp_Astrodon_2019
+12/50 AutoFlat-20210222@220118-gp_Astrodon_2019-Bin1-002.fts [TYPE] FLAT [EXPTIME] 4.27 [FIL] gp_Astrodon_2019
+13/50 AutoFlat-20210222@220134-gp_Astrodon_2019-Bin1-003.fts [TYPE] FLAT [EXPTIME] 3.97 [FIL] gp_Astrodon_2019
+14/50 AutoFlat-20210222@220148-gp_Astrodon_2019-Bin1-004.fts [TYPE] FLAT [EXPTIME] 3.69 [FIL] gp_Astrodon_2019
+15/50 AutoFlat-20210222@220203-gp_Astrodon_2019-Bin1-005.fts [TYPE] FLAT [EXPTIME] 3.45 [FIL] gp_Astrodon_2019
+16/50 AutoFlat-20210222@220228-zp_Astrodon_2019-Bin1-001.fts [TYPE] FLAT [EXPTIME] 28.21 [FIL] zp_Astrodon_2019
+17/50 AutoFlat-20210222@220342-zp_Astrodon_2019-Bin1-002.fts [TYPE] FLAT [EXPTIME] 24.93 [FIL] zp_Astrodon_2019
+18/50 AutoFlat-20210222@220419-zp_Astrodon_2019-Bin1-003.fts [TYPE] FLAT [EXPTIME] 20.6 [FIL] zp_Astrodon_2019
+19/50 AutoFlat-20210222@220450-zp_Astrodon_2019-Bin1-004.fts [TYPE] FLAT [EXPTIME] 17.28 [FIL] zp_Astrodon_2019
+20/50 AutoFlat-20210222@220519-zp_Astrodon_2019-Bin1-005.fts [TYPE] FLAT [EXPTIME] 14.82 [FIL] zp_Astrodon_2019
+21/50 20210222_flat-001b.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] B_319144
+22/50 20210222_flat-002b.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] B_319144
+23/50 20210222_flat-003b.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] B_319144
+24/50 20210222_flat-004b.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] B_319144
+25/50 20210222_flat-005b.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] B_319144
+26/50 20210222_flat-001eden.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] GG495
+27/50 20210222_flat-002eden.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] GG495
+28/50 20210222_flat-003eden.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] GG495
+29/50 20210222_flat-004eden.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] GG495
+30/50 20210222_flat-005eden.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] GG495
+31/50 20210222_flat-001gp.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] gp_Astrodon_2019
+32/50 20210222_flat-002gp.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] gp_Astrodon_2019
+33/50 20210222_flat-003gp.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] gp_Astrodon_2019
+34/50 20210222_flat-004gp.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] gp_Astrodon_2019
+35/50 20210222_flat-005gp.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] gp_Astrodon_2019
+36/50 20210222_flat-001ip.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] ip_Astrodon_2019
+37/50 20210222_flat-002ip.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] ip_Astrodon_2019
+38/50 20210222_flat-003ip.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] ip_Astrodon_2019
+39/50 20210222_flat-004ip.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] ip_Astrodon_2019
+40/50 20210222_flat-005ip.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] ip_Astrodon_2019
+41/50 20210222_flat-001rp.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] rp_Astrodon_2019
+42/50 20210222_flat-002rp.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] rp_Astrodon_2019
+43/50 20210222_flat-003rp.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] rp_Astrodon_2019
+44/50 20210222_flat-004rp.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] rp_Astrodon_2019
+45/50 20210222_flat-005rp.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] rp_Astrodon_2019
+46/50 20210222_flat-001zp.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] zp_Astrodon_2019
+47/50 20210222_flat-002zp.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] zp_Astrodon_2019
+48/50 20210222_flat-003zp.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] zp_Astrodon_2019
+49/50 20210222_flat-004zp.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] zp_Astrodon_2019
+50/50 20210222_flat-005zp.fits [TYPE] FLAT [EXPTIME] 5.0 [FIL] zp_Astrodon_2019
+ ---------------------------
+ Exame Fits Header for Additional Dark for Flat
+ ---------------------------
+find ./LOT20210222/ | grep flat/ |grep dark| grep -E 'fits|fts'|sort -t'-' -k2.4,2.6 
+found 0 Additional Dark for Flat
+no additional dark for flat in ./flat/
+ ---------------------------
+ Modify filename for Science Target
+ ---------------------------
+... update header ...
+... write log file to LOT20210222_mod.log ...
+... finish ...

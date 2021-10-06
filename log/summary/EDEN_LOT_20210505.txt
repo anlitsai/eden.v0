@@ -1,0 +1,19 @@
+Target:	LP_220-13
+Observation start (UT): 2021-05-05 18:59:45
+Observation end (UT):	2021-05-05 20:09:11
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	53
+
+
+Bias:		Bias-20210505@201509-000S.fts to Bias-20210505@201615-000S.fts
+		
+Dark:		Dark-20210505@201623-060S.fts to Dark-20210505@202626-060S.fts
+
+Flat:		no flat
+
+Additional Dark for Flat:	None
+
+Weather report:	clear after UT 18:50
+

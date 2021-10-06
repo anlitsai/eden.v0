@@ -1,0 +1,27 @@
+Target:	LSPM_J0419+4233
+Observation start (UT): 2021-01-05 12:12:13
+Observation end (UT):	2021-01-05 18:16:41
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	292
+
+Target:	LP_315-53
+Observation start (UT): 2021-01-05 18:24:30
+Observation end (UT):	2021-01-05 21:29:06
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	148
+
+
+Bias:		None
+		
+Dark:		None
+
+Flat:		20210105_flat-001eden.fits to 20210105_flat-010eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: The sky was clear all night.

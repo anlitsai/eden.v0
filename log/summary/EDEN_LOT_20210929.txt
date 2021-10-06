@@ -1,0 +1,29 @@
+Target:	TOI_1749
+Observation start (UT): 2021-09-29 11:12:26
+Observation end (UT):	2021-09-29 15:21:57
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 10sec
+Frames:	1130
+
+Target:	LP_647-13
+Observation start (UT): 2021-09-29 16:05:20
+Observation end (UT):	2021-09-29 20:11:48
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	197
+
+
+
+Bias:		Bias-20210929@205520-000S.fts to Bias-20210929@205629-000S.fts
+		
+Dark:	60s	Dark-20210929@205638-060S.fts to Dark-20210929@210639-060S.fts
+	10s	Dark-20210929@210747-010S.fts to Dark-20210929@211022-010S.fts
+
+Flat:	5s	20210929-001eden.fits to 20210929-008eden.fits
+
+Additional Dark for Flat:	5s	20210929-001d5s.fits to 20210929-010d5s.fits
+				10s	20210929-001d10s.fits to 20210929-010d10s.fits
+
+Weather report:	 The sky was clear all night. 

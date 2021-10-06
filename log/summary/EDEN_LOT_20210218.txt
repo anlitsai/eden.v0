@@ -1,0 +1,27 @@
+Target:	LSPM_J0419+4233
+Observation start (UT): 2021-02-18 11:32:50
+Observation end (UT):	2021-02-18 15:29:40
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	191
+
+Target:	2MUCD20596
+Observation start (UT): 2021-02-18 16:18:17
+Observation end (UT):	2021-02-18 21:29:54
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	248
+
+
+Bias:		20210218-001bias.fits to 20210218-010bias.fits
+		
+Dark:		20210218-001d60s.fits to 20210218-010d60s.fits
+
+Flat:		20210218-001eden.fits to 20210218-010eden.fits
+
+Additional Dark for Flat:	None
+	
+
+Weather report: clear all night

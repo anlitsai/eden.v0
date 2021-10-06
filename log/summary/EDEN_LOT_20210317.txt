@@ -1,0 +1,28 @@
+Target:	LSPM_J0419+4233
+Observation start (UT): 2021-03-17 11:45:52
+Observation end (UT):	2021-03-17 13:48:41
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	103
+
+Target:	LP_315-53
+Observation start (UT): 2021-03-17 13:54:42
+Observation end (UT):	2021-03-17 19:38:05
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	286
+
+
+Bias:		Bias-20210317@205618-000S.fts to Bias-20210317@205724-000S.fts
+		
+Dark:		Dark-20210317@205731-060S.fts to Dark-20210317@210733-060S.fts
+
+Flat:		20210316-001eden.fits to 20210316-010eden.fits
+
+Additional Dark for Flat:
+	5S	20210316-001d5s.fits to 20210316-011d5s.fits
+	10S	20210316-001d10s.fits to 20210316-011d10s.fits
+
+Weather report: clear all night 
