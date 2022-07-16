@@ -1,0 +1,30 @@
+Target:	2MASS_J04351612-1606574
+Observation start (UT): 2022-01-04 14:18:03
+Observation end (UT):	2022-01-04 15:21:29
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 30sec
+Frames: 329	
+
+Target:	2MASS_J08533619-0329321
+Observation start (UT): 2022-01-04 17:30:42
+Observation end (UT):	2022-01-04 20:03:56
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	121
+
+
+
+Bias:		Bias-20220104@203654-000S.fts to Bias-20220104@203759-000S.fts
+		
+Dark:	30s	Dark-20220104@203807-030S.fts to Dark-20220104@204341-030S.fts
+	60s	Dark-20220104@204419-060S.fts to Dark-20220104@205422-060S.fts
+
+Flat:	N/A
+
+Additional Dark for Flat:	N/A
+
+Weather report:	It was cloudy all the time.
+
+

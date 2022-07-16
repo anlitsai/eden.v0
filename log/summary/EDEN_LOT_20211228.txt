@@ -1,0 +1,32 @@
+Target:	2MASS_J04351612-1606574
+Observation start (UT): 2021-12-28 13:03:24
+Observation end (UT):	2021-12-28 16:03:03
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 30sec
+Frames:	229
+
+Target:	2MASS_J08533619-0329321
+Observation start (UT): 2021-12-28 16:10:50
+Observation end (UT):	2021-12-28 21:57:08
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	270
+
+
+
+
+Bias:		Bias-20211228@224331-000S.fts to Bias-20211228@224436-000S.fts
+		
+Dark:	30s	Dark-20211228@224444-030S.fts to Dark-20211228@225014-030S.fts
+	60s	Dark-20211228@225052-060S.fts to Dark-20211228@230054-060S.fts
+
+Flat:		20211228-001eden.fits to 20211228-008eden.fits
+
+Additional Dark for Flat:	
+	3s	20211228-001d3s.fits to 20211228-010d3s.fits
+	5s	20211228-001d5s.fits to 20211228-010d5s.fits
+
+Weather report:	The sky was clear all night.
+

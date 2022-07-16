@@ -1,0 +1,29 @@
+Target:	LP_647-13
+Observation start (UT): 2021-10-16 16:13:30
+Observation end (UT):	2021-10-16 16:17:09
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	4
+
+
+Target:	GJ_1083
+Observation start (UT): 2021-10-16 17:03:42
+Observation end (UT):	2021-10-16 20:25:44
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 30sec
+Frames:	253
+
+
+
+Bias:		Bias-20211016@204742-000S.fts to Bias-20211016@210652-000S.fts
+		
+Dark:	60s	Dark-20211016@205505-060S.fts to Dark-20211016@210508-060S.fts
+	30s	Dark-20211016@204852-030S.fts to Dark-20211016@205427-030S.fts
+
+Flat:		N/A
+
+Additional Dark for Flat:	N/A
+
+Weather report: The weather condition: UT1300-1520 clear, 1520-1600 cloudy 1600-1640 clear, 1640-1730 cloudy, 1730-1750 clear, 1750-1844 cloudy, 1844-1930 sometimes cloud pass, after 1930 cloudy.

@@ -1,0 +1,19 @@
+Target:	2MASS_J08255285+6902016
+Observation start (UT): 2022-02-04 12:03:43
+Observation end (UT):	2022-02-04 21:03:15
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	476
+
+Bias:		Bias-20220204@224155-000S.fts to Bias-20220204@224300-000S.fts
+		
+Dark:	60s	Dark-20220204@224308-060S.fts to Dark-20220205@005856-060S.fts
+
+Flat:	10s	20220204-001eden.fits to 20220204-009eden.fits
+
+Additional Dark for Flat:	 5s	20220204-001d5s.fits to 20220204-010d5s.fits
+				10s	20220204-001d10s.fits to 20220204-010d10s.fits
+
+Weather report:	The sky was clear all night.
+

@@ -1,0 +1,30 @@
+Target:	2MASS_J15345704-1418486
+Observation start (UT): 2022-05-09 15:49:34
+Observation end (UT):	2022-05-09 19:09:36
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	154
+
+Target:	2MASS_J15242475+2925318
+Observation start (UT): 2022-05-09 19:12:08
+Observation end (UT):	2022-05-09 20:15:24
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	49
+
+
+
+
+
+Bias:		Bias-20220509@202119-000S.fts to Bias-20220509@202229-000S.fts
+		
+Dark:		Dark-20220509@202315-060S.fts to Dark-20220509@214059-060S.fts
+ 
+Flat:	 	N/A
+
+Additional Dark for Flat:	 N/A
+
+Weather report:	cloudy all night
+

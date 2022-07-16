@@ -1,0 +1,30 @@
+Target:	2MASS_J11505787+4822395
+Observation start (UT): 2022-02-25 12:19:28
+Observation end (UT):	2022-02-25 16:00:28
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 5sec, 15sec
+Frames:	621
+
+
+Target:	2MASS_J14280419+1356137
+Observation start (UT): 2022-02-25 17:02:05
+Observation end (UT):	2022-02-25 21:21:37
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 30sec, 60sec
+Frames:	206
+
+
+
+Bias:		Bias-20220225@222821-000S.fts to Bias-20220225@222929-000S.fts
+		
+Dark:	30s	Dark-20220225@222950-030S.fts to Dark-20220225@235752-030S.fts
+	60s	Dark-20220225@223027-060S.fts to Dark-20220225@235829-060S.fts
+
+Flat:		AutoFlat-20220225@214727-Eden-Bin1-001.fts to AutoFlat-20220225@215025-Eden-Bin1-005.fts, and 20220225_flat-001eden.fits
+
+Additional Dark for Flat:	N/A
+
+Weather report:	The sky was clear all night. The total observation time is 7.87hrs.
+

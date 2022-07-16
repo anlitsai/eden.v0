@@ -1,0 +1,29 @@
+Target:	2MASS_J15242475+2925318
+Observation start (UT): 2022-07-05 14:40:23
+Observation end (UT):	2022-07-05 14:41:58
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	3
+
+
+Target:	2MASS_J20443743+1517352
+Observation start (UT): 2022-07-05 16:23:43
+Observation end (UT):	2022-07-05 20:06:08
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	154
+
+
+
+Bias:		Bias-20220705@205910-000S.fts to Bias-20220705@210021-000S.fts
+		
+Dark:		Dark-20220705@210107-060S.fts to Dark-20220705@215402-060S.fts
+ 
+Flat:	 	N/A
+
+Additional Dark for Flat:	 N/A
+
+Weather report:	The sky was clear between UT 17:20-19:00.
+

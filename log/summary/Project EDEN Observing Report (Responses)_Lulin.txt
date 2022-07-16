@@ -1,0 +1,199 @@
+2019/10/31 10:15:04 AM	Lulin	2019/10/21	clear after UT 11:40	2MUCD 10014	7:52:25		
+2019/10/31 10:16:43 AM	Lulin	2019/10/22	clear UT 12:30-16:00	LSPM J0419+4233	2:22:00		
+2019/10/31 10:19:08 AM	Lulin	2019/10/23	clear before UT 16:00	2MUCD 10014	1:06:00	LSPM J0419+4233	1:25:00
+2019/10/31 10:20:31 AM	Lulin	2019/10/24	cloudy and no observation				
+2019/10/31 10:21:42 AM	Lulin	2019/10/25	unstable	LSPM J0419+4233	5:20:00		
+2019/10/31 10:24:32 AM	Lulin	2019/10/26	cloudy UT 13:10-14:10	LSPM J0330+5413	1:13:00	LSPM J0419+4233	5:50:00
+2019/10/31 10:25:50 AM	Lulin	2019/10/27	clear between UT 12:30 - 20:32 and unstable after 19:22	LSPM J0419+4233	5:55:00		
+2019/10/31 10:27:38 AM	Lulin	2019/10/28	not scheduled date. only upload bias and dark from this date				
+2019/11/11 07:08:36 AM	Lulin	2019/11/02	clear after UT11:00. overexposure for 60sec	LSPM J0124+6819	8:50:00		
+2019/11/11 07:09:04 AM	Lulin	2019/11/03	no observation due to cloudy				
+2019/11/11 07:09:37 AM	Lulin	2019/11/04	no observation due to cloudy weather				
+2019/11/11 07:10:38 AM	Lulin	2019/11/05	clear after UT12:00	LSPM J0357+4107	6:50:00		
+2019/11/11 07:16:55 AM	Lulin	2019/11/06	thin cloud all night. 	LSPM J0124+6819	1:50:00	LSPM J0357+4107	7:03:00
+2019/11/11 07:20:26 AM	Lulin	2019/11/07	clear all night	LSPM J0357+4107	7:17:00		
+2019/11/29 11:43:08 AM	Lulin	2019/11/24	Sky is clear between 12:15 to 15:50 and after 16:50 UT.	2MASS J03140344+1603056	8:13:00	2MASS J03140344+1603056	
+2019/11/29 11:49:58 AM	Lulin	2019/11/25	Weather is unstable for all night.	2MASS J03140344+1603056	3:16:00	2MASS J03140344+1603056	
+2019/11/29 11:51:22 AM	Lulin	2019/11/26	Sky is clear between 15:20 to 16:16 and after 18:50	2MASS J03140344+1603056	6:35:00		
+2019/11/29 11:52:04 AM	Lulin	2019/11/27	Sky is clear between 18:30 to 19:37 UT.	2MASS J03140344+1603056	0:40:00		
+2019/11/29 11:53:02 AM	Lulin	2019/11/28	Sky is clear all night.	2MASS J03140344+1603056	9:00:00	2MASS J03140344+1603056	
+2019/12/13 02:47:54 AM	Lulin	2019/12/03	Sky is clear but high thin cloud between UT10:00-10:30, 16:00-19:00.	2MASS J03140344+1603056	9:00:00		
+2019/12/13 02:48:17 AM	Lulin	2019/12/04	rain. no observation.				
+2019/12/13 02:48:39 AM	Lulin	2019/12/05	rain. no observation.				
+2019/12/13 02:49:02 AM	Lulin	2019/12/06	rain. no observation.				
+2019/12/13 03:25:38 AM	Lulin	2019/12/07	Sky is clear between UT 11:30 to 15:25 abnd after 16:30	HD 191939	0:50:00	2MASS J03140344+1603056	5:30:00
+2019/12/15 12:10:00 PM	Lulin	2019/12/08	Sky is clear before UT 18:29.	HD 191939	0:01:00	2MASS J03140344+1603056	7:46:00
+2020/02/05 09:18:39 PM	Lulin	2020/12/24	Sky is clear all night but wind speed is high after UT15:50.	LSPM J0510+2714	6:16:00		
+2020/02/05 09:19:14 PM	Lulin	2020/12/25	cloudy. no observation				
+2020/02/05 09:25:14 PM	Lulin	2020/12/26	Strong wind from UT 13:30 to 15:00, bad seeing before UT 15:00, thin cloud after UT19:00	LSPM J0510+2714	8:50:00		
+2020/02/05 09:30:29 PM	Lulin	2020/12/27	no observation.				
+2020/02/05 09:30:51 PM	Lulin	2020/12/28	rain. no observation.				
+2020/02/05 09:32:22 PM	Lulin	2020/12/29	Sky is unstable all night.	LSPM J0510+2714	0:28:00		
+2020/02/05 11:05:16 PM	Lulin	2020/01/13	Sky is clear all night.	LSPM J0510+2714	6:12:00	LP 310-34	2:00:00
+2020/02/05 11:07:16 PM	Lulin	2020/01/14	Sky is clear all night.	LSPM J0510+2714	6:45:00	LP 310-34	2:01:00
+2020/02/05 11:08:43 PM	Lulin	2020/01/15	Sky is clear all night	LSPM J0510+2714	6:00:00	LP 310-34	2:55:00
+2020/02/05 11:10:05 PM	Lulin	2020/01/16	Sky is clear all night.	LSPM J0510+2714	5:15:00	LP 310-34	2:55:00
+2020/02/05 11:11:33 PM	Lulin	2020/01/17	Sky is clear before UT18:00	LSPM J0510+2714	2:17:00	LP 310-34	5:30:00
+2020/02/05 11:13:18 PM	Lulin	2020/01/18	 Sky is clear before UT16:00 but the sky was unstable between UT 13:00-16:00	LSPM J0510+2714	2:00:00	LP 310-34	2:36:00
+2020/02/05 11:13:53 PM	Lulin	2020/01/19	Not scheduled date. Only Bias/Dark are taken.				
+2020/02/20 10:56:17 PM	Lulin	2020/02/14	Sky is clear after after UT16:00	LSPM J1055+0808	7:08:00		
+2020/02/20 11:17:02 PM	Lulin	2020/02/15	Sky is clear but there is cloud pass around  UT1630 - 1720.	LP 310-34	1:37:00	LSPM J1055+0808	8:43:00
+2020/02/20 11:18:37 PM	Lulin	2020/02/16	cloudy and rain. no observation.				
+2020/02/20 11:19:34 PM	Lulin	2020/02/17	Sky is clear before UT11:45 and after 13:30	LP 310-34	0:48:00	LSPM J1055+0808	8:07:00
+2020/02/20 11:24:51 PM	Lulin	2020/02/18	Sky is clear all night.	LP 310-34	2:15:00	LSPM J1055+0808	8:26:00
+2020/03/02 02:38:37 PM	Lulin	2020/02/25	Sky is unstable all night.	LP 310-34	1:29:00	LSPM J1055+0808	8:32:00
+2020/03/02 02:39:25 PM	Lulin	2020/02/26	Sky is clear after UT16:00.	LSPM J1055+0808	5:24:00		
+2020/03/02 02:40:57 PM	Lulin	2020/02/27	Sky is unstable all night.	TOI_736	3:32:00	LSPM J1055+0808	4:57:00
+2020/03/02 02:41:36 PM	Lulin	2020/02/28	Sky is unstable all night.	LSPM J1055+0808	8:00:00		
+2020/03/02 02:41:52 PM	Lulin	2020/02/29	No observation				
+2020/04/02 02:54:50 PM	Lulin	2020/03/23	Sky is clear after 19:00 UT, and cloud pass after 20:06 UT.	LP_271-25	0:47:00	2MUCD_11188	0:37:00
+2020/04/02 02:56:27 PM	Lulin	2020/03/24	Sky is clear after 12:15 UT.	LP_315-53	0:23:00	2MUCD_11188	7:50:00
+2020/04/02 02:58:30 PM	Lulin	2020/03/25	Sky is clear after 12:55 UT, cloud pass between 15:30 - 15:54, 16:30 - 17:36, 18:36 - 18:48 UT. 	2MUCD11188	7:48:00		
+2020/04/02 02:59:35 PM	Lulin	2020/03/26	Telescope is operated between 12:50 - 13:38, 15:03 - 16:00, and after 19:30 UT. Clouds pass almost all night.	2MUCD_11188	8:01:00		
+2020/04/02 03:00:46 PM	Lulin	2020/03/27	Sky is clear between 14:00 to 17:44 UT, and cloud pass after 17：03 UT.	2MUCD_11188	2:56:00		
+2020/04/02 03:02:23 PM	Lulin	2020/03/28	Sky is clear all night.	LP_315-53	2:41:00	2MUCD_11188	6:45:00
+2020/04/02 03:03:27 PM	Lulin	2020/03/29	Sky is clear all night.	LP_315-53	2:19:00	2MUCD_11188	6:28:00
+2020/04/02 03:04:22 PM	Lulin	2020/03/30	Sky is clear UT13:40-14:36 but cloudy.	2MUCD_11188	0:46:00		
+2020/04/02 03:04:41 PM	Lulin	2020/03/31	Cloudy and raining. No observation.				
+2020/04/02 03:06:16 PM	Lulin	2020/04/01	Cloudy and raining. No observation.				
+2020/04/27 11:04:41 AM	Lulin	2020/04/16	"Sky is clear all night.
+2020/04/27 11:07:10 AM	Lulin	2020/04/17	Sky is clear clear before UT15:45 and sometimes cloud pass after midnight.	2MUCD 10014	8:15:00		
+2020/04/27 11:08:53 AM	Lulin	2020/04/18	No observation.				
+2020/04/27 11:09:32 AM	Lulin	2020/04/19	"Cloud frequently passes all night.
+2020/04/27 11:10:25 AM	Lulin	2020/04/20	Sky is clear between 18:10 to 18:47 UT and after 19:36 UT. Cloud passes between 18:47 to 19:36 UT.	2MUCD 10014	2:11:00		
+2020/04/27 11:11:07 AM	Lulin	2020/04/21	Observation is executed before 15:11, 15:47 to 16:17, 16:49 to 18:17 UT. Cloud passes almost all night.	2MUCD 10014	5:13:00		
+2020/04/27 11:11:30 AM	Lulin	2020/04/22	"Cloudy and rain. No observaiton.
+2020/04/27 11:12:29 AM	Lulin	2020/04/23	"Cloudy and rain. No observation.
+2020/04/27 11:12:42 AM	Lulin	2020/04/24	"Cloudy and rain. No observation.
+2020/04/27 11:12:53 AM	Lulin	2020/04/25	"Cloudy and rain. No observation.
+2020/05/28 05:22:53 PM	Lulin	2020/05/17	The observation started after 12:00UT with thin cloud passed. Sky was clear between 15:12 to 17:15 and after 19:25 UT.	LP_388-55	4:48:00	LP_326-21	0:57:00
+2020/05/28 05:23:37 PM	Lulin	2020/05/18	cloudy and raing. no observation.				
+2020/05/28 05:25:03 PM	Lulin	2020/05/19	cloudy and raining. no observation.				
+2020/05/28 05:25:26 PM	Lulin	2020/05/19	cloudy and raining. no observation.				
+2020/05/28 05:25:50 PM	Lulin	2020/05/20	cloudy and raining. no observation.				
+2020/05/28 05:26:07 PM	Lulin	2020/05/21	cloudy and raining. no observation.				
+2020/05/28 05:26:21 PM	Lulin	2020/05/22	cloudy and raining. no observation.				
+2020/05/28 05:27:16 PM	Lulin	2020/05/23	cloudy and raining. no observation.				
+2020/05/28 05:30:43 PM	Lulin	2020/05/24	Thin cloud passed between 18:10 to 19:33 UT.	LP_388-55	0:43:00		
+2020/05/28 05:31:09 PM	Lulin	2020/05/25	No Eden target is observed. Only bias and flat are taken. Thin cloud passed between 14:53 to 15:17 UT.				
+2020/09/25 03:18:01 PM	Lulin	2020/09/16	Sometimes thin cloud passes before UT 16:00. The sky becomes clear after UT 16:00.		6:28:20		
+2020/09/25 03:19:56 PM	Lulin	2020/09/17	Thin cloud passes at UT 11:30-13:21, 13:21-13:51, 14:46-17:49, and 20:32-20:40.		2:16:14		6:56:30
+2020/09/25 03:22:48 PM	Lulin	2020/09/18	Thin cloud passes at UT 18:10-19:17, and then the sky becomes cloudy.		1:52:00		
+2020/09/25 03:23:55 PM	Lulin	2020/09/19	Cloudy and raining. No observation.				
+2020/12/14 03:16:37 AM	Lulin	2020/10/19	cloudy and no observation.				
+2020/12/14 03:19:37 AM	Lulin	2020/10/18	cloudy and no observation.				
+2020/12/14 03:21:04 AM	Lulin	2020/10/19	Sky was clear after 16:00 UT		2:46:00	2MASS_J0515+5911	1:13:00
+2020/12/14 03:21:27 AM	Lulin	2020/10/20	cloudy and no observation				
+2020/12/14 03:21:49 AM	Lulin	2020/10/21	cloudy and no observation				
+2020/12/14 03:22:15 AM	Lulin	2020/10/22	cloudy and rain. no observation.				
+2020/12/14 03:22:36 AM	Lulin	2020/10/23	cloudy and rain. no observation				
+2020/12/14 03:22:53 AM	Lulin	2020/10/24	cloudy and rain. no observation				
+2020/12/14 03:24:41 AM	Lulin	2020/10/25	Sky was clear before 11:52 and after 17:35 UT. There were think cloud around 11:52-13:14, 13:50 - 14:25, and 15:16 - 15:40 UT.	LP_229-30	1:00:00		7:20:00
+2020/12/14 03:26:07 AM	Lulin	2020/10/25	Sky was clear before 11:52 and after 17:35 UT. There were think cloud around 11:52-13:14, 13:50 - 14:25, and 15:16 - 15:40 UT.	2MASS_J05153094+5911184 (The third target this date)	1:50:00		
+2020/12/14 03:27:05 AM	Lulin	2020/10/26	There was thin cloud before 12:52 UT. The sky was clear after that.		0:40:00		6:03:00
+2020/12/14 03:28:14 AM	Lulin	2020/10/26	There was thin cloud before 12:52 UT. The sky was clear after that.	2MASS_J05153094+5911184 (The third target this date)	2:10:00		
+2020/12/14 03:29:44 AM	Lulin	2020/11/02	Cloudy all night.		7:00:00		2:11:00
+2020/12/14 03:33:57 AM	Lulin	2020/11/03	There was thin cloud all night and foggy around 14:24 - 15:30 UT.		7:23:00		2:40:00
+2020/12/14 03:35:46 AM	Lulin	2020/11/04	There was thin cloud all night		2:04:00	LSPM J0419+4233	8:20:00
+2020/12/14 03:36:01 AM	Lulin	2020/11/05	cloudy and no observation.				
+2020/12/14 03:36:18 AM	Lulin	2020/11/06	cloudy and rain. no observation.				
+2020/12/14 03:36:56 AM	Lulin	2020/11/07	The sky was clear after 18:00 UT	LSPM J0419+4233	3:06:00		
+2020/12/14 03:38:12 AM	Lulin	2020/11/17	Sky was clear all night.	LSPM J0419+4233	9:39:00		
+2020/12/14 03:39:11 AM	Lulin	2020/11/18	Sky was clear all night.		1:22:00	LSPM J0419+4233	9:24:00
+2020/12/14 03:40:12 AM	Lulin	2020/11/19	Sky was clear all night		8:02:00	LSPM J0419+4233	2:19:00
+2020/12/15 07:51:39 AM	Lulin	2020/12/01	The sky was clear around 11:00 - 17:00 UT, and had thin cloud around 17:00 - 21:30 UT.		0:22:00	LSPM J0419+4233	8:54:00
+2020/12/15 07:52:11 AM	Lulin	2020/12/01	The sky was clear around 11:00 - 17:00 UT, and had thin cloud around 17:00 - 21:30 UT.	LP_315-53 (The thrid target)	0:20:00		
+2020/12/15 07:52:32 AM	Lulin	2020/12/02	cloudy and no observation.				
+2020/12/15 07:53:42 AM	Lulin	2020/12/03	Around 10:40 - 16:00 UT clouds past. Around 16:00 - 17:41 UT sky was clear. Around 17:41 - 18:49 clouds past.	LSPM_J0140+2701	7:23:00		0:37:00
+2020/12/15 07:54:20 AM	Lulin	2020/12/04	Around 15:50 - 16:55 UT the sky was clear. Around 17:38 - 20:21 the sky was clear except 18:00 - 18:05 and 18:35 - 18:45 UT. Around 20:04 - 20:09 UT clouds past.	LSPM J0419+4233	6:14:00		
+2020/12/15 07:55:22 AM	Lulin	2020/12/05	The sky was clear after 17:30 UT.	LSPM J0419+4233	1:20:00		0:02:00
+2020/12/15 07:56:05 AM	Lulin	2020/12/06	The sky become clear after 18:00 UT.	LSPM J0419+4233	9:42:00		
+2020/12/15 07:56:42 AM	Lulin	2020/12/07	The sky was clear after UT 16:00, but sometimes thin clouds past.	LSPM J0419+4233	0:17:00		
+2021/01/08 01:11:29 PM	Lulin	2021/01/03	The sky was clear all night.	LSPM J0419+4233	5:21:00	LP_315-53	0:20:00
+2021/01/08 01:12:32 PM	Lulin	2021/01/04	The sky was clear all night.	LSPM J0419+4233	6:36:00	LP_315-53	3:04:00
+2021/01/08 01:13:25 PM	Lulin	2021/01/05	The sky was clear all night.	LSPM J0419+4233	6:04:00	LP_315-53	3:05:00
+2021/04/03 12:27:12 PM	Lulin	2021/01/03	The sky was clear all night	LSPM J0419+4233	6:21:00		0:21:00
+2021/04/03 12:28:23 PM	Lulin	2021/01/04	The sky was clear all night	LSPM J0419+4233	6:36:00		3:04:00
+2021/04/03 12:29:23 PM	Lulin	2021/01/05	The sky was clear all night.	LSPM J0419+4233	6:04:00		3:05:00
+2021/04/03 12:29:57 PM	Lulin	2021/01/06	cloudy and no observation				
+2021/04/03 12:31:14 PM	Lulin	2021/01/07	The sky was clear before 13:55 UT, cloud passed between 14:15 to 15:03 UT		1:58:00		1:23:00
+2021/04/03 12:31:36 PM	Lulin	2021/01/08	cloudy and no observation				
+2021/04/03 12:32:43 PM	Lulin	2021/01/09	The sky was clear between 12:30 to 20:30 UT, cloud passed between 14:50 to 15:07 and after 20:19 UT		0:57:00		6:51:00
+2021/04/03 12:33:09 PM	Lulin	2021/01/10	cloudy and no observation				
+2021/04/03 12:33:29 PM	Lulin	2021/01/11	cloudy and no observation				
+2021/04/03 12:34:30 PM	Lulin	2021/02/16	The sky was clear UT17:40-18:10 and UT20:00-20:40 , 20:45-21:30		1:01:00		
+2021/04/03 12:35:37 PM	Lulin	2021/02/17	cloudy and no observation				
+2021/04/03 12:36:36 PM	Lulin	2021/02/18	The sky was clear all night	LSPM J0419+4233	3:57:00		5:11:00
+2021/04/03 12:37:46 PM	Lulin	2021/02/19	thin cloud pass all night	LSPM J0419+4233	3:18:00		5:22:00
+2021/04/03 12:38:40 PM	Lulin	2021/02/20	The sky was clear but thin cloud pass all night	LSPM J0419+4233	3:29:00		5:14:00
+2021/04/03 12:39:53 PM	Lulin	2021/02/22	not scheduled observation date. Only Flat was taken. The weather was clear all night.				
+2021/04/03 12:41:13 PM	Lulin	2021/03/16	The sky was  clear after  UT11:20	LSPM J0419+4233	1:26:00		5:46:00
+2021/04/03 12:42:11 PM	Lulin	2021/03/17	The sky was clear all night 	LSPM J0419+4233	2:03:00		5:44:00
+2021/04/03 12:43:03 PM	Lulin	2021/03/18	The sky was clear all night but thin cloud pass between UT 12:40-13:40, 16:13, 17:13-18:14, 18:37-20:05 	LSPM J0419+4233	2:11:00		4:30:00
+2021/04/03 12:44:10 PM	Lulin	2021/03/19	The sky was clear all night, but thin cloud pass before UT 12:27, 13:58-14:30, 15:00-15:32, 16:25-17:10, after 19:22	LSPM J0419+4233	2:14:00		5:06:00
+2021/04/03 12:45:17 PM	Lulin	2021/03/20	The sky was clear after UT 12:30	LSPM J0419+4233	1:08:00		4:28:00
+2021/06/30 11:11:13 AM	Lulin	2021/05/01	cloudy all night. no observation				
+2021/06/30 11:11:45 AM	Lulin	2021/05/02	cloudy and no observation				
+2021/06/30 11:12:14 AM	Lulin	2021/05/02	bad weather and no observation				
+2021/06/30 11:12:33 AM	Lulin	2021/05/04	bad weather and no observation				
+2021/06/30 11:13:37 AM	Lulin	2021/05/04	The sky was clear after UT 18:50	LP_220-13	1:10:00		
+2021/06/30 11:14:28 AM	Lulin	2021/05/03	no observation				
+2021/06/30 11:15:25 AM	Lulin	2021/05/05	The sky was clear after UT 18:50	LP_220-13	1:10:00		
+2021/06/30 11:16:26 AM	Lulin	2021/05/06	clear all night but very thin cloud passed sometimes	LP_220-13	3:55:00		
+2021/06/30 11:16:59 AM	Lulin	2021/06/01	no observation				
+2021/06/30 11:18:42 AM	Lulin	2021/06/02	cloudy all night	LP_220-13	4:10:00		
+2021/06/30 11:21:32 AM	Lulin	2021/06/03	clear after UT 12:35	LP_220-13	5:34:00		
+2021/06/30 11:23:01 AM	Lulin	2021/05/06	clear all night but very thin cloud passed sometimes	LP_315-53	3:20:00	LP_220-13	3:55:00
+2021/10/06 02:28:54 AM	Lulin	2021/09/22	The sky was cloudy around UT 14:50 - 18:34, and  became clear after UT 18:34.	LP_229-30	1:00:00	GJ1083	3:26:00
+2021/10/06 02:30:08 AM	Lulin	2021/09/23	Clouds pass by all night.	LP_229-30	1:45:00	GJ1083	2:53:00
+2021/10/06 02:32:09 AM	Lulin	2021/09/24	Clouds pass by all night.	LP_229-30	0:33:00	GJ1083	1:37:00
+2021/10/06 02:35:32 AM	Lulin	2021/09/25	The observation after 16:00 UT had thin cloud and the sky was clear after 18:30 UT.	GJ1083	3:47:00		
+2021/10/06 02:36:43 AM	Lulin	2021/09/26	The sky was clear after 13:30 UT.	LP_229-30	2:44:00	GJ1083	3:39:00
+2021/10/06 02:38:43 AM	Lulin	2021/09/27	The sky was clear after UT 16:30.	LP_229-30	0:49:00	LP_647-13	3:44:00
+2021/10/06 02:40:05 AM	Lulin	2021/09/28	Fog pass between UT12:03-13:00, and the sky was clear in other time.	LP_647-13	3:34:00		
+2021/10/06 02:41:45 AM	Lulin	2021/09/29	The sky was clear all night.	TOI_1749	4:09:00	LP_647-13	4:06:00
+2021/10/06 02:43:56 AM	Lulin	2021/09/30	The sky was coudy around UT 12:40-21:00 and 14:00-14:15.	TOI_1749	3:39:00	LP_647-13	3:04:00
+2021/10/12 11:02:29 PM	Lulin	2021/06/04	bad weather and no observation				
+2021/10/12 11:02:49 PM	Lulin	2021/10/12	rain and no observation				
+2021/10/16 12:03:18 PM	Lulin	2021/10/13	cloudy and rain. no observation.				
+2021/10/16 12:03:41 PM	Lulin	2021/10/14	cloudy and no observation.				
+2021/10/19 12:03:40 PM	Lulin	2021/10/15	cloudy	LP-229-30	0:34:00		
+2021/10/19 01:10:12 PM	Lulin	2021/10/16	The weather condition: UT1300-1520 clear, 1520-1600 cloudy 1600-1640 clear, 1640-1730 cloudy, 1730-1750 clear, 1750-1844 cloudy, 1844-1930 sometimes cloud pass, after 1930 cloudy.	LP-647-13	0:04:00	GJ1083	3:22:00
+2021/10/19 01:12:57 PM	Lulin	2021/10/17	The weather condition: UT1230 - 1254 cloud pass, 1254 -1434 clear, 1434-1732 cloudy, 1732-1757 clear, 1757-1840 thin cloud, after 1840 cloudy.	LP_229-30	1:45:00		
+2022/01/11 10:10:04 AM	Lulin	2021/12/21	no observation				
+2022/01/11 10:12:04 AM	Lulin	2021/12/22	The sky was clear before UT17:50 and then cloudy.	2MASS J04402325-0530082	5:01:00	2MASS J04351612-1606574	2:00:00
+2022/01/11 10:13:09 AM	Lulin	2021/12/23	It was cloudy all night.	2MASS J04351612-1606574	1:16:00		
+2022/01/11 10:14:26 AM	Lulin	2021/12/24	The sky was clear between UT 12:20-14:15.	2MASS J04351612-1606574	0:48:00		
+2022/01/11 10:14:56 AM	Lulin	2021/12/25	rain and no observation				
+2022/01/11 10:15:18 AM	Lulin	2021/12/26	cloudy and no observation.				
+2022/01/11 10:20:42 AM	Lulin	2021/12/27	no observation				
+2022/01/11 10:21:54 AM	Lulin	2021/12/28	The sky was clear all night.	2MASS J04351612-1606574	3:00:00	2MASS J08533619-0329321	5:47:00
+2022/01/11 10:23:07 AM	Lulin	2021/12/29	The sky was clear all night.	2MASS J04402325-0530082	3:45:00	2MASS J08533619-0329321	5:41:00
+2022/01/11 10:24:29 AM	Lulin	2021/12/30	The sky was clear between UT 11:15 to 13:50 and cloud/fog pass by sometimes, and clear after UT 14:40.	2MASS J04402325-0530082	3:50:00	2MASS J08533619-0329321	4:39:00
+2022/01/11 10:25:22 AM	Lulin	2021/12/31	The sky was clear all night.	2MASS J04402325-0530082	1:57:00		
+2022/01/11 10:26:25 AM	Lulin	2022/01/01	The sky was clear all night.	2MASS J04402325-0530082	4:15:00	2MASS J08255285+6902016	4:41:00
+2022/01/11 10:27:34 AM	Lulin	2022/01/02	The sky was clear all night.	2MASS J08255285+6902016	0:19:00	2MASS J04402325-0530082	2:21:00
+2022/01/11 10:28:49 AM	Lulin	2022/01/02	The sky was clear all night.	2MASS J04351612-1606574	1:44:00	2MASS J08533619-0329321	4:43:00
+2022/01/11 10:29:54 AM	Lulin	2022/01/03	The sky was clear after UT10:50.	2MASS J04351612-1606574	3:28:00	2MASS J08255285+6902016	5:36:00
+2022/01/11 10:31:19 AM	Lulin	2022/01/04	It was cloudy all the time.	2MASS J04351612-1606574	1:03:00	2MASS J08533619-0329321	2:33:00
+2022/01/11 10:32:10 AM	Lulin	2022/01/05	The weather was unstable and no observation.				
+2022/01/11 10:32:32 AM	Lulin	2022/01/06	rain and no observation				
+2022/02/09 06:58:52 AM	Lulin	2022/02/03	cloudy and no observation.				
+2022/02/09 06:59:51 AM	Lulin	2022/02/04	The sky was clear all night.	2MASS_J08255285+6902016	9:00:00		
+2022/02/09 07:01:24 AM	Lulin	2022/02/05	The sky was clear all night.	2MASS_J08533619-0329321	6:57:00	2MASS_J08255285+6902016	2:16:00
+2022/02/09 07:02:44 AM	Lulin	2022/02/06	The sky was clear most of the time, but thin clouds passed between UT 18:50-18:57 and after UT 19:26.	2MASS_J08255285+6902016	8:28:00		
+2022/03/07 10:02:14 AM	Lulin	2022/02/25	The sky was clear all night. 	2MASS_J11505787+4822395	3:41:00	2MASS_J14280419+1356137	4:19:00
+2022/03/07 10:03:16 AM	Lulin	2022/02/26	The sky was clear all night.	2MASS_J05392474+4038437	3:57:00	2MASS_J14280419+1356137	4:38:00
+2022/03/07 10:04:32 AM	Lulin	2022/02/27	The sky was clear all night.	2MASS_J11505787+4822395	3:57:00	2MASS_J14280419+1356137	4:58:00
+2022/03/07 10:05:39 AM	Lulin	2022/02/28	The sky was clear all night. 	2MASS_J05392474+4038437	0:36:00	2MASS_J11505787+4822395	2:27:00
+2022/03/07 10:06:47 AM	Lulin	2022/02/28	The sky was clear all night. (This is the third target this day)	2MASS_J14280419+1356137	5:30:00		
+2022/03/07 10:08:01 AM	Lulin	2022/03/01	The sky was clear all night.	2MASS_J05392474+4038437	0:52:00	2MASS_J11505787+4822395	3:37:00
+2022/03/07 10:08:54 AM	Lulin	2022/03/01	The sky was clear all night. (This is the third target this day)	2MASS_J14280419+1356137	3:54:00		
+2022/03/07 10:09:49 AM	Lulin	2022/03/02	The sky was clear, but cloud past after 20:30 UT.	2MASS_J11505787+4822395	3:38:00	2MASS_J14280419+1356137	5:50:00
+2022/05/17 02:23:53 PM	Lulin	2022/05/03	cloudy and rain. no observation.				
+2022/05/17 02:24:10 PM	Lulin	2022/05/04	cloudy and rain. no observation.				
+2022/05/17 02:25:44 PM	Lulin	2022/05/05	There was thin cloud past after UT16:30.	2MASS_J15345704-1418486	3:08:00		
+2022/05/17 02:26:59 PM	Lulin	2022/05/06	The sky was cloudy all night.	2MASS_J15345704-1418486	3:34:00		
+2022/05/17 02:27:24 PM	Lulin	2022/05/07	The sky was cloudy and no observation.				
+2022/05/17 02:27:53 PM	Lulin	2022/05/08	cloudy and no observation.				
+2022/05/17 02:29:25 PM	Lulin	2022/05/09	cloudy all night	2MASS_J15345704-1418486	3:20:00	2MASS_J15242475+2925318	1:03:00

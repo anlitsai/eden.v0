@@ -1,0 +1,20 @@
+Target:	LP_229-30
+Observation start (UT): 2021-10-17 12:42:33
+Observation end (UT):	2021-10-17 14:27:32
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	84
+
+
+
+Bias:		Bias-20211017@213410-000S.fts to Bias-20211017@214846-000S.fts
+		
+Dark:	60s	Dark-20211017@213659-060S.fts to Dark-20211017@214702-060S.fts
+
+Flat:		20211017_flat-001eden.fits to 20211017_flat-010eden.fits
+
+Additional Dark for Flat:	N/A
+
+Weather report:	The weather condition: UT1230 - 1254 cloud pass, 1254 -1434 clear, 1434-1732 cloudy, 1732-1757 clear, 1757-1840 thin cloud, after 1840 cloudy.
+

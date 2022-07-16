@@ -1,0 +1,34 @@
+Target:	2MASS_J15242475+2925318
+Observation start (UT): 2022-07-07 13:10:18
+Observation end (UT):	2022-07-07 16:00:10
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	126
+
+
+Target:	2MASS_J20443743+1517352
+Observation start (UT): 2022-07-07 16:07:41
+Observation end (UT):	2022-07-07 20:37:07
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	192
+
+
+
+Bias:		Bias-20220707@210647-000S.fts to Bias-20220707@210800-000S.fts
+		
+Dark:		Dark-20220707@210858-060S.fts to Dark-20220707@221241-060S.fts
+ 
+Flat:	30.0S 	AutoFlat-20220707@203959-Eden-Bin1-001.fts to AutoFlat-20220707@204556-Eden-Bin1-005.fts
+	26.55S	AutoFlat-20220707@204637-Eden-Bin1-006.fts
+	22.35	AutoFlat-20220707@204715-Eden-Bin1-007.fts
+	19.07S	AutoFlat-20220707@204750-Eden-Bin1-008.fts
+	16.47S	AutoFlat-20220707@204820-Eden-Bin1-009.fts
+	14.49S	AutoFlat-20220707@204848-Eden-Bin1-010.fts
+
+Additional Dark for Flat:	 N/A
+
+Weather report:	The sky was clear all night.
+

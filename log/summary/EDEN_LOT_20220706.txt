@@ -1,0 +1,29 @@
+Target:	2MASS_J15242475+2925318
+Observation start (UT): 2022-07-06 14:20:37
+Observation end (UT):	2022-07-06 16:11:57
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	85
+
+
+Target:	2MASS_J20443743+1517352
+Observation start (UT): 2022-07-06 16:16:20
+Observation end (UT):	2022-07-06 20:15:13
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	135
+
+
+
+Bias:		Bias-20220706@211830-000S.fts to Bias-20220706@211941-000S.fts
+		
+Dark:		Dark-20220706@212040-060S.fts to Dark-20220706@224908-060S.fts
+ 
+Flat:	30.0S 	AutoFlat-20220706@203413-Eden-Bin1-001.fts to AutoFlat-20220706@204112-Eden-Bin1-010.fts
+
+Additional Dark for Flat:	 N/A
+
+Weather report:	Target was observed after UT13:25 and sometimes thin clouds drift by. 
+

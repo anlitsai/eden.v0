@@ -1,0 +1,31 @@
+Bucket successfully loaded! eden-data
+23 files found
+Storing data to the S3 archive!
+Doing a dry run - uploads will not be committed.
+Verbose output enabled.
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/2MASS_J15242475+2925318-20220705@144023-Eden.fts -> s3://eden-data/RAW/LOT/2MASS_J15242475+2925318/2022-07-05/2MASS_J15242475+2925318-20220705@144023-Eden.fits (1/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/2MASS_J15242475+2925318-20220705@144111-Eden.fts -> s3://eden-data/RAW/LOT/2MASS_J15242475+2925318/2022-07-05/2MASS_J15242475+2925318-20220705@144111-Eden.fits (2/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/2MASS_J15242475+2925318-20220705@144158-Eden.fts -> s3://eden-data/RAW/LOT/2MASS_J15242475+2925318/2022-07-05/2MASS_J15242475+2925318-20220705@144158-Eden.fits (3/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Bias-20220705@205910-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2022-07-05/Bias-20220705@205910-000S.fits (4/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Bias-20220705@205920-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2022-07-05/Bias-20220705@205920-000S.fits (5/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Bias-20220705@205928-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2022-07-05/Bias-20220705@205928-000S.fits (6/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Bias-20220705@205935-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2022-07-05/Bias-20220705@205935-000S.fits (7/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Bias-20220705@205943-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2022-07-05/Bias-20220705@205943-000S.fits (8/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Bias-20220705@205950-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2022-07-05/Bias-20220705@205950-000S.fits (9/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Bias-20220705@205958-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2022-07-05/Bias-20220705@205958-000S.fits (10/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Bias-20220705@210006-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2022-07-05/Bias-20220705@210006-000S.fits (11/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Bias-20220705@210013-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2022-07-05/Bias-20220705@210013-000S.fits (12/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Bias-20220705@210021-000S.fts -> s3://eden-data/Calibrations/LOT/BIAS/2022-07-05/Bias-20220705@210021-000S.fits (13/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Dark-20220705@210107-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2022-07-05/Dark-20220705@210107-060S.fits (14/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Dark-20220705@210700-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2022-07-05/Dark-20220705@210700-060S.fits (15/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Dark-20220705@211253-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2022-07-05/Dark-20220705@211253-060S.fits (16/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Dark-20220705@211846-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2022-07-05/Dark-20220705@211846-060S.fits (17/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Dark-20220705@212438-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2022-07-05/Dark-20220705@212438-060S.fits (18/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Dark-20220705@213031-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2022-07-05/Dark-20220705@213031-060S.fits (19/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Dark-20220705@213625-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2022-07-05/Dark-20220705@213625-060S.fits (20/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Dark-20220705@214216-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2022-07-05/Dark-20220705@214216-060S.fits (21/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Dark-20220705@214809-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2022-07-05/Dark-20220705@214809-060S.fits (22/23) (dry run)
+Storing /home/altsai/eden/LOT20220705_2MASS_J15242475+2925318_mod/Dark-20220705@215402-060S.fts -> s3://eden-data/Calibrations/LOT/DARK/2022-07-05/Dark-20220705@215402-060S.fits (23/23) (dry run)
+
+Dry run complete! Run again without --dryrun to commit the changes above.
+Stored: 23 files (0.2 GB)

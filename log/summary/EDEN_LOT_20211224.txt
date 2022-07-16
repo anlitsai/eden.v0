@@ -1,0 +1,21 @@
+Target:	2MASS_J04351612-1606574
+Observation start (UT): 2021-12-24 13:27:02
+Observation end (UT):	2021-12-24 14:15:06
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 30sec
+Frames:	64
+
+
+
+Bias:		Bias-20211224@172323-000S.fts to Bias-20211224@172427-000S.fts
+		
+Dark:	30s	Dark-20211224@172435-030S.fts to Dark-20211224@173005-030S.fts
+	60s	Dark-20211224@173043-060S.fts to Dark-20211224@174045-060S.fts
+
+Flat:		N/A
+
+Additional Dark for Flat:	N/A
+
+Weather report:	The sky was clear between UT 12:20-14:15.
+

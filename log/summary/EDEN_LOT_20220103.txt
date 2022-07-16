@@ -1,0 +1,29 @@
+Target:	2MASS_J04351612-1606574
+Observation start (UT): 2022-01-03 11:32:10
+Observation end (UT):	2022-01-03 15:00:23
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 30sec
+Frames: 268	
+
+Target:	2MASS_J08255285+6902016
+Observation start (UT): 2022-01-03 16:04:34
+Observation end (UT):	2022-01-03 21:40:44
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 30sec
+Frames:	430
+
+
+
+Bias:		Bias-20220103@221930-000S.fts to Bias-20220103@222036-000S.fts
+		
+Dark:	30s	Dark-20220103@222045-030S.fts to Dark-20220103@222618-030S.fts
+	60s	Dark-20220103@222656-060S.fts to Dark-20220103@223659-060S.fts
+
+Flat:		AutoFlat-20220103@215919-Eden-Bin1-001.fts to AutoFlat-20220103@220250-Eden-Bin1-005.fts
+
+Additional Dark for Flat:	N/A
+
+Weather report:	The sky was clear after UT10:50.
+

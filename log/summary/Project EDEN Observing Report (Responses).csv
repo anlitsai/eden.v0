@@ -1,0 +1,461 @@
+Timestamp	Select your telescope:	Enter the local *start of night* date:	Please briefly summarize your night:	Select the name of the first target:	For how long did you observe the first target?	Select the name of the second target:	For how long did you observe the second target?
+2019/10/23 03:28:43 PM	Bok	2019/10/17	 observed one target for three hours then closed due to humidity	LSPM J0419+4233	2:40:00		
+2019/10/24 10:56:17 AM	Bok	2019/10/18	observed one target from 10pm until dawn	none	3:00:00	LSPM J0419+4233	7:10:00
+2019/10/24 10:57:13 AM	Bok	2019/10/19	observed one target from 10pm until close	none	3:00:00	LSPM J0419+4233	7:00:00
+2019/10/24 10:57:49 AM	Bok	2019/10/20	observed one target from 10pm until close	none	3:00:00	LSPM J0419+4233	7:00:00
+2019/10/24 10:58:10 AM	Bok	2019/10/21	observed one target from 11pm until close	none	4:00:00	LSPM J0419+4233	6:00:00
+2019/10/24 10:17:52 AM	Phillips	2019/10/23	Good weather, no problems. Observed one target once it reached observable altitude in the GG495 filter.	LSPM J0419+4233	7:00:00		
+2019/10/25 09:02:07 AM	Phillips	2019/10/24	Good Weather. Observed TESS and EDEN target. Delay during target switching due to software error.	TIC 408203470	4:30:00	LSPM J0419+4233	4:00:00
+2019/10/26 09:54:10 AM	Phillips	2019/10/25	Phillips became usable after 10pm local time. Clear skies. Observed TESS and EDEN target. No problems	TIC 408203452	3:00:00	LSPM J0124+6819	4:00:00
+2019/10/26 11:06:40 PM	Calar Alto	2019/10/26	LSPM J0124+6819; Excellent conditions all night.	LSPM J0124+6819	11:30:00		
+2019/10/26 11:07:16 PM	Calar Alto	2019/10/26	observed LSPM J0124+6819 all night under good conditions	LSPM J0124+6819	11:30:00		
+2019/10/27 05:15:36 PM	Phillips	2019/10/26	Clear skies. The Phillips apparently froze in he middle of the night for about 6 hours and no images were taken in that window until I restarted the script.	TIC 408203452	2:00:00	LSPM J0124+6819	3:30:00
+2019/10/27 05:17:06 PM	Schulman	2019/10/26	Clear skies, no problems.	LSPM J0124+6819	8:00:00		
+2019/10/27 08:45:44 PM	Bok	2019/10/27	observed LSPM J0124+6819 for most of the night but closed a bit early due to wind	LSPM J0124+6819	9:00:00		
+2019/10/28 12:50:15 AM	Bok	2019/10/27	did not open due to wind and clouds				
+2019/10/28 02:24:49 AM	Calar Alto	2019/10/27	observed one target for 9 hours then closed due to clouds	LSPM J0124+6819	9:00:00		
+2019/10/28 10:32:02 AM	Phillips	2019/10/27	High winds and occasional clouds through the night. No problems with the instrument. Attempted to observe two targets.	TIC 408203452	6:00:00	LSPM J0124+6819	4:00:00
+2019/10/28 11:06:02 PM	Calar Alto	2019/10/28	Observed one target for the whole night	LSPM J0124+6819	9:30:00		
+2019/10/29 04:23:18 AM	Calar Alto	2019/10/28	Observed one target whole night	LSPM J0124+6819	9:30:00		
+2019/10/29 06:20:04 AM	Calar Alto	2019/10/26	LSPM J0124+6819; Excellent conditions all night.	LSPM J0124+6819	11:30:00		
+2019/10/30 01:31:03 AM	Calar Alto	2019/10/29	cloudy, lost last ~4 hours due to rain	LSPM J0124+6819	6:30:00		
+2019/10/31 10:15:04 AM	Lulin	2019/10/21	clear after UT 11:40	2MUCD 10014	7:52:25		
+2019/10/31 10:16:43 AM	Lulin	2019/10/22	clear UT 12:30-16:00	LSPM J0419+4233	2:22:00		
+2019/10/31 10:19:08 AM	Lulin	2019/10/23	clear before UT 16:00	2MUCD 10014	1:06:00	LSPM J0419+4233	1:25:00
+2019/10/31 10:20:31 AM	Lulin	2019/10/24	cloudy and no observation				
+2019/10/31 10:21:42 AM	Lulin	2019/10/25	unstable	LSPM J0419+4233	5:20:00		
+2019/10/31 10:24:32 AM	Lulin	2019/10/26	cloudy UT 13:10-14:10	LSPM J0330+5413	1:13:00	LSPM J0419+4233	5:50:00
+2019/10/31 10:25:50 AM	Lulin	2019/10/27	clear between UT 12:30 - 20:32 and unstable after 19:22	LSPM J0419+4233	5:55:00		
+2019/10/31 10:27:38 AM	Lulin	2019/10/28	not scheduled date. only upload bias and dark from this date				
+2019/10/31 07:31:33 PM	Calar Alto	2019/10/30	No observations possible due to high humidity. 	LSPM J0124+6819			
+2019/10/31 07:36:51 PM	Calar Alto	2019/10/31	Unfortunately, again no observations possible due to bad weather.	LSPM J0124+6819			
+2019/11/01 07:00:03 PM	Calar Alto	2019/11/01	Dome was closed due to bad weather, no observations possible	LSPM J0124+6819			
+2019/11/01 07:31:26 PM	Schulman	2019/10/31	Clear skies, no problems.	LSPM J0124+6819	9:00:00		
+2019/11/01 08:25:52 PM	Kuiper	2019/10/31	Mostly clear skies, some light clouds around midnight. A moth appears to have walked across the camera for 4-5 images.	LSPM J0357+4107	8:30:00		
+2019/11/02 06:58:44 PM	Calar Alto	2019/11/02	No observations possible, dome was closed all night due to bad weather conditions	LSPM J0357+4107			
+2019/11/02 07:55:12 PM	Phillips	2019/11/01	Mostly clear night with partial clouds coming in early in the morning.	LSPM J0124+6819	6:00:00		
+2019/11/02 07:56:19 PM	Kuiper	2019/11/01	Mostly clear night with partial clouds coming in the early morning.	LSPM J0357+4107	6:30:00		
+2019/11/03 06:05:12 PM	Calar Alto	2019/11/03	No observations possible due to high humidity and critical dew point				
+2019/11/04 03:45:41 AM	Kuiper	2019/11/02	Patchy clouds throughout the night. Lost guiding a few times but we pushed through the night correcting the guiding when needed.	LSPM J0357+4107	8:30:00		
+2019/11/04 12:12:05 PM	Schulman	2019/11/03	Clear skies, observed for most of the night after the object became observable.	LSPM J0357+4107	8:00:00		
+2019/11/07 09:24:57 PM	Calar Alto	2019/11/07	Observation of one target for about an hour, after that closed due to storm	LSPM J0357+4107	1:00:00		
+2019/11/08 05:58:57 PM	Kuiper	2019/11/07	Partially clouded all night, but was able to get on target after midnight.	LSPM J0357+4107	4:30:00		
+2019/11/08 10:08:24 PM	Calar Alto	2019/11/08	Bad weather at beginning and end, about 7h observations of  2MASS J03571999+4107426	2MASS J03571999+4107426	7:00:00		
+2019/11/09 06:23:07 PM	Kuiper	2019/11/08	Partly cloudy through the night, but the guiding was stable. Observed one target.	LSPM J0357+4107	9:00:00		
+2019/11/10 05:55:12 PM	Kuiper	2019/11/09	Very cloudy at the beginning of the night, opened during a gap in the clouds. The humidity then spiked up and caused condensation on the dome so we closed.	LSPM J0357+4107	1:30:00		
+2019/11/11 07:08:36 AM	Lulin	2019/11/02	clear after UT11:00. overexposure for 60sec	LSPM J0124+6819	8:50:00		
+2019/11/11 07:09:04 AM	Lulin	2019/11/03	no observation due to cloudy				
+2019/11/11 07:09:37 AM	Lulin	2019/11/04	no observation due to cloudy weather				
+2019/11/11 07:10:38 AM	Lulin	2019/11/05	clear after UT12:00	LSPM J0357+4107	6:50:00		
+2019/11/11 07:16:55 AM	Lulin	2019/11/06	thin cloud all night. 	LSPM J0124+6819	1:50:00	LSPM J0357+4107	7:03:00
+2019/11/11 07:20:26 AM	Lulin	2019/11/07	clear all night	LSPM J0357+4107	7:17:00		
+2019/11/12 03:48:01 AM	Kuiper	2019/11/10	Very cloudy at the beginning of the night, opened during a gap in the clouds. The humidity then spiked up in the early morning and caused condensation on the dome so we closed.	LSPM J0357+4107	7:00:00		
+2019/11/29 11:43:08 AM	Lulin	2019/11/24	Sky is clear between 12:15 to 15:50 and after 16:50 UT.	2MASS J03140344+1603056	8:13:00	2MASS J03140344+1603056	
+2019/11/29 11:49:58 AM	Lulin	2019/11/25	Weather is unstable for all night.	2MASS J03140344+1603056	3:16:00	2MASS J03140344+1603056	
+2019/11/29 11:51:22 AM	Lulin	2019/11/26	Sky is clear between 15:20 to 16:16 and after 18:50	2MASS J03140344+1603056	6:35:00		
+2019/11/29 11:52:04 AM	Lulin	2019/11/27	Sky is clear between 18:30 to 19:37 UT.	2MASS J03140344+1603056	0:40:00		
+2019/11/29 11:53:02 AM	Lulin	2019/11/28	Sky is clear all night.	2MASS J03140344+1603056	9:00:00	2MASS J03140344+1603056	
+2019/12/02 04:29:06 AM	VATT	2019/12/01	Observed 1 target for 7 hours until too low, then performed H0LICOW observations	2MASS J03140344+1603056	7:00:00		
+2019/12/03 03:28:40 AM	VATT	2019/12/02	Observed one target for 8 hours until it was too low, then observed H0LICOW target	2MASS J03140344+1603056	8:00:00		
+2019/12/04 11:44:49 AM	Bok	2019/12/03	did not observe due to clouds				
+2019/12/05 04:30:21 AM	VATT	2019/12/04	Did not open: 100% humidity all night				
+2019/12/06 08:09:01 AM	VATT	2019/12/03	did not observe				
+2019/12/08 12:39:13 AM	VATT	2019/12/07	Overcast. Trained Kaylah McGowan				
+2019/12/09 09:47:09 AM	VATT	2019/12/08	Did not open.				
+2019/12/13 02:47:54 AM	Lulin	2019/12/03	Sky is clear but high thin cloud between UT10:00-10:30, 16:00-19:00.	2MASS J03140344+1603056	9:00:00		
+2019/12/13 02:48:17 AM	Lulin	2019/12/04	rain. no observation.				
+2019/12/13 02:48:39 AM	Lulin	2019/12/05	rain. no observation.				
+2019/12/13 02:49:02 AM	Lulin	2019/12/06	rain. no observation.				
+2019/12/13 03:25:38 AM	Lulin	2019/12/07	Sky is clear between UT 11:30 to 15:25 abnd after 16:30	HD 191939	0:50:00	2MASS J03140344+1603056	5:30:00
+2019/12/13 05:35:01 AM	Kuiper	2019/12/12	patchy clouds then clear, observed one target for most of the night then some TESS follow-up	2MASS J03140344+1603056	6:40:00	LP 791-18	3:30:00
+2019/12/15 12:10:00 PM	Lulin	2019/12/08	Sky is clear before UT 18:29.	HD 191939	0:01:00	2MASS J03140344+1603056	7:46:00
+2019/12/16 05:39:07 PM	Kuiper	2019/12/13	observed two targets for several hours each	2MASS J03140344+1603056	6:00:00	LSPM J0510+2714	5:00:00
+2019/12/16 05:40:24 PM	Kuiper	2019/12/14	observed one target, closed for weather at 12:30	2MASS J03140344+1603056	6:00:00		
+2019/12/16 05:42:19 PM	Kuiper	2019/12/15	didn't get good data on first target, closed temporarily, then observed second target for several hours	None		LSPM J0510+2714	7:00:00
+2019/12/17 05:26:06 AM	Kuiper	2019/12/16	observed one target for the full night, saw a pretty impressive flare	LSPM J0510+2714	10:00:00		
+2019/12/20 08:33:36 PM	Schulman	2019/12/19	No problems. Weather seemed clear, but mildly windy.	2MASS J03140344+1603056	7:00:00		
+2019/12/20 08:34:40 PM	VATT	2019/12/19	Training nigh. Got started late, but the weather was clear, no problems.	LSPM J0510+2714	2:00:00		
+2019/12/21 11:35:13 PM	VATT	2019/12/20	Clear skies, observed the EDEN target after the Cosmograil observation. Conducted more training earlier in the evening.	LSPM J0510+2714	4:30:00		
+2020/01/01 05:44:07 PM	Kuiper	2019/12/31	Started with clear skies, however the humidity rose sharply and frost began to set in just before closing.	LSPM J0510+2714	3:00:00		
+2020/01/02 04:51:58 AM	Kuiper	2020/01/01	Intermittent clouds. Closed due to snow	LSPM J0510+2714	2:00:00		
+2020/01/06 03:46:30 AM	Schulman	2020/01/02	Mostly clear night, a little cloudy in the early morning.	LSPM J0510+2714	7:00:00		
+2020/01/06 03:46:58 AM	Schulman	2020/01/03	Clear night, no issues.	LSPM J0510+2714	7:00:00		
+2020/01/06 03:47:18 AM	Schulman	2020/01/04	Clear night, no issues.	LSPM J0510+2714	7:00:00		
+2020/01/07 03:40:51 AM	Schulman	2020/01/05	Clear night, no problems	LSPM J0510+2714	7:30:00		
+2020/01/07 03:42:31 AM	Schulman	2020/01/06	Clear night, however there were some technical problems that caused the dome to become unresponsive.	LSPM J0510+2714	5:00:00		
+2020/01/08 03:32:45 PM	Schulman	2020/01/07	Clear night, no issues.	LSPM J0510+2714	7:00:00		
+							
+2020/01/10 06:23:36 PM	Calar Alto	2020/01/10	The dome has been remained closed for the whole night due to bad weather conditions (high humidity, critical Dew point and clouds)	LSPM J0510+2714	0:00:00	none	0:00:00
+2020/01/11 01:39:33 AM	VATT	2020/01/10	Started out closed for humidity until 22:00, then guidebox GUI wouldn't work (something to do with filters maybe?) Closed for good at 01:00				
+2020/01/12 12:17:28 AM	Calar Alto	2020/01/11	Observed LSPM J0510+2714 for two hours and a half, then we took sunrise flats.	LSPM J0510+2714	2:30:00	LP 310-34	0:00:00
+2020/01/12 02:42:19 AM	VATT	2020/01/11	Started setup for observations but multiple components crashed and not everything came back online, so we couldn't observe				
+2020/01/12 10:58:56 PM	Calar Alto	2020/01/12	Good weather conditions from the very beginning of the night. The main target could have been observed till 2:30 UT. Passed that time , the altitude of the target was less then 30 deg. We then moved  to the secondary target up to sunrise.	LSPM J0510+2714	7:00:00	LP 310-34	2:00:00
+2020/01/12 11:30:48 PM	Schulman	2020/01/11	Clear night, no issues.	LSPM J0510+2714	7:00:00		
+2020/01/13 05:51:52 AM	VATT	2020/01/12	Dealt with weather and control issues for 3 hours but observed main target for 4 hours and secondary for 3 (secondary target too faint with bright moon even in I band, might be too faint overall)	LSPM J0510+2714	4:00:00	LSPM J0807+3213	3:00:00
+2020/01/13 10:53:45 PM	Calar Alto	2020/01/13	Observed primary target for 7 hours and secondary target for 2.5 hours. Night started clear and got cloudy at the end	LSPM J0510+2714	7:30:00	LP 310-34	2:30:00
+2020/01/14 06:15:11 AM	VATT	2020/01/13	Observed first target for 5 hours, then second target for 3 hours before trying TESS target transit for 2 hours, although we lost guiding in pre-OOT baseline of TESS transit	LSPM J0510+2714	5:00:00	LSPM 0807+3213, TOI 736	5:00:00
+2020/01/14 12:17:20 PM	Schulman	2020/01/12	Partly cloudy early in the evening, then cleared up for the rest of the night. The telescope used to switch to the next target or shutdown when it reached its altitude limit, now it just hits an error and stops.	LSPM J0510+2714	6:30:00		
+2020/01/14 12:17:53 PM	Schulman	2020/01/13	Clear night, no issues	LSPM J0510+2714	7:30:00		
+2020/01/14 09:56:34 PM	Calar Alto	2020/01/14	Observed main target for eight and a half hours then closed due to heavy clouds	LSPM J0510+2714	8:30:00		
+2020/01/15 10:43:10 PM	Calar Alto	2020/01/15	Observed two targets for a total of 10:30 hours under good conditions	LSPM J0510+2714	8:10:00	LP 310-34	2:25:00
+2020/01/16 10:39:23 PM	Calar Alto	2020/01/16	spent seven hours observing the first target, then we had to close due to clouds before re-opening for 2h on the second target	LSPM J0510+2714	7:00:00	LP 310-34	2:00:00
+2020/01/18 12:57:16 AM	Calar Alto	2020/01/17	observed one target for four hours under cloudy conditions, then closed as the clouds got thicker	LSPM J0510+2714	4:00:00		
+2020/01/18 05:02:03 AM	VATT	2020/01/17	Good night, stable conditions. We obtained ~300 exposures (1 minute integrations) with the GG495 filter, targeting LP310-34, over a baseline of ~7.5 hours. Around local midnight there is a ~40 minute gap in the series due to zenith passage of target.	LP 310-34	7:00:00		
+2020/01/18 01:49:43 PM	Schulman	2020/01/17	Clear night, no issues	LSPM J0510+2714	5:00:00		
+2020/01/19 05:04:46 AM	VATT	2020/01/18	Good night, stable conditions ~3h + ~4h on LP310-34 in GG495. Very good seeing.  	LP310-34	7:00:00		
+2020/01/20 04:10:10 AM	VATT	2020/01/19	First half of the night clear with good seeing; ~30 min gap due to zenith crossing; final 3 hours affected by cirrus. Closed early due to clouds. Single target: LP310-34.	LP310-34	6:00:00		
+2020/01/20 06:51:15 PM	Calar Alto	2020/01/20	Dome remained closed due to bad weather conditions: No observations				
+2020/01/21 05:55:00 PM	Calar Alto	2020/01/21	Dome remained closed due to bad weather conditions; no observations.				
+2020/01/27 02:47:57 AM	Kuiper	2020/01/26	observed TOI 1468.01 for 3 hours, then closed due to weather	TIC 243185500	3:00:00		
+2020/01/29 05:06:33 AM	Kuiper	2020/01/27	observed two TESS targets, clear skies but very poor seeing	TIC 243185500	4:00:00	LP 791-18	6:00:00
+2020/01/29 05:09:04 AM	Kuiper	2020/01/28	Clear skies, good seeing. Observed LP 310-34 for the entire night.	LP 310-34	10:00:00		
+2020/01/30 05:34:12 AM	Kuiper	2020/01/29	Lost about 3 hours at the start of the night due to humidity, then clear	LP 310-34	7:00:00		
+2020/02/05 09:18:39 PM	Lulin	2020/12/24	Sky is clear all night but wind speed is high after UT15:50.	LSPM J0510+2714	6:16:00		
+2020/02/05 09:19:14 PM	Lulin	2020/12/25	cloudy. no observation				
+2020/02/05 09:25:14 PM	Lulin	2020/12/26	Strong wind from UT 13:30 to 15:00, bad seeing before UT 15:00, thin cloud after UT19:00	LSPM J0510+2714	8:50:00		
+2020/02/05 09:30:29 PM	Lulin	2020/12/27	no observation.				
+2020/02/05 09:30:51 PM	Lulin	2020/12/28	rain. no observation.				
+2020/02/05 09:32:22 PM	Lulin	2020/12/29	Sky is unstable all night.	LSPM J0510+2714	0:28:00		
+2020/02/05 11:05:16 PM	Lulin	2020/01/13	Sky is clear all night.	LSPM J0510+2714	6:12:00	LP 310-34	2:00:00
+2020/02/05 11:07:16 PM	Lulin	2020/01/14	Sky is clear all night.	LSPM J0510+2714	6:45:00	LP 310-34	2:01:00
+2020/02/05 11:08:43 PM	Lulin	2020/01/15	Sky is clear all night	LSPM J0510+2714	6:00:00	LP 310-34	2:55:00
+2020/02/05 11:10:05 PM	Lulin	2020/01/16	Sky is clear all night.	LSPM J0510+2714	5:15:00	LP 310-34	2:55:00
+2020/02/05 11:11:33 PM	Lulin	2020/01/17	Sky is clear before UT18:00	LSPM J0510+2714	2:17:00	LP 310-34	5:30:00
+2020/02/05 11:13:18 PM	Lulin	2020/01/18	 Sky is clear before UT16:00 but the sky was unstable between UT 13:00-16:00	LSPM J0510+2714	2:00:00	LP 310-34	2:36:00
+2020/02/05 11:13:53 PM	Lulin	2020/01/19	Not scheduled date. Only Bias/Dark are taken.				
+2020/02/06 12:54:49 PM	Schulman	2020/02/05	Partially cloudy in the middle of the night. The telescope had an error tracking just near the Alt limit and interrupted the script, causing the telescope to not properly shut down.	LP 310-34	7:00:00		
+2020/02/07 08:12:34 AM	Schulman	2020/02/06	Partly cloudy around midnight, otherwise no issues.	LP 310-34	7:00:00		
+2020/02/14 05:00:08 AM	VATT	2020/02/12	lots of technical issues; did not start QSO observing until 9:30 pm, then clear weather	None	3:00:00	LSPM J1055+0808	8:00:00
+2020/02/14 05:00:58 AM	VATT	2020/02/13	Some more technical issues delayed us by about an hour. Closed due to weather at 3:30am	None	3:00:00	LSPM J1055+0808	5:00:00
+2020/02/16 03:27:39 AM	VATT	2020/02/14	Cloudy during COSMOGRAIL Observation, but cleared up during the EDEN observing.	LSPM J1055+0808	7:00:00		
+2020/02/16 03:28:26 AM	Schulman	2020/02/14	Partly cloudy near he beginning of the night, but cleared up later.	LSPM J1055+0808	6:30:00		
+2020/02/16 10:04:35 PM	Calar Alto	2020/02/16	Observed the both the main and the secondary target for most of the night.	LSPM J1055+0808	6:45:00	LP 310-34	1:30:00
+2020/02/17 07:34:42 PM	VATT	2020/02/08	Observed H0LiCOW target for ~1 hour then EDEN target for 5 hours	LSPM J1055+0808	5:00:00		
+2020/02/17 10:24:54 PM	Calar Alto	2020/02/17	Good weather the entire night. Observations of both primary and secondary target.	LSPM J1055+0808	8:00:00	LP 310-34	2:00:00
+2020/02/18 05:46:24 AM	Kuiper	2020/02/17	Observed secondary target for 1 hour before guider failed, couldn't fix it so observed primary target without guiding rest of night	LSPM J1055+0808	6:00:00	LP 310-34	1:00:00
+2020/02/18 06:05:20 AM	Kuiper	2020/02/17	Observed secondary target for 1 hour, had guider issues for 3 hours, then observed primary target for 6 hours without guiding	LSPM J1055+0808	6:00:00	LP 310-34	1:00:00
+2020/02/19 05:00:47 AM	Kuiper	2020/02/18	Observed secondary target for 3 hours, TOI-736 for 3 hours, then primary target for 2 hours before clouds were too much	LSPM J1055+0808	2:00:00	LP 310-34	3:00:00
+2020/02/19 09:51:27 AM	Calar Alto	2020/02/18	Could not open because of clouds and fog				
+2020/02/19 10:04:24 PM	Calar Alto	2020/02/19	observed two targets for a total of 11 hours	LSPM J1055+0808	8:00:00	LP 310-34	3:00:00
+2020/02/20 05:09:05 AM	Kuiper	2020/02/19	Observed secondary target for 2 hours then primary target for 8 hours	LSPM J1055+0808	8:00:00	LP 310-34	2:00:00
+2020/02/20 10:56:17 PM	Lulin	2020/02/14	Sky is clear after after UT16:00	LSPM J1055+0808	7:08:00		
+2020/02/20 11:17:02 PM	Lulin	2020/02/15	Sky is clear but there is cloud pass around  UT1630 - 1720.	LP 310-34	1:37:00	LSPM J1055+0808	8:43:00
+2020/02/20 11:18:37 PM	Lulin	2020/02/16	cloudy and rain. no observation.				
+2020/02/20 11:19:34 PM	Lulin	2020/02/17	Sky is clear before UT11:45 and after 13:30	LP 310-34	0:48:00	LSPM J1055+0808	8:07:00
+2020/02/20 11:24:51 PM	Lulin	2020/02/18	Sky is clear all night.	LP 310-34	2:15:00	LSPM J1055+0808	8:26:00
+2020/02/20 11:38:40 PM	Calar Alto	2020/02/20	Observed backup target for ~1.5 hour. When changing to main target sky was very cloudy and the auto guide could not locate reference star. Managed to observe main target for ~6 hours. 	LP 310-34	1:50:00	LSPM J1055+0808	6:00:00
+2020/02/21 09:52:20 PM	Calar Alto	2020/02/21	Observed three targets. Backup 1,5 hour, main target in total ~1.5h and special target for ~3.5h. Weather conditions were very good all night.	LP 310-34	1:30:00	LSPM J1055+0808	1:30:00
+2020/02/22 11:10:34 PM	Calar Alto	2020/02/22	Clear conditions during the whole night, observation of LP 310-34  and LSPM J1055+0808	LP 310-34	2:00:00	LSPM J1055+0808	7:00:00
+2020/02/23 11:08:43 PM	Calar Alto	2020/02/23	Clear conditions during the whole night, observation of LP 310-34  and LSPM J1055+0808	LP 310-34	2:00:00	LSPM J1055+0808	7:00:00
+2020/02/27 12:48:26 PM	Schulman	2020/02/26	Clear night, no issues	LSPM J1055+0808	8:00:00		
+2020/03/02 02:38:37 PM	Lulin	2020/02/25	Sky is unstable all night.	LP 310-34	1:29:00	LSPM J1055+0808	8:32:00
+2020/03/02 02:39:25 PM	Lulin	2020/02/26	Sky is clear after UT16:00.	LSPM J1055+0808	5:24:00		
+2020/03/02 02:40:57 PM	Lulin	2020/02/27	Sky is unstable all night.	TOI_736	3:32:00	LSPM J1055+0808	4:57:00
+2020/03/02 02:41:36 PM	Lulin	2020/02/28	Sky is unstable all night.	LSPM J1055+0808	8:00:00		
+2020/03/02 02:41:52 PM	Lulin	2020/02/29	No observation				
+2020/03/03 09:14:47 AM	Bok	2020/01/01	Too windy to open				
+2020/03/03 09:15:01 AM	Bok	2020/01/02	Clouds / rain, did not open				
+2020/03/05 01:14:24 PM	Schulman	2020/03/04	Clear night, no issues	LSPM J1055+0808	7:30:00		
+2020/04/02 02:54:50 PM	Lulin	2020/03/23	Sky is clear after 19:00 UT, and cloud pass after 20:06 UT.	LP_271-25	0:47:00	2MUCD_11188	0:37:00
+2020/04/02 02:56:27 PM	Lulin	2020/03/24	Sky is clear after 12:15 UT.	LP_315-53	0:23:00	2MUCD_11188	7:50:00
+2020/04/02 02:58:30 PM	Lulin	2020/03/25	Sky is clear after 12:55 UT, cloud pass between 15:30 - 15:54, 16:30 - 17:36, 18:36 - 18:48 UT. 	2MUCD11188	7:48:00		
+2020/04/02 02:59:35 PM	Lulin	2020/03/26	Telescope is operated between 12:50 - 13:38, 15:03 - 16:00, and after 19:30 UT. Clouds pass almost all night.	2MUCD_11188	8:01:00		
+2020/04/02 03:00:46 PM	Lulin	2020/03/27	Sky is clear between 14:00 to 17:44 UT, and cloud pass after 17：03 UT.	2MUCD_11188	2:56:00		
+2020/04/02 03:02:23 PM	Lulin	2020/03/28	Sky is clear all night.	LP_315-53	2:41:00	2MUCD_11188	6:45:00
+2020/04/02 03:03:27 PM	Lulin	2020/03/29	Sky is clear all night.	LP_315-53	2:19:00	2MUCD_11188	6:28:00
+2020/04/02 03:04:22 PM	Lulin	2020/03/30	Sky is clear UT13:40-14:36 but cloudy.	2MUCD_11188	0:46:00		
+2020/04/02 03:04:41 PM	Lulin	2020/03/31	Cloudy and raining. No observation.				
+2020/04/02 03:06:16 PM	Lulin	2020/04/01	Cloudy and raining. No observation.				
+2020/04/03 08:05:34 AM	Schulman	2020/04/02	Clear night, no issues.	2MUCD 11188	8:00:00		
+2020/04/27 11:04:41 AM	Lulin	2020/04/16	"Sky is clear all night.
+"	2MUCD 10014	8:22:00		
+2020/04/27 11:07:10 AM	Lulin	2020/04/17	Sky is clear clear before UT15:45 and sometimes cloud pass after midnight.	2MUCD 10014	8:15:00		
+2020/04/27 11:08:53 AM	Lulin	2020/04/18	No observation.				
+2020/04/27 11:09:32 AM	Lulin	2020/04/19	"Cloud frequently passes all night.
+"	2MUCD 10014	8:20:00		
+2020/04/27 11:10:25 AM	Lulin	2020/04/20	Sky is clear between 18:10 to 18:47 UT and after 19:36 UT. Cloud passes between 18:47 to 19:36 UT.	2MUCD 10014	2:11:00		
+2020/04/27 11:11:07 AM	Lulin	2020/04/21	Observation is executed before 15:11, 15:47 to 16:17, 16:49 to 18:17 UT. Cloud passes almost all night.	2MUCD 10014	5:13:00		
+2020/04/27 11:11:30 AM	Lulin	2020/04/22	"Cloudy and rain. No observaiton.
+"				
+2020/04/27 11:12:29 AM	Lulin	2020/04/23	"Cloudy and rain. No observation.
+"				
+2020/04/27 11:12:42 AM	Lulin	2020/04/24	"Cloudy and rain. No observation.
+"				
+2020/04/27 11:12:53 AM	Lulin	2020/04/25	"Cloudy and rain. No observation.
+"				
+2020/04/29 02:15:53 PM	Schulman	2020/04/28	The guider was not working, weather seemed fine.	LP 315-53	5:00:00		
+2020/05/06 11:37:57 AM	Schulman	2020/05/05	Cleak skies, no issues	LP 326-21	7:00:00		
+2020/05/20 08:48:18 PM	Calar Alto	2020/05/20	"Clear night. 
+It took 40 mins to find the primary target. From that, very good night."	LP388-55	5:00:00		
+2020/05/21 08:29:32 PM	Calar Alto	2020/05/21	Very good conditions. Primary target has been observed the whole night.	LP388-55	6:00:00		
+2020/05/22 08:40:54 PM	Calar Alto	2020/05/22	Very good weather conditions. Clear sky. New moon.	LP388-55	6:00:00		
+2020/05/23 08:06:10 PM	Calar Alto	2020/05/23	We had thick clouds for ~30min, then bit cloudy the whole night.	LP388-55	3:30:00	None	0:00:00
+2020/05/24 08:25:29 PM	Calar Alto	2020/05/24	Clear night.	LP388-55	5:00:00		
+2020/05/24 09:29:03 PM	Schulman	2020/05/23	Clear night, but stalled some time near sunrise.	LP 326-21			
+2020/05/25 08:19:12 PM	Calar Alto	2020/05/25	Weather conditions overall: Cloudy throughout most of the night. I stopped the science loop at 22:52 UT and after that was cloudy all the time until the end of the Astro night.	LP388-55	1:46:00		
+2020/05/26 02:01:07 AM	Schulman	2020/05/24	Clear night, stopped early to try and avoid tracking errors.	LP 326-21	7:00:00		
+2020/05/26 08:24:25 PM	Calar Alto	2020/05/26	Clear skies all night. Primary target was observed all night. Data (Images → MPIA_0035.fits to MPIA_0555.fits) looks like a bit saturated. 	LP388-55	6:00:00		
+2020/05/27 09:32:25 PM	Calar Alto	2020/05/27	Clear skies all night. Primary target observed the whole night. Had to stop Science loop at some point to focus the telescope. 	LP388-55	3:10:00		
+2020/05/28 05:22:53 PM	Lulin	2020/05/17	The observation started after 12:00UT with thin cloud passed. Sky was clear between 15:12 to 17:15 and after 19:25 UT.	LP_388-55	4:48:00	LP_326-21	0:57:00
+2020/05/28 05:23:37 PM	Lulin	2020/05/18	cloudy and raing. no observation.				
+2020/05/28 05:25:03 PM	Lulin	2020/05/19	cloudy and raining. no observation.				
+2020/05/28 05:25:26 PM	Lulin	2020/05/19	cloudy and raining. no observation.				
+2020/05/28 05:25:50 PM	Lulin	2020/05/20	cloudy and raining. no observation.				
+2020/05/28 05:26:07 PM	Lulin	2020/05/21	cloudy and raining. no observation.				
+2020/05/28 05:26:21 PM	Lulin	2020/05/22	cloudy and raining. no observation.				
+2020/05/28 05:27:16 PM	Lulin	2020/05/23	cloudy and raining. no observation.				
+2020/05/28 05:30:43 PM	Lulin	2020/05/24	Thin cloud passed between 18:10 to 19:33 UT.	LP_388-55	0:43:00		
+2020/05/28 05:31:09 PM	Lulin	2020/05/25	No Eden target is observed. Only bias and flat are taken. Thin cloud passed between 14:53 to 15:17 UT.				
+2020/05/28 08:22:33 PM	Calar Alto	2020/05/28	Cleat skies all night. Primary target observed the whole night. I decreased exposure time to 25s and to 15s and changed focus to 46.1 5 0.1	LP388-55	4:17:00		
+2020/05/29 08:35:57 AM	Schulman	2020/05/28	Clear night, no issues.	LP 326-21	6:00:00		
+2020/05/29 08:15:37 PM	Calar Alto	2020/05/29	Clear skies all night. Primary target observed the whole night. Exposure time to 15 seconds.	LP388-55	5:52:00		
+2020/05/30 08:09:06 PM	Calar Alto	2020/05/30	Clear skies all night. Primary target observed the whole night using an exposure time of 15s. 	LP388-55	5:50:00		
+2020/05/31 08:12:51 PM	Calar Alto	2020/05/31	Bad weather before the astro night. Observed primary target for more than five hours.	LP 388-55	5:20:00		
+2020/06/01 08:02:51 PM	Calar Alto	2020/01/06	Observed the primary target for more than five hours	LP 388-55	5:40:00		
+2020/06/04 11:09:35 PM	Schulman	2020/06/03	Clear sky, poor seeing.	LP 335-12			
+2020/09/03 08:12:42 PM	Calar Alto	2020/09/02	Clear sky. Both 2MASSI J0019457+521317 & LP 229-30 were very faint and almost unobservable.	LP 229-30	4:00:00		
+2020/09/03 08:14:34 PM	Calar Alto	2020/09/03	Clear sky. both targets were faint. observed only one target.	LP 335-12	5:00:00	LP 647-13	0:00:00
+2020/09/04 10:07:48 PM	Calar Alto	2020/09/04	Clear sky. observed both targets LP229-30 & 2MASS J05153094+5911184	LP229-30	6:00:00	2MASS J05153094+5911184	3:00:00
+2020/09/05 09:19:19 PM	Calar Alto	2020/09/05	Good conditions. Could observe both targets.	LP 229-30	2:29:00	LSPM J0357+4107	5:00:00
+2020/09/06 09:33:11 PM	Calar Alto	2020/09/06	Good conditions during the whole night. Observed LP229-30 first then 2MASSI J0019457+521317. 	LP 229-30	3:00:00	LSPM J0124+6819	4:40:00
+2020/09/07 06:12:33 PM	Calar Alto	2020/09/07	First 2 hours of the night went well. However, we stopped observing from 22:11 UT due to bad weather conditions (high humidity)	 LP 229-30	2:13:00		
+2020/09/08 10:00:11 PM	Calar Alto	2020/09/08	"Weather conditions: Very humid (99%) and Dew point equal to the temperature result in no observations in the first part of the night.
+From 22:24 UT, we could observe (38 min for LP 229-30 and 5h21min for 2MASSI J0019457+521317)"	LP 229-30	0:38:00	2MASSI J0019457+521317	5:21:00
+2020/09/09 09:32:48 PM	Calar Alto	2020/09/10	Observed 2MASSI J0019457+521317 all night with good weather conditions.		8:00:00		0:00:00
+2020/09/10 09:29:56 PM	Calar Alto	2020/09/10	Clear sky all night, good conditions. Observed 2MASSI J0019457+521317 all night.	2MASSI J0019457+521317	9:00:00		
+2020/09/11 09:48:31 PM	Calar Alto	2020/09/11	first clouded out, then good conditions. Delay from positioning issues. Observed 2MASSI J0019457+521317		5:30:00		
+2020/09/12 09:49:53 PM	Calar Alto	2020/09/12	relatively clear skies throughout. Observed 2MASSI J0019457+521317 all night.	2MASSI J0019457	8:00:00		
+2020/09/13 10:21:13 PM	Calar Alto	2020/09/13	clear with periods of clouds. Observed LP 335-12, LP 822-7, 2MASSI J0019457+521317, STARLINK-1405		5:00:00	LP 822-7	1:30:00
+2020/09/19 10:47:55 PM	Calar Alto	2020/09/19	Clear skies. Observed LP229-30, TOI 1468.02, SpaceX STARLINK-1436 (VISORSAT),  SpaceX STARLINK-1406 ,  SpaceX STARLINK-1401, SpaceX STARLINK-1436 2nd pass	LP229-30	1:30:00		3:30:00
+2020/09/20 09:13:50 PM	Calar Alto	2020/09/20	Clear sky at the beginning of the night. Observed TOI 1468.02; at 2:48 UT dome was closed due to clouds. Could not observe STARLINKs.	TOI 1468.02	3:00:00		
+2020/09/21 09:17:14 PM	Calar Alto	2020/09/21	Clear sky the whole night. Observed LP 647-13, then switched to 2MASS J05153094+5911184	LP 647-13	1:00:00	2MASS J05153094+5911184	3:00:00
+2020/09/22 10:05:26 PM	Calar Alto	2020/09/22	Very cloudy. We could not observe the tess follow-up. We managed to get some data for LP647 and LP229	LP647 	2:00:00	LP229	1:10:00
+2020/09/23 08:03:10 PM	Calar Alto	2020/09/23	It was clear during the first hour, after that it became cloudy/windy and the dome had to be closed. 	LP229-30	1:15:00		
+2020/09/24 09:01:47 PM	Calar Alto	2020/09/24	Night lost due to weather				
+2020/09/25 03:18:01 PM	Lulin	2020/09/16	Sometimes thin cloud passes before UT 16:00. The sky becomes clear after UT 16:00.		6:28:20		
+2020/09/25 03:19:56 PM	Lulin	2020/09/17	Thin cloud passes at UT 11:30-13:21, 13:21-13:51, 14:46-17:49, and 20:32-20:40.		2:16:14		6:56:30
+2020/09/25 03:22:48 PM	Lulin	2020/09/18	Thin cloud passes at UT 18:10-19:17, and then the sky becomes cloudy.		1:52:00		
+2020/09/25 03:23:55 PM	Lulin	2020/09/19	Cloudy and raining. No observation.				
+2020/10/05 10:15:53 PM	Calar Alto	2020/10/05	observed 2 Eden and 1 Tess target as well as 3 satellites	2MASSI J0019457+521317	3:30:00	LP 229-30	1:00:00
+2020/10/06 10:01:34 PM	Calar Alto	2020/10/06	observed one target for 9h	2MASSI J0019457+521317	9:00:00		
+2020/10/09 09:15:52 PM	Calar Alto	2020/10/09	Good weather conditions. Observed TOI1468-02 the entire night	TOI1468-02	6:30:00		
+2020/10/20 06:11:17 AM	Kuiper	2020/10/19	Observed main target for 7 hours then chose a new secondary because late-night target was very near hard declination limit	LP 647-13	7:00:00	G 100-29	3:00:00
+2020/10/21 05:43:32 AM	Kuiper	2020/10/20	Observed TOI1468 transit, then primary for 5.5 hours and secondary for 2.5	LP 647-13	5:30:00	G 100-29	2:30:00
+2020/10/22 07:32:34 PM	Calar Alto	2020/10/22	No observations were obtained. Humidity 100% during the whole night				
+2020/10/24 10:03:04 PM	Calar Alto	2020/10/24	Good weather the whole night; observed TOI 1468.02 for five hours and 2MASS J05153094+5911184 for four hours	TOI 1468.02	4:40:00	2MASS J05153094+5911184	3:50:00
+2020/10/25 06:30:40 PM	Calar Alto	2020/10/25	Good weather at the beginning of the night, strong winds later on; observed TOI 1749.01 until dome had to be closed (21:16UT); could not open again after that	TOI 1749.01	2:02:00		
+2020/10/27 09:45:17 PM	Calar Alto	2020/10/27	Good weather all night, observed two targets.	LP 647-13	2:30:00	2MASS J05153094+5911184	4:30:00
+2020/10/28 10:19:07 PM	Calar Alto	2020/10/28	Good weather all night. Observed LP 647-13 and 2MASS J05153094+5911184. LP 647-13 too close to the Moon to be observed.	LP 647-13	3:30:00	2MASS J05153094+5911184	7:30:00
+2020/10/29 10:19:24 PM	Calar Alto	2020/10/29	All night clear, observed 2 targets	LP229-30	2:30:00	  2MASS J05153094+5911184	6:30:00
+2020/10/30 08:58:28 PM	Calar Alto	2020/10/30	Clear on the first half. After 1:30am it presented several technical/weather problems	LP229-30	2:30:00	2MASS J05153094+5911184	2:00:00
+2020/10/31 10:38:46 PM	Calar Alto	2020/10/31	Technical issues in the first hour that got solved. Good weather all night. Observed LP 229-30 then 2MASS J05153094+5911184. LP 647-13 was too close to the Moon to be observed.	 LP 229-30	1:49:00	2MASS J05153094+5911184	7:51:00
+2020/11/01 10:12:27 PM	Calar Alto	2020/11/01	Good weather all night. Observed LP 229-30 and 2MASS. Poor seeing limited the signal to noise on 2MASS	LP 229-30	3:00:00		8:00:00
+2020/11/04 05:07:38 PM	Calar Alto	2020/11/04	No observations possible at all due to 100% humidity and clouds throughout the night.				
+2020/11/05 06:50:01 PM	Calar Alto	2020/11/05	Bad weather conditions, no observations.	None		None	
+2020/11/17 06:20:56 AM	Kuiper	2020/11/16	Secondary target for 3 hours, caught TOI 1468.01 transit for 3.5 hours, then main target for 4.5 hours until clouds forced slightly early closure	LSPM J0419+4233	4:30:00	LSPM J0140+2701	3:00:00
+2020/11/18 04:32:44 PM	Kuiper	2020/11/17	Observed secondary target for 2 hours and then primary target for rest of night	LSPM J0419+4233	9:30:00	LSPM J0140+2701	2:00:00
+2020/11/19 06:02:40 AM	Kuiper	2020/11/18	Observed secondary target for 2 hours then main target for rest of night	LSPM J0419+4233	9:30:00	LSPM J0140+2701	2:00:00
+2020/11/20 05:37:13 AM	Kuiper	2020/11/19	Observed secondary target for 2 hours, then TOI 1468 transit and main target for rest of night	LSPM J0419+4233	6:30:00	LPSM J0140+2701	2:00:00
+2020/11/22 10:25:51 PM	Calar Alto	2020/11/22	Perfect conditions. Mostly observed primary EDEN target LSPM J0419+4233; between 1:00 and 2:15 (UT) observed TOI 1468 before it disappeared below horizon	LSPM J0419+4233	10:30:00	TOI 1468	1:15:00
+2020/11/25 09:40:16 PM	Calar Alto	2020/11/25	Very poor weather conditions all night				
+2020/12/14 03:16:37 AM	Lulin	2020/10/19	cloudy and no observation.				
+2020/12/14 03:19:37 AM	Lulin	2020/10/18	cloudy and no observation.				
+2020/12/14 03:21:04 AM	Lulin	2020/10/19	Sky was clear after 16:00 UT		2:46:00	2MASS_J0515+5911	1:13:00
+2020/12/14 03:21:27 AM	Lulin	2020/10/20	cloudy and no observation				
+2020/12/14 03:21:49 AM	Lulin	2020/10/21	cloudy and no observation				
+2020/12/14 03:22:15 AM	Lulin	2020/10/22	cloudy and rain. no observation.				
+2020/12/14 03:22:36 AM	Lulin	2020/10/23	cloudy and rain. no observation				
+2020/12/14 03:22:53 AM	Lulin	2020/10/24	cloudy and rain. no observation				
+2020/12/14 03:24:41 AM	Lulin	2020/10/25	Sky was clear before 11:52 and after 17:35 UT. There were think cloud around 11:52-13:14, 13:50 - 14:25, and 15:16 - 15:40 UT.	LP_229-30	1:00:00		7:20:00
+2020/12/14 03:26:07 AM	Lulin	2020/10/25	Sky was clear before 11:52 and after 17:35 UT. There were think cloud around 11:52-13:14, 13:50 - 14:25, and 15:16 - 15:40 UT.	2MASS_J05153094+5911184 (The third target this date)	1:50:00		
+2020/12/14 03:27:05 AM	Lulin	2020/10/26	There was thin cloud before 12:52 UT. The sky was clear after that.		0:40:00		6:03:00
+2020/12/14 03:28:14 AM	Lulin	2020/10/26	There was thin cloud before 12:52 UT. The sky was clear after that.	2MASS_J05153094+5911184 (The third target this date)	2:10:00		
+2020/12/14 03:29:44 AM	Lulin	2020/11/02	Cloudy all night.		7:00:00		2:11:00
+2020/12/14 03:33:57 AM	Lulin	2020/11/03	There was thin cloud all night and foggy around 14:24 - 15:30 UT.		7:23:00		2:40:00
+2020/12/14 03:35:46 AM	Lulin	2020/11/04	There was thin cloud all night		2:04:00	LSPM J0419+4233	8:20:00
+2020/12/14 03:36:01 AM	Lulin	2020/11/05	cloudy and no observation.				
+2020/12/14 03:36:18 AM	Lulin	2020/11/06	cloudy and rain. no observation.				
+2020/12/14 03:36:56 AM	Lulin	2020/11/07	The sky was clear after 18:00 UT	LSPM J0419+4233	3:06:00		
+2020/12/14 03:38:12 AM	Lulin	2020/11/17	Sky was clear all night.	LSPM J0419+4233	9:39:00		
+2020/12/14 03:39:11 AM	Lulin	2020/11/18	Sky was clear all night.		1:22:00	LSPM J0419+4233	9:24:00
+2020/12/14 03:40:12 AM	Lulin	2020/11/19	Sky was clear all night		8:02:00	LSPM J0419+4233	2:19:00
+2020/12/15 07:51:39 AM	Lulin	2020/12/01	The sky was clear around 11:00 - 17:00 UT, and had thin cloud around 17:00 - 21:30 UT.		0:22:00	LSPM J0419+4233	8:54:00
+2020/12/15 07:52:11 AM	Lulin	2020/12/01	The sky was clear around 11:00 - 17:00 UT, and had thin cloud around 17:00 - 21:30 UT.	LP_315-53 (The thrid target)	0:20:00		
+2020/12/15 07:52:32 AM	Lulin	2020/12/02	cloudy and no observation.				
+2020/12/15 07:53:42 AM	Lulin	2020/12/03	Around 10:40 - 16:00 UT clouds past. Around 16:00 - 17:41 UT sky was clear. Around 17:41 - 18:49 clouds past.	LSPM_J0140+2701	7:23:00		0:37:00
+2020/12/15 07:54:20 AM	Lulin	2020/12/04	Around 15:50 - 16:55 UT the sky was clear. Around 17:38 - 20:21 the sky was clear except 18:00 - 18:05 and 18:35 - 18:45 UT. Around 20:04 - 20:09 UT clouds past.	LSPM J0419+4233	6:14:00		
+2020/12/15 07:55:22 AM	Lulin	2020/12/05	The sky was clear after 17:30 UT.	LSPM J0419+4233	1:20:00		0:02:00
+2020/12/15 07:56:05 AM	Lulin	2020/12/06	The sky become clear after 18:00 UT.	LSPM J0419+4233	9:42:00		
+2020/12/15 07:56:42 AM	Lulin	2020/12/07	The sky was clear after UT 16:00, but sometimes thin clouds past.	LSPM J0419+4233	0:17:00		
+2021/01/08 01:11:29 PM	Lulin	2021/01/03	The sky was clear all night.	LSPM J0419+4233	5:21:00	LP_315-53	0:20:00
+2021/01/08 01:12:32 PM	Lulin	2021/01/04	The sky was clear all night.	LSPM J0419+4233	6:36:00	LP_315-53	3:04:00
+2021/01/08 01:13:25 PM	Lulin	2021/01/05	The sky was clear all night.	LSPM J0419+4233	6:04:00	LP_315-53	3:05:00
+2021/01/29 08:54:03 PM	Calar Alto	2021/01/29	Good weather at beginning, then wind speeded-up and the dome had to be closed.	LSPM J0419+4233	6:00:00	TOI1803	1:30:00
+2021/01/31 05:46:32 PM	Calar Alto	2021/01/31	Could not open the dome due to wind and humidity	LSPM J0419+4233	0:00:00		
+2021/02/02 12:02:44 AM	Calar Alto	2021/02/01	Observed one target for 6 hours until it was low in the sky. Clouds didn't allow further observation until late in the night. Second target observed for about 1 hour.	LSPM J0419+4233	6:20:00	2MUCD 20596	0:50:00
+2021/02/02 11:30:19 PM	Calar Alto	2021/02/02	Great weather condition in the early night. Then a bit cloudy.  Managed to observe 3 sources: LSPM J0419+4233 (early night),  LSPM J0903+0540 (mid-night) and 2MUCD 20596 (late night).	LSPM J0419+4233	5:58:00		2:55:00
+2021/02/03 06:26:23 PM	Calar Alto	2021/02/03	No observations could have been conducted due to very thick deck of clouds for the whole night.				
+2021/02/04 09:33:13 PM	Calar Alto	2021/02/04	Observed two targets despite clouds and later strong winds. Interruptions due to wind warnings.	LSPM J0419+4233	1:11:56	LSPM J0903+0540	2:39:58
+2021/02/05 03:21:41 PM	Calar Alto	2021/02/05	No observations were possible due to clouds, rain, temperatures close to dew point and also some wind.				
+2021/02/05 10:18:42 PM	Calar Alto	2021/02/05	After not observing due to bad weather until 02:30 UT, the sky cleared afterwards. Interruption of one more hour due to bad weather and stopped early at 05:09 UT due to high humdity.	2MUCD 20596	1:04:00		
+2021/02/14 10:14:34 PM	Calar Alto	2021/02/14	Clear night; LSPM J0419 & 2MUCD 20596 observed	LSPM J0419+4233	6:40:00	2MUCD 20596	4:30:00
+2021/02/14 10:14:38 PM	Calar Alto	2021/02/14	Clear night; LSPM J0419 & 2MUCD 20596 observed	LSPM J0419+4233	6:40:00	2MUCD 20596	4:30:00
+2021/02/15 11:43:11 PM	Calar Alto	2021/02/15	Mostly clear (thin clouds; lost the first target for 3 hours; condition for the second target was good)	LSPM J0419+4233	2:00:00	2MUCD 20596	5:00:00
+2021/02/16 10:27:48 PM	Calar Alto	2021/02/16	Clear night; observed LSPM J0419+4233 & 2MUCD 20596	LSPM J0419+4233	4:00:00	2MUCD 20596	4:00:00
+2021/02/17 10:26:08 PM	Calar Alto	2021/02/17	Best conditions, observed two targets for 5h and 4.5h	LSPM J0419+4233	5:09:00	2MUCD 20596	4:28:00
+2021/02/18 10:47:06 PM	Calar Alto	2021/02/18	Initially light clouds, increasing from 20:30-21:45 UT, afterwards clear sky until sunrise. Observed LSPM J0419+4233 and 2MUCD 20596	LSPM J0419+4233	6:00:00	2MUCD 20596	4:40:00
+2021/02/19 10:35:43 PM	Calar Alto	2021/02/19	High altitude thin clouds illuminated by the moon during the first half of night. Mostly clear on the second half	LSPM J0419+4233	4:00:00	2MUCD 20596	5:00:00
+2021/02/20 09:15:53 PM	Calar Alto	2021/02/20	Cloudy at beginning. Bad weather shortly after start of astronight forced to close the telescope.	TOI2445	1:30:00		
+2021/02/21 09:28:23 PM	Calar Alto	2021/02/21	Bad weather conditions (initially snow, then hight humidity and clouds), opening the dome was impossible for the whole night.				
+2021/02/22 07:41:55 PM	Calar Alto	2021/02/22	No observations due to bad weather conditions.				
+2021/02/23 08:30:41 PM	Calar Alto	2021/02/23	No observations due to bad weather conditions.				
+2021/03/13 09:21:11 PM	Calar Alto	2021/03/13	Bad weather the whole night	LP 220-13	1:00:00		
+2021/03/14 10:13:13 PM	Calar Alto	2021/03/14	Clear night 	LP315-53	4:08:00	LP220-13	4:00:00
+2021/03/16 12:00:11 AM	Calar Alto	2021/03/15	Clear night. Observed: LSPMJ0419+4233, LP315-53, LP220-13	LSPM J0419+4233	2:53:00	LP315-53	6:00:00
+2021/03/17 02:13:30 AM	Calar Alto	2021/03/16	Clear/slightly hazy night. Observed: LSPMJ0419+4233, LP315-53, LP220-13	LSPM J0419+4233	2:00:00	LP315-53	3:00:00
+2021/03/17 10:54:53 PM	Calar Alto	2021/03/17	Great weather. Clear sky.	LSPM J0419+4233	3:00:00	LP 315-53 then TOI 2015	7:00:00
+2021/03/18 06:34:03 PM	Calar Alto	2021/03/18	Bad weather all night.				
+2021/03/19 06:47:41 PM	Calar Alto	2021/03/19	Bad weather all night				
+2021/04/03 12:27:12 PM	Lulin	2021/01/03	The sky was clear all night	LSPM J0419+4233	6:21:00		0:21:00
+2021/04/03 12:28:23 PM	Lulin	2021/01/04	The sky was clear all night	LSPM J0419+4233	6:36:00		3:04:00
+2021/04/03 12:29:23 PM	Lulin	2021/01/05	The sky was clear all night.	LSPM J0419+4233	6:04:00		3:05:00
+2021/04/03 12:29:57 PM	Lulin	2021/01/06	cloudy and no observation				
+2021/04/03 12:31:14 PM	Lulin	2021/01/07	The sky was clear before 13:55 UT, cloud passed between 14:15 to 15:03 UT		1:58:00		1:23:00
+2021/04/03 12:31:36 PM	Lulin	2021/01/08	cloudy and no observation				
+2021/04/03 12:32:43 PM	Lulin	2021/01/09	The sky was clear between 12:30 to 20:30 UT, cloud passed between 14:50 to 15:07 and after 20:19 UT		0:57:00		6:51:00
+2021/04/03 12:33:09 PM	Lulin	2021/01/10	cloudy and no observation				
+2021/04/03 12:33:29 PM	Lulin	2021/01/11	cloudy and no observation				
+2021/04/03 12:34:30 PM	Lulin	2021/02/16	The sky was clear UT17:40-18:10 and UT20:00-20:40 , 20:45-21:30		1:01:00		
+2021/04/03 12:35:37 PM	Lulin	2021/02/17	cloudy and no observation				
+2021/04/03 12:36:36 PM	Lulin	2021/02/18	The sky was clear all night	LSPM J0419+4233	3:57:00		5:11:00
+2021/04/03 12:37:46 PM	Lulin	2021/02/19	thin cloud pass all night	LSPM J0419+4233	3:18:00		5:22:00
+2021/04/03 12:38:40 PM	Lulin	2021/02/20	The sky was clear but thin cloud pass all night	LSPM J0419+4233	3:29:00		5:14:00
+2021/04/03 12:39:53 PM	Lulin	2021/02/22	not scheduled observation date. Only Flat was taken. The weather was clear all night.				
+2021/04/03 12:41:13 PM	Lulin	2021/03/16	The sky was  clear after  UT11:20	LSPM J0419+4233	1:26:00		5:46:00
+2021/04/03 12:42:11 PM	Lulin	2021/03/17	The sky was clear all night 	LSPM J0419+4233	2:03:00		5:44:00
+2021/04/03 12:43:03 PM	Lulin	2021/03/18	The sky was clear all night but thin cloud pass between UT 12:40-13:40, 16:13, 17:13-18:14, 18:37-20:05 	LSPM J0419+4233	2:11:00		4:30:00
+2021/04/03 12:44:10 PM	Lulin	2021/03/19	The sky was clear all night, but thin cloud pass before UT 12:27, 13:58-14:30, 15:00-15:32, 16:25-17:10, after 19:22	LSPM J0419+4233	2:14:00		5:06:00
+2021/04/03 12:45:17 PM	Lulin	2021/03/20	The sky was clear after UT 12:30	LSPM J0419+4233	1:08:00		4:28:00
+2021/04/10 05:09:42 AM	Kuiper	2021/04/09	Observed primary target for 6 hours and secondary target for 3.5 hours	LP 315-53	6:00:00	LP 220-13	3:30:00
+2021/04/10 09:47:12 PM	Calar Alto	2021/04/11	Initially too hight humidity, then observed LP 315-53 for about 2 hours, then issues with telescope; finally observed LP 220-13 for about 3 hours	LP 315-53	2:00:00	LP 220-13	3:30:00
+2021/04/11 05:01:11 AM	Kuiper	2021/04/10	Observed two targets for 6 and 3.5 hours	LP 315-53	6:00:00	LP 220-13	3:15:00
+2021/04/11 09:39:11 PM	Calar Alto	2021/04/11	Observed LP 315-53 for 2h45, then LP 220-13 for 3h30	LP 315-53	2:45:00	LP 220-13	3:30:00
+2021/04/12 04:58:15 AM	Kuiper	2021/04/11	Observed main target for 3 hours then closed due to clouds	LP 315-53	3:00:00		
+2021/04/12 10:23:10 PM	Calar Alto	2021/04/12	No observation for half of the night due to clouds. Then, observation of the two targets possible but still cloudy.	LP315-53	1:49:00	LP220-13	2:32:00
+2021/04/13 06:34:55 PM	Calar Alto	2021/04/13	Observations possible for LP315 only (early astro noght for 1.5 h). Then, I had to close the dome due to bad weather conditions (clouds). Neither TOI226 nor LP220 have been observed.	LP 315-53	1:33:00		
+2021/04/14 06:49:15 PM	Calar Alto	2021/04/14	No observations due to bad weather				
+2021/04/15 06:41:45 PM	Calar Alto	2021/04/15	Bad weather all night. No observations were made				
+2021/04/16 06:46:38 PM	Calar Alto	2021/04/16	No observations possible due to high humidity (fog)				
+2021/05/01 04:36:14 AM	Kuiper	2021/04/30	Observed LP 220-13 the whole night (8.5 hours)	LP 220-13	8:30:00		
+2021/05/03 04:07:24 AM	Kuiper	2021/05/01	Observed LP 220-13 for 6 hours around clouds at start and end	LP 220-13	6:00:00		
+2021/05/03 04:08:02 AM	Kuiper	2021/05/02	Observed LP 220-13 for whole night	LP 220-13	8:30:00		
+2021/05/04 04:27:30 AM	Kuiper	2021/05/04	Observed main target for full night (8.5 hours)	LP 220-13	8:30:00		
+2021/06/30 11:11:13 AM	Lulin	2021/05/01	cloudy all night. no observation				
+2021/06/30 11:11:45 AM	Lulin	2021/05/02	cloudy and no observation				
+2021/06/30 11:12:14 AM	Lulin	2021/05/02	bad weather and no observation				
+2021/06/30 11:12:33 AM	Lulin	2021/05/04	bad weather and no observation				
+2021/06/30 11:13:37 AM	Lulin	2021/05/04	The sky was clear after UT 18:50	LP_220-13	1:10:00		
+2021/06/30 11:14:28 AM	Lulin	2021/05/03	no observation				
+2021/06/30 11:15:25 AM	Lulin	2021/05/05	The sky was clear after UT 18:50	LP_220-13	1:10:00		
+2021/06/30 11:16:26 AM	Lulin	2021/05/06	clear all night but very thin cloud passed sometimes	LP_220-13	3:55:00		
+2021/06/30 11:16:59 AM	Lulin	2021/06/01	no observation				
+2021/06/30 11:18:42 AM	Lulin	2021/06/02	cloudy all night	LP_220-13	4:10:00		
+2021/06/30 11:21:32 AM	Lulin	2021/06/03	clear after UT 12:35	LP_220-13	5:34:00		
+2021/06/30 11:23:01 AM	Lulin	2021/05/06	clear all night but very thin cloud passed sometimes	LP_315-53	3:20:00	LP_220-13	3:55:00
+2021/08/30 09:27:01 PM	Calar Alto	2021/08/30	Lost 4 hours due to technical issues, then about 3.5hrs of observations went smooth	2MASSI J0019457+521317	3:30:00		
+2021/08/31 07:27:02 PM	Calar Alto	2021/08/31	There were a lot of interruptions on the science loop due to bad weather	2MASSI J0019457+521317	5:00:00		
+2021/09/01 06:48:28 PM	Calar Alto	2021/09/01	Target observed for one hour then closed due to humidity	2MASSI J0019457+521317	1:00:00		
+2021/09/03 09:17:30 PM	Calar Alto	2021/02/09	Cloudy at the beginning, remote remained red even when the skies cleared. E-mailed to have it turn green and then observed target for ~7h	2MASSI J0019457+521317	7:00:00		
+2021/09/04 12:46:35 PM	Calar Alto	2021/09/04	Clear night. Observed target for the whole Astro night (8h).	2MASSI J0019457+521317	8:00:00		
+2021/09/04 09:27:43 PM	Calar Alto	2021/09/04	Observed target for 8h 	2MASSI J0019457+521317	8:00:00		
+2021/09/05 07:59:10 PM	Calar Alto	2021/09/05	Closed almost at the beginning of Astro night due to clouds	2MASSI J0019457+521317	0:50:00		
+2021/09/06 08:33:50 PM	Calar Alto	2021/09/06	Dome closed very early due to clouds. Only ~ 2h20 min of science.	2MASSIJ0019457+521317	2:20:00		
+2021/09/07 09:27:55 PM	Calar Alto	2021/09/07	Started late due to bad weather, went clear after that	2MASSI J0019457	5:00:00		
+2021/09/08 09:01:51 PM	Calar Alto	2021/09/08	Observed main target all night	2MASSI J0019457+521317	7:30:00		
+2021/09/29 09:51:18 PM	Calar Alto	2021/09/29	Whole night was clear	LP229-30	4:00:00	LSPM J0124+6819	5:00:00
+2021/09/30 09:50:03 PM	Calar Alto	2021/09/30	Mostly clear	LP229-30	2:40:00	LP647-13	3:00:00
+2021/10/01 09:45:32 PM	Calar Alto	2021/10/01	Observed only secondary target due to heavy clouds in the start of the astro night & interrupted science loop once, again due to heavy clouds.	LSPM J0124+6819	5:30:00		
+2021/10/02 09:47:44 PM	Calar Alto	2021/10/02	Observed both targets for 3.5 and 5.5h respectively. Somewhat cloudy at times.	 LP229-30	3:30:00	LSPM J0124+6819	5:30:00
+2021/10/03 02:49:32 PM	Calar Alto	2021/10/03	No observations possible due to bad weather				
+2021/10/04 09:52:06 PM	Calar Alto	2021/10/04	Observed two targets, the whole night was mostly clear.	LP229-30	2:30:00	LSPM J0124+6819	6:00:00
+2021/10/05 09:50:27 PM	Calar Alto	2021/10/05	Cloudy at the beginning, clear in the second half	LSPM J0124+6819	4:47:00		
+2021/10/06 02:28:54 AM	Lulin	2021/09/22	The sky was cloudy around UT 14:50 - 18:34, and  became clear after UT 18:34.	LP_229-30	1:00:00	GJ1083	3:26:00
+2021/10/06 02:30:08 AM	Lulin	2021/09/23	Clouds pass by all night.	LP_229-30	1:45:00	GJ1083	2:53:00
+2021/10/06 02:32:09 AM	Lulin	2021/09/24	Clouds pass by all night.	LP_229-30	0:33:00	GJ1083	1:37:00
+2021/10/06 02:35:32 AM	Lulin	2021/09/25	The observation after 16:00 UT had thin cloud and the sky was clear after 18:30 UT.	GJ1083	3:47:00		
+2021/10/06 02:36:43 AM	Lulin	2021/09/26	The sky was clear after 13:30 UT.	LP_229-30	2:44:00	GJ1083	3:39:00
+2021/10/06 02:38:43 AM	Lulin	2021/09/27	The sky was clear after UT 16:30.	LP_229-30	0:49:00	LP_647-13	3:44:00
+2021/10/06 02:40:05 AM	Lulin	2021/09/28	Fog pass between UT12:03-13:00, and the sky was clear in other time.	LP_647-13	3:34:00		
+2021/10/06 02:41:45 AM	Lulin	2021/09/29	The sky was clear all night.	TOI_1749	4:09:00	LP_647-13	4:06:00
+2021/10/06 02:43:56 AM	Lulin	2021/09/30	The sky was coudy around UT 12:40-21:00 and 14:00-14:15.	TOI_1749	3:39:00	LP_647-13	3:04:00
+2021/10/06 09:36:28 PM	Calar Alto	2021/10/06	All night clear	LP229-30	4:00:00	LSPM J0124+6819	5:00:00
+2021/10/07 09:49:03 PM	Calar Alto	2021/10/07	Clear the whole night. Observed 2 targets	LP 229-30 	3:45:00	LSPM J0124+6819	5:43:00
+2021/10/08 09:46:33 PM	Calar Alto	2021/10/08	Clear the whole night. Observed 2 targets	LP229-30	3:47:00	LSPM J0124+6819	5:44:00
+2021/10/09 09:52:04 PM	Calar Alto	2021/10/09	observed first target for 2 hours and 40 minutes,  second target for 1 hour and 10 minutes, and then closed due to humidity and clouds	LP229-30	2:40:00	GJ806 and LSPM J0124+6819	4:32:00
+2021/10/12 11:02:29 PM	Lulin	2021/06/04	bad weather and no observation				
+2021/10/12 11:02:49 PM	Lulin	2021/10/12	rain and no observation				
+2021/10/16 12:03:18 PM	Lulin	2021/10/13	cloudy and rain. no observation.				
+2021/10/16 12:03:41 PM	Lulin	2021/10/14	cloudy and no observation.				
+2021/10/19 12:03:40 PM	Lulin	2021/10/15	cloudy	LP-229-30	0:34:00		
+2021/10/19 01:10:12 PM	Lulin	2021/10/16	The weather condition: UT1300-1520 clear, 1520-1600 cloudy 1600-1640 clear, 1640-1730 cloudy, 1730-1750 clear, 1750-1844 cloudy, 1844-1930 sometimes cloud pass, after 1930 cloudy.	LP-647-13	0:04:00	GJ1083	3:22:00
+2021/10/19 01:12:57 PM	Lulin	2021/10/17	The weather condition: UT1230 - 1254 cloud pass, 1254 -1434 clear, 1434-1732 cloudy, 1732-1757 clear, 1757-1840 thin cloud, after 1840 cloudy.	LP_229-30	1:45:00		
+2021/10/28 06:17:02 PM	Calar Alto	1993/10/28	Just a few frames, very bad weather	GJ806	0:10:00		
+2021/10/29 05:12:31 PM	Calar Alto	2021/10/29	Could not observe whole night due to clouds				
+2021/10/30 05:05:44 PM	Calar Alto	2021/10/30	Could not observe due to bad weather				
+2021/10/31 06:04:41 PM	Calar Alto	2021/10/31	No observations due to bad weather				
+2021/11/01 03:25:09 PM	Calar Alto	2021/11/01	No observations at all due to bad weather				
+2021/11/02 05:44:24 PM	Calar Alto	2021/11/02	Dome closed all night due to high winds and clouds				
+2021/11/10 04:00:02 AM	Calar Alto	2021/11/09	Only 2h of science due to bad weather (clouds & high humidity)	GJ806	0:00:00	2MASS J05392474+4038437	2:00:00
+2021/11/10 10:27:45 PM	Bok	2021/11/10	Clear sky, but the temperature was close to the dew point. Technical issues that took time to be solved early in the night → issues with the auto-guider and the remote control of the filter wheel. For the second target, no technical issues.	GJ806	1:30:00	2MASS J05392474+4038437	5:40:00
+2021/11/11 10:33:17 PM	Calar Alto	2021/11/11	Observed two targets for the whole night 	GJ806 	3:00:00	2MASS J05392474+4038437	6:40:00
+2021/11/12 09:53:58 PM	Calar Alto	2021/11/12	No observations possible due to humidity and clouds				
+2021/11/13 06:40:07 PM	Calar Alto	2021/10/13	High humidity never allowed for opening dome				
+2021/11/14 10:36:57 PM	Calar Alto	2021/11/14	Observed both targets, lost some time from 1st due to autoguider issues.	GJ806	4:00:00	2MASS J05392474+4038437	6:25:00
+2021/11/15 10:12:41 PM	Calar Alto	2021/11/15	Clear night. Beginning of the astro night was a bit humid, but improved from 00:00 UT. Many technical issues (auto-guider and filter wheel) made me waste at least 2 hours of observational time.	GJ806	3:57:00	2MASS J05392474+4038437	4:30:00
+2022/01/11 10:10:04 AM	Lulin	2021/12/21	no observation				
+2022/01/11 10:12:04 AM	Lulin	2021/12/22	The sky was clear before UT17:50 and then cloudy.	2MASS J04402325-0530082	5:01:00	2MASS J04351612-1606574	2:00:00
+2022/01/11 10:13:09 AM	Lulin	2021/12/23	It was cloudy all night.	2MASS J04351612-1606574	1:16:00		
+2022/01/11 10:14:26 AM	Lulin	2021/12/24	The sky was clear between UT 12:20-14:15.	2MASS J04351612-1606574	0:48:00		
+2022/01/11 10:14:56 AM	Lulin	2021/12/25	rain and no observation				
+2022/01/11 10:15:18 AM	Lulin	2021/12/26	cloudy and no observation.				
+2022/01/11 10:20:42 AM	Lulin	2021/12/27	no observation				
+2022/01/11 10:21:54 AM	Lulin	2021/12/28	The sky was clear all night.	2MASS J04351612-1606574	3:00:00	2MASS J08533619-0329321	5:47:00
+2022/01/11 10:23:07 AM	Lulin	2021/12/29	The sky was clear all night.	2MASS J04402325-0530082	3:45:00	2MASS J08533619-0329321	5:41:00
+2022/01/11 10:24:29 AM	Lulin	2021/12/30	The sky was clear between UT 11:15 to 13:50 and cloud/fog pass by sometimes, and clear after UT 14:40.	2MASS J04402325-0530082	3:50:00	2MASS J08533619-0329321	4:39:00
+2022/01/11 10:25:22 AM	Lulin	2021/12/31	The sky was clear all night.	2MASS J04402325-0530082	1:57:00		
+2022/01/11 10:26:25 AM	Lulin	2022/01/01	The sky was clear all night.	2MASS J04402325-0530082	4:15:00	2MASS J08255285+6902016	4:41:00
+2022/01/11 10:27:34 AM	Lulin	2022/01/02	The sky was clear all night.	2MASS J08255285+6902016	0:19:00	2MASS J04402325-0530082	2:21:00
+2022/01/11 10:28:49 AM	Lulin	2022/01/02	The sky was clear all night.	2MASS J04351612-1606574	1:44:00	2MASS J08533619-0329321	4:43:00
+2022/01/11 10:29:54 AM	Lulin	2022/01/03	The sky was clear after UT10:50.	2MASS J04351612-1606574	3:28:00	2MASS J08255285+6902016	5:36:00
+2022/01/11 10:31:19 AM	Lulin	2022/01/04	It was cloudy all the time.	2MASS J04351612-1606574	1:03:00	2MASS J08533619-0329321	2:33:00
+2022/01/11 10:32:10 AM	Lulin	2022/01/05	The weather was unstable and no observation.				
+2022/01/11 10:32:32 AM	Lulin	2022/01/06	rain and no observation				
+2022/02/09 06:58:52 AM	Lulin	2022/02/03	cloudy and no observation.				
+2022/02/09 06:59:51 AM	Lulin	2022/02/04	The sky was clear all night.	2MASS_J08255285+6902016	9:00:00		
+2022/02/09 07:01:24 AM	Lulin	2022/02/05	The sky was clear all night.	2MASS_J08533619-0329321	6:57:00	2MASS_J08255285+6902016	2:16:00
+2022/02/09 07:02:44 AM	Lulin	2022/02/06	The sky was clear most of the time, but thin clouds passed between UT 18:50-18:57 and after UT 19:26.	2MASS_J08255285+6902016	8:28:00		
+2022/02/27 05:30:00 PM	Calar Alto	2022/02/27	No observation due to bad weather				
+2022/02/28 10:29:28 PM	Calar Alto	2022/02/28	High humidity, difficult conditions, finally one hour on late-night target.	2MASS J14280419+1356137	1:08:00		
+2022/03/01 10:43:40 PM	Calar Alto	2022/03/01	Clear sky, good conditions, fully observed two targets	 2MASS J08255285+6902016	4:50:00	2MASS J14280419+1356137	5:27:00
+2022/03/07 10:02:14 AM	Lulin	2022/02/25	The sky was clear all night. 	2MASS_J11505787+4822395	3:41:00	2MASS_J14280419+1356137	4:19:00
+2022/03/07 10:03:16 AM	Lulin	2022/02/26	The sky was clear all night.	2MASS_J05392474+4038437	3:57:00	2MASS_J14280419+1356137	4:38:00
+2022/03/07 10:04:32 AM	Lulin	2022/02/27	The sky was clear all night.	2MASS_J11505787+4822395	3:57:00	2MASS_J14280419+1356137	4:58:00
+2022/03/07 10:05:39 AM	Lulin	2022/02/28	The sky was clear all night. 	2MASS_J05392474+4038437	0:36:00	2MASS_J11505787+4822395	2:27:00
+2022/03/07 10:06:47 AM	Lulin	2022/02/28	The sky was clear all night. (This is the third target this day)	2MASS_J14280419+1356137	5:30:00		
+2022/03/07 10:08:01 AM	Lulin	2022/03/01	The sky was clear all night.	2MASS_J05392474+4038437	0:52:00	2MASS_J11505787+4822395	3:37:00
+2022/03/07 10:08:54 AM	Lulin	2022/03/01	The sky was clear all night. (This is the third target this day)	2MASS_J14280419+1356137	3:54:00		
+2022/03/07 10:09:49 AM	Lulin	2022/03/02	The sky was clear, but cloud past after 20:30 UT.	2MASS_J11505787+4822395	3:38:00	2MASS_J14280419+1356137	5:50:00
+2022/04/25 08:51:33 PM	Calar Alto	2022/04/25	Clear night	2MASS_J15242475+2925318	7:00:00		
+2022/04/29 08:51:51 PM	Calar Alto	2022/04/29	Half of the night lost to bad weather	2MASS_J15242475+2925318	4:00:00		
+2022/04/30 08:54:05 PM	Calar Alto	2022/04/30	Good weather throughout the night, allowed observation of target from beginning to end of Astro Night	2MASS_J15242475+2925318	6:45:00		
+2022/05/01 08:55:18 PM	Calar Alto	2022/05/01	Weather was mostly ok, except at the beginning for a bit more than an hour.	2MASS_J15242475+2925318	5:30:00		
+2022/05/02 07:13:23 PM	Calar Alto	2022/05/02	No observations due to bad weather				
+2022/05/04 05:33:05 PM	Calar Alto	2022/05/02	no observations due to bad weather.				
+2022/05/04 05:33:32 PM	Calar Alto	2022/05/04	no observations due to bad weather.				
+2022/05/17 02:23:53 PM	Lulin	2022/05/03	cloudy and rain. no observation.				
+2022/05/17 02:24:10 PM	Lulin	2022/05/04	cloudy and rain. no observation.				
+2022/05/17 02:25:44 PM	Lulin	2022/05/05	There was thin cloud past after UT16:30.	2MASS_J15345704-1418486	3:08:00		
+2022/05/17 02:26:59 PM	Lulin	2022/05/06	The sky was cloudy all night.	2MASS_J15345704-1418486	3:34:00		
+2022/05/17 02:27:24 PM	Lulin	2022/05/07	The sky was cloudy and no observation.				
+2022/05/17 02:27:53 PM	Lulin	2022/05/08	cloudy and no observation.				
+2022/05/17 02:29:25 PM	Lulin	2022/05/09	cloudy all night	2MASS_J15345704-1418486	3:20:00	2MASS_J15242475+2925318	1:03:00

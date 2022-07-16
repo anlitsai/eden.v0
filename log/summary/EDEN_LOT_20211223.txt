@@ -1,0 +1,21 @@
+Target:	2MASS_J04351612-1606574
+Observation start (UT): 2021-12-23 20:05:30
+Observation end (UT):	2021-12-23 21:21:27
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	58
+
+
+
+Bias:		Bias-20211223@212955-000S.fts to Bias-20211223@213056-000S.fts
+		
+Dark:	30s	Dark-20211223@213307-030S.fts to Dark-20211223@213840-030S.fts
+	60s	Dark-20211223@213918-060S.fts to Dark-20211223@214922-060S.fts
+
+Flat:		N/A
+
+Additional Dark for Flat:	N/A
+
+Weather report:	It was cloudy all night.
+

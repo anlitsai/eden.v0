@@ -1,0 +1,29 @@
+Target:	2MASS_J11505787+4822395
+Observation start (UT): 2022-03-02 11:42:48
+Observation end (UT):	2022-03-02 15:20:14
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 5sec
+Frames:	431
+
+Target:	2MASS_J14280419+1356137
+Observation start (UT): 2022-03-02 15:22:46
+Observation end (UT):	2022-03-02 21:12:48
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	268
+
+
+
+Bias:		N/A
+		
+Dark:		N/A
+ 
+Flat:	 5s	20220302-001eden.fits to 20220302-010eden.fits
+
+Additional Dark for Flat:	 5s	20220302-001d5s.fits to 20220302-010d5s.fits
+				 5s	20220302-001d5s-1.fits to 20220302-010d5s-1.fits
+
+Weather report:	The sky was clear, but cloud past after 20:30 UT.
+

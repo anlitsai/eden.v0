@@ -1,0 +1,21 @@
+Target:	2MASS_J20443743+1517352
+Observation start (UT): 2022-07-04 17:54:51
+Observation end (UT):	2022-07-04 18:53:26
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	60
+
+
+
+
+Bias:		Bias-20220704@194200-000S.fts to Bias-20220704@194309-000S.fts
+		
+Dark:		Dark-20220704@194327-060S.fts to Dark-20220704@203205-060S.fts
+ 
+Flat:	 	N/A
+
+Additional Dark for Flat:	 N/A
+
+Weather report:	Target was observed between UT 17:30 to 18:50 with thin cloud.
+

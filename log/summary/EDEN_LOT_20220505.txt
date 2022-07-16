@@ -1,0 +1,28 @@
+Target:	2MASS_J15345704-1418486
+Observation start (UT): 2022-05-05 17:13:45
+Observation end (UT):	2022-05-05 20:21:57
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	148
+
+
+
+
+Bias:		Bias-20220505@210911-000S.fts to Bias-20220505@211018-000S.fts
+		
+Dark:	 60s	Dark-20220505@211103-060S.fts to Dark-20220505@222837-060S.fts	
+ 
+Flat:	 30s	AutoFlat-20220505@204403-Eden-Bin1-001.fts to AutoFlat-20220505@204941-Eden-Bin1-004.fts
+	 27.58s	AutoFlat-20220505@205023-Eden-Bin1-005.fts
+	 23.01s	AutoFlat-20220505@205102-Eden-Bin1-006.fts
+	 19.48s	AutoFlat-20220505@205136-Eden-Bin1-007.fts
+	 16.75s	AutoFlat-20220505@205206-Eden-Bin1-008.fts
+	 14.64s	AutoFlat-20220505@205234-Eden-Bin1-009.fts
+	 12.92s	AutoFlat-20220505@205301-Eden-Bin1-010.fts
+
+
+Additional Dark for Flat:	 N/A
+
+Weather report:	There was thin cloud past after UT16:30.
+

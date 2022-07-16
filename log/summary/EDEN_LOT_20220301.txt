@@ -1,0 +1,40 @@
+Target:	2MASS_J05392474+4038437
+Observation start (UT): 2022-03-01T11:16:11
+Observation end (UT):	2022-03-01T12:08:20
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 30sec
+Frames:	72
+
+Target:	2MASS_J11505787+4822395
+Observation start (UT): 2022-03-01 12:27:59
+Observation end (UT):	2022-03-01 16:04:01
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 5sec
+Frames:	664
+
+Target:	2MASS_J14280419+1356137
+Observation start (UT): 2022-03-01 17:22:30
+Observation end (UT):	2022-03-01 21:16:59
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	180
+
+
+
+Bias:		Bias-20220301@215659-000S.fts to Bias-20220301@215805-000S.fts
+		
+Dark:	 5s	Dark-20220301@215813-005S.fts to Dark-20220302@010828-005S.fts
+	30s	Dark-20220301@215909-030S.fts to Dark-20220302@010923-030S.fts
+	60s	Dark-20220301@215945-060S.fts to Dark-20220302@011000-060S.fts
+
+Flat:	 5s	20220301-001eden.fits to 20220301-010eden.fits
+	30s	20220301_flat-001eden.fits to 20220301_flat-006eden.fits
+
+Additional Dark for Flat:	 5s	20220301-001d5s.fits to 20220301-010d5s.fits
+				10s	20220301-001d10s.fits to 20220301-010d10s.fits
+
+Weather report:	The sky was clear all night. 
+

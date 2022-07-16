@@ -1,0 +1,21 @@
+Target:	2MASS_J15345704-1418486
+Observation start (UT): 2022-05-06 16:44:02
+Observation end (UT):	2022-05-06 20:18:54
+Camera:	SOPHIA
+Filter:	GG495
+Exptime(s): 60sec
+Frames:	110
+
+
+
+
+Bias:		Bias-20220506@205726-000S.fts to Bias-20220506@205836-000S.fts
+		
+Dark:	 60s	Dark-20220506@210010-060S.fts to Dark-20220506@224108-060S.fts	
+ 
+Flat:	 30s	AutoFlat-20220505@204403-Eden-Bin1-001.fts to AutoFlat-20220505@204941-Eden-Bin1-004.fts
+
+Additional Dark for Flat:	 N/A
+
+Weather report:	cloudy all night
+
